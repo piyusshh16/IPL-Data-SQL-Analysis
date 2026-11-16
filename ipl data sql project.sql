@@ -1,242 +1,957 @@
-CREATE DATABASE ipl;
+CREATE DATABASE IPL;
 
-CREATE TABLE teams (
-    team_id INT PRIMARY KEY,
-    team_name VARCHAR(100) NOT NULL,
-    home_city VARCHAR(50),
-    home_ground VARCHAR(150),
-    founded_year INT
+CREATE TABLE TEAMS (
+	TEAM_ID INT PRIMARY KEY,
+	TEAM_NAME VARCHAR(100) NOT NULL,
+	HOME_CITY VARCHAR(50),
+	HOME_GROUND VARCHAR(150),
+	FOUNDED_YEAR INT
 );
 
-CREATE TABLE players (
-    player_id INT PRIMARY KEY,
-    player_name VARCHAR(100) NOT NULL,
-    team_id INT,
-    role VARCHAR(50),
-    batting_style VARCHAR(50),
-    bowling_style VARCHAR(50),
-    nationality VARCHAR(50),
-    age INT,
-    auction_price_lakh NUMERIC(10,1),
-
-    FOREIGN KEY (team_id) REFERENCES teams(team_id)
-);
-DROP TABLE players;
-CREATE TABLE players(
-player_id SERIAL PRIMARY KEY,
-player_name VARCHAR(50),
-team_id INT,
-role  VARCHAR(50),
-batting_style  VARCHAR(50),
-bowling_style  VARCHAR(50),
-nationality  VARCHAR(50),
-age INT,
-auction_price_lakh NUMERIC
+CREATE TABLE PLAYERS (
+	PLAYER_ID INT PRIMARY KEY,
+	PLAYER_NAME VARCHAR(100) NOT NULL,
+	TEAM_ID INT,
+	ROLE VARCHAR(50),
+	BATTING_STYLE VARCHAR(50),
+	BOWLING_STYLE VARCHAR(50),
+	NATIONALITY VARCHAR(50),
+	AGE INT,
+	AUCTION_PRICE_LAKH NUMERIC(10, 1),
+	FOREIGN KEY (TEAM_ID) REFERENCES TEAMS (TEAM_ID)
 );
 
-CREATE TABLE matches (
-    match_id INT PRIMARY KEY,
-    season INT,
-    match_date DATE,
-    city VARCHAR(50),
-    venue VARCHAR(150),
-    team1_id INT,
-    team2_id INT,
-    toss_winner_team_id INT,
-    toss_decision VARCHAR(10),
-    winner_team_id INT,
-    loser_team_id INT,
-    result_type VARCHAR(20),
-    result_margin INT,
-    team1_score INT,
-    team2_score INT,
-    player_of_match_id INT,
-    team1_sixes INT,
-    team2_sixes INT,
-    team1_fours INT,
-    team2_fours INT,
+DROP TABLE PLAYERS;
 
-    FOREIGN KEY (team1_id) REFERENCES teams(team_id),
-    FOREIGN KEY (team2_id) REFERENCES teams(team_id),
-    FOREIGN KEY (toss_winner_team_id) REFERENCES teams(team_id),
-    FOREIGN KEY (winner_team_id) REFERENCES teams(team_id),
-    FOREIGN KEY (loser_team_id) REFERENCES teams(team_id),
-    FOREIGN KEY (player_of_match_id) REFERENCES players(player_id)
+CREATE TABLE PLAYERS (
+	PLAYER_ID SERIAL PRIMARY KEY,
+	PLAYER_NAME VARCHAR(50),
+	TEAM_ID INT,
+	ROLE VARCHAR(50),
+	BATTING_STYLE VARCHAR(50),
+	BOWLING_STYLE VARCHAR(50),
+	NATIONALITY VARCHAR(50),
+	AGE INT,
+	AUCTION_PRICE_LAKH NUMERIC
 );
 
-
-
-
-COPY teams
-FROM '/Users/Shared/postgres_import/IPL_Teams.csv'
-WITH (
-    FORMAT CSV,
-    HEADER TRUE,
-    DELIMITER ',',
-    ENCODING 'UTF8'
+CREATE TABLE MATCHES (
+	MATCH_ID INT PRIMARY KEY,
+	SEASON INT,
+	MATCH_DATE DATE,
+	CITY VARCHAR(50),
+	VENUE VARCHAR(150),
+	TEAM1_ID INT,
+	TEAM2_ID INT,
+	TOSS_WINNER_TEAM_ID INT,
+	TOSS_DECISION VARCHAR(10),
+	WINNER_TEAM_ID INT,
+	LOSER_TEAM_ID INT,
+	RESULT_TYPE VARCHAR(20),
+	RESULT_MARGIN INT,
+	TEAM1_SCORE INT,
+	TEAM2_SCORE INT,
+	PLAYER_OF_MATCH_ID INT,
+	TEAM1_SIXES INT,
+	TEAM2_SIXES INT,
+	TEAM1_FOURS INT,
+	TEAM2_FOURS INT,
+	FOREIGN KEY (TEAM1_ID) REFERENCES TEAMS (TEAM_ID),
+	FOREIGN KEY (TEAM2_ID) REFERENCES TEAMS (TEAM_ID),
+	FOREIGN KEY (TOSS_WINNER_TEAM_ID) REFERENCES TEAMS (TEAM_ID),
+	FOREIGN KEY (WINNER_TEAM_ID) REFERENCES TEAMS (TEAM_ID),
+	FOREIGN KEY (LOSER_TEAM_ID) REFERENCES TEAMS (TEAM_ID),
+	FOREIGN KEY (PLAYER_OF_MATCH_ID) REFERENCES PLAYERS (PLAYER_ID)
 );
 
-COPY players
-FROM '/Users/Shared/postgres_import/IPL_Players.csv'
-WITH (
-    FORMAT CSV,
-    HEADER TRUE,
-    DELIMITER ',',
-    ENCODING 'UTF8'
-);
+COPY TEAMS
+FROM
+	'/Users/Shared/postgres_import/IPL_Teams.csv'
+WITH
+	(
+		FORMAT CSV,
+		HEADER TRUE,
+		DELIMITER ',',
+		ENCODING 'UTF8'
+	);
 
+COPY PLAYERS
+FROM
+	'/Users/Shared/postgres_import/IPL_Players.csv'
+WITH
+	(
+		FORMAT CSV,
+		HEADER TRUE,
+		DELIMITER ',',
+		ENCODING 'UTF8'
+	);
 
+COPY MATCHES
+FROM
+	'/Users/Shared/postgres_import/IPL_Matches.csv'
+WITH
+	(
+		FORMAT CSV,
+		HEADER TRUE,
+		DELIMITER ',',
+		ENCODING 'UTF8'
+	);
 
-COPY matches
-FROM '/Users/Shared/postgres_import/IPL_Matches.csv'
-WITH (
-    FORMAT CSV,
-    HEADER TRUE,
-    DELIMITER ',',
-    ENCODING 'UTF8'
-);
+SELECT
+	*
+FROM
+	TEAMS;
 
-SELECT * FROM teams;
-SELECT * FROM players ;
-SELECT * FROM matches ;
+SELECT
+	*
+FROM
+	PLAYERS;
 
+SELECT
+	*
+FROM
+	MATCHES;
 
-SELECT * FROM players
-ORDER BY player_name ASC;
-
-
-
+SELECT
+	*
+FROM
+	PLAYERS
+ORDER BY
+	PLAYER_NAME ASC;
 
 -- QUESTION 1: Display all players from the Players table.
-
-SELECT * FROM players ;
+SELECT
+	*
+FROM
+	PLAYERS;
 
 -- QUESTION 2: Display only player_name, role, and nationality.
-
-SELECT player_name , role, nationality FROM players ;
+SELECT
+	PLAYER_NAME,
+	ROLE,
+	NATIONALITY
+FROM
+	PLAYERS;
 
 -- QUESTION 3: Find all players whose role is Batsman.
-
-
-SELECT * FROM players 
-WHERE role = 'Batsman';
+SELECT
+	*
+FROM
+	PLAYERS
+WHERE
+	ROLE = 'Batsman';
 
 -- QUESTION 4: Find all players older than 30 years.
-
-SELECT * FROM players 
-WHERE age>30;
+SELECT
+	*
+FROM
+	PLAYERS
+WHERE
+	AGE > 30;
 
 -- QUESTION 5: Find players with an auction price greater than ₹100 lakh.
-
-SELECT * FROM players 
-WHERE auction_price_lakh >100;
+SELECT
+	*
+FROM
+	PLAYERS
+WHERE
+	AUCTION_PRICE_LAKH > 100;
 
 -- QUESTION 6: Find all unique nationalities in the Players table.
-
-SELECT DISTINCT nationality FROM players;
+SELECT DISTINCT
+	NATIONALITY
+FROM
+	PLAYERS;
 
 -- QUESTION 7: Find players who are Bowler and younger than 30.
-
-SELECT * FROM players 
-WHERE role ='Bowler' AND age>30;
+SELECT
+	*
+FROM
+	PLAYERS
+WHERE
+	ROLE = 'Bowler'
+	AND AGE > 30;
 
 -- QUESTION 8: Find players who are either Batsman or Wicketkeeper.
-
-SELECT * FROM players 
-WHERE role ='Bowler' OR role = 'Wicketkeeper';
+SELECT
+	*
+FROM
+	PLAYERS
+WHERE
+	ROLE = 'Bowler'
+	OR ROLE = 'Wicketkeeper';
 
 -- QUESTION 9: Find the 10 most expensive players.
-
-SELECT * FROM players 
-ORDER BY auction_price_lakh DESC
-LIMIT 10;
+SELECT
+	*
+FROM
+	PLAYERS
+ORDER BY
+	AUCTION_PRICE_LAKH DESC
+LIMIT
+	10;
 
 -- QUESTION 10: Find the 10 youngest players.
-
-SELECT * FROM players 
-ORDER BY age ASC
-LIMIT 10;
+SELECT
+	*
+FROM
+	PLAYERS
+ORDER BY
+	AGE ASC
+LIMIT
+	10;
 
 -- QUESTION 11: Count the total number of players.
-
-SELECT COUNT(player_name)
-FROM players;
+SELECT
+	COUNT(PLAYER_NAME)
+FROM
+	PLAYERS;
 
 -- QUESTION 12: Find the average auction price of all players.
-
-SELECT AVG(auction_price_lakh)
-FROM players;
+SELECT
+	AVG(AUCTION_PRICE_LAKH)
+FROM
+	PLAYERS;
 
 -- QUESTION 13: Find the highest auction price.
-
-SELECT MAX(auction_price_lakh) AS highest_auc_price
-FROM players;
+SELECT
+	MAX(AUCTION_PRICE_LAKH) AS HIGHEST_AUC_PRICE
+FROM
+	PLAYERS;
 
 --OR
-
-SELECT auction_price_lakh AS highest_auc_price 
-FROM players
-ORDER BY auction_price_lakh DESC
-LIMIT 1 ;
+SELECT
+	AUCTION_PRICE_LAKH AS HIGHEST_AUC_PRICE
+FROM
+	PLAYERS
+ORDER BY
+	AUCTION_PRICE_LAKH DESC
+LIMIT
+	1;
 
 -- QUESTION 14: Find the lowest auction price.
-
-SELECT MIN(auction_price_lakh) AS MIN_auc_price
-FROM players;
+SELECT
+	MIN(AUCTION_PRICE_LAKH) AS MIN_AUC_PRICE
+FROM
+	PLAYERS;
 
 --OR
-
-SELECT auction_price_lakh AS LOWEST_auc_price 
-FROM players
-ORDER BY auction_price_lakh ASC
-LIMIT 1 ;
-
+SELECT
+	AUCTION_PRICE_LAKH AS LOWEST_AUC_PRICE
+FROM
+	PLAYERS
+ORDER BY
+	AUCTION_PRICE_LAKH ASC
+LIMIT
+	1;
 
 -- QUESTION 15: Find the average age of all players.
-
-
-SELECT AVG(age)
-FROM players;
-
-
-
+SELECT
+	AVG(AGE)
+FROM
+	PLAYERS;
 
 -- QUESTION 16: Count the number of players in each role.
+SELECT
+	ROLE,
+	COUNT(PLAYER_NAME)
+FROM
+	PLAYERS
+GROUP BY
+	ROLE;
 
 -- QUESTION 17: Count players from each nationality.
+SELECT
+	NATIONALITY,
+	COUNT(PLAYER_NAME)
+FROM
+	PLAYERS
+GROUP BY
+	NATIONALITY;
 
 -- QUESTION 18: Find the average auction price for each role.
+SELECT
+	ROLE,
+	ROUND(AVG(AUCTION_PRICE_LAKH), 2) AS AVG_AUC_PRICE_IN_LAKH
+FROM
+	PLAYERS
+GROUP BY
+	ROLE;
 
 -- QUESTION 19: Find the average age of players for each nationality.
+SELECT
+	NATIONALITY,
+	ROUND(AVG(AGE), 2) AS AVG_AGE_NAT
+FROM
+	PLAYERS
+GROUP BY
+	NATIONALITY;
 
 -- QUESTION 20: Find roles whose average auction price is greater than ₹100 lakh.
+SELECT
+	ROLE,
+	ROUND(AVG(AUCTION_PRICE_LAKH), 2)
+FROM
+	PLAYERS
+GROUP BY
+	ROLE
+HAVING
+	AVG(AUCTION_PRICE_LAKH) > 100;
 
 -- QUESTION 21: Count the total number of matches in each season.
+SELECT
+	SEASON,
+	COUNT(MATCH_ID) AS TOTAL_MATCHES
+FROM
+	MATCHES
+GROUP BY
+	SEASON
+ORDER BY
+	SEASON ASC;
 
 -- QUESTION 22: Find the highest team1_score in each season.
+SELECT
+	SEASON,
+	MAX(TEAM1_SCORE) AS HIGHEST_SCORE
+FROM
+	MATCHES
+GROUP BY
+	SEASON
+ORDER BY
+	SEASON;
 
 -- QUESTION 23: Find the average team1_score for each season.
+SELECT
+	SEASON,
+	ROUND(AVG(TEAM1_SCORE), 0) AS AVERAGE_SCORE
+FROM
+	MATCHES
+GROUP BY
+	SEASON
+ORDER BY
+	SEASON;
 
 -- QUESTION 24: Find the number of matches played in each city.
+SELECT
+	CITY,
+	COUNT(MATCH_ID) AS TOTAL_MATCHES
+FROM
+	MATCHES
+GROUP BY
+	CITY;
 
 -- QUESTION 25: Find cities that hosted more than 50 matches.
+SELECT
+	CITY,
+	COUNT(MATCH_ID) AS HOSTED_MORE_THAN_50_MATCHES
+FROM
+	MATCHES
+GROUP BY
+	CITY
+HAVING
+	COUNT(MATCH_ID) > 50;
 
 -- QUESTION 26: JOIN Players and Teams and display each player's name with their team name.
+SELECT
+	P.PLAYER_NAME,
+	T.TEAM_NAME
+FROM
+	PLAYERS P
+	JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID;
 
 -- QUESTION 27: Find the total number of players belonging to each team.
+SELECT
+	T.TEAM_NAME,
+	COUNT(P.PLAYER_NAME) AS TOTAL_PLAYERS
+FROM
+	PLAYERS P
+	JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID
+GROUP BY
+	T.TEAM_NAME;
 
 -- QUESTION 28: Find the average auction price of players for each team.
+SELECT
+	T.TEAM_NAME,
+	ROUND(AVG(P.AUCTION_PRICE_LAKH), 2) AS AVERAGE_AUC_PRICE
+FROM
+	PLAYERS P
+	JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID
+GROUP BY
+	T.TEAM_NAME
+ORDER BY
+	AVERAGE_AUC_PRICE ASC;
 
 -- QUESTION 29: Find the highest auction price in each team.
+SELECT
+	T.TEAM_NAME,
+	MAX(P.AUCTION_PRICE_LAKH) AS HIGHEST_AUC_PRICE
+FROM
+	PLAYERS P
+	JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID
+GROUP BY
+	T.TEAM_NAME
+ORDER BY
+	HIGHEST_AUC_PRICE DESC;
 
 -- QUESTION 30: Display each match with the names of Team 1 and Team 2 instead of their IDs.
+SELECT
+	M.MATCH_DATE,
+	T1.TEAM_NAME AS TEAM1_NAME,
+	T2.TEAM_NAME AS TEAM2_NAME
+FROM
+	MATCHES M
+	JOIN TEAMS T1 ON M.TEAM1_ID = T1.TEAM_ID
+	JOIN TEAMS T2 ON M.TEAM2_ID = T2.TEAM_ID;
 
 -- QUESTION 31: Display each match ID along with the winning team's name.
+SELECT
+	M.MATCH_ID,
+	T.TEAM_NAME AS WINNER
+FROM
+	MATCHES M
+	JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID;
 
 -- QUESTION 32: Find the total number of matches won by each team.
+SELECT
+	T.TEAM_NAME,
+	COUNT(M.WINNER_TEAM_ID) AS WINNING_MATCHES
+FROM
+	MATCHES M
+	JOIN TEAMS T ON T.TEAM_ID = M.WINNER_TEAM_ID
+GROUP BY
+	T.TEAM_NAME
+ORDER BY
+	WINNING_MATCHES DESC;
 
 -- QUESTION 33: Find the total number of tosses won by each team.
+SELECT
+	T.TEAM_NAME,
+	COUNT(M.TOSS_WINNER_TEAM_ID) AS TOSSWINS_HMT
+FROM
+	MATCHES M
+	JOIN TEAMS T ON T.TEAM_ID = M.TOSS_WINNER_TEAM_ID
+GROUP BY
+	T.TEAM_NAME
+ORDER BY
+	TOSSWINS_HMT DESC;
 
 -- QUESTION 34: Display the name of the Player of the Match for every match.
+SELECT
+	M.MATCH_ID,
+	M.SEASON,
+	M.MATCH_DATE,
+	P.PLAYER_NAME AS POM_NAME
+FROM
+	MATCHES M
+	JOIN PLAYERS P ON M.PLAYER_OF_MATCH_ID = P.PLAYER_ID;
 
 -- QUESTION 35: Find the top 10 players with the most Player of the Match awards.
+SELECT
+	P.PLAYER_NAME,
+	COUNT(M.PLAYER_OF_MATCH_ID) AS MOST_POM_AWARD
+FROM
+	MATCHES M
+	JOIN PLAYERS P ON P.PLAYER_ID = M.PLAYER_OF_MATCH_ID
+GROUP BY
+	P.PLAYER_NAME
+ORDER BY
+	MOST_POM_AWARD DESC
+LIMIT
+	10;
+
+-- QUESTION 36: Find players whose auction price is greater than the overall average auction price.
+SELECT
+	PLAYER_NAME,
+	ROUND(AVG(AUCTION_PRICE_LAKH), 2) AS AV_AUC_PRICE
+FROM
+	PLAYERS
+GROUP BY
+	PLAYER_NAME
+HAVING
+	AVG(AUCTION_PRICE_LAKH) > (
+		SELECT
+			AVG(AUCTION_PRICE_LAKH)
+		FROM
+			PLAYERS
+	)
+ORDER BY
+	AV_AUC_PRICE DESC;
+
+--OR
+SELECT
+	PLAYER_NAME,
+	AUCTION_PRICE_LAKH AS AV_AUC_PRICE
+FROM
+	PLAYERS
+WHERE
+	AUCTION_PRICE_LAKH > (
+		SELECT
+			AVG(AUCTION_PRICE_LAKH)
+		FROM
+			PLAYERS
+	)
+ORDER BY
+	AV_AUC_PRICE DESC;
+
+-- QUESTION 37: Find players whose auction price is greater than the average price of players in their own team.
+SELECT
+	P.PLAYER_NAME,
+	P.AUCTION_PRICE_LAKH
+FROM
+	PLAYERS P
+WHERE
+	P.AUCTION_PRICE_LAKH > (
+		SELECT
+			AVG(P2.AUCTION_PRICE_LAKH)
+		FROM
+			PLAYERS P2
+		WHERE
+			P.TEAM_ID = P2.TEAM_ID
+	);
+
+-- QUESTION 38: Use CASE to classify players as Premium (price >= 150 lakh), Mid Range (75–149.9 lakh), and Budget (below 75 lakh).
+SELECT
+	PLAYER_NAME,
+	CASE
+		WHEN AUCTION_PRICE_LAKH >= 150 THEN 'PREMIUM'
+		WHEN AUCTION_PRICE_LAKH BETWEEN 75 AND 149.9  THEN 'Mid_Range'
+		ELSE 'Budget'
+	END AS P_CLASSIFICATION
+FROM
+	PLAYERS;
+
+-- QUESTION 39: Find the second-most expensive player in the entire dataset.
+SELECT
+	PLAYER_NAME,
+	MAX(AUCTION_PRICE_LAKH) AS SEC_HIGH
+FROM
+	PLAYERS
+GROUP BY
+	PLAYER_NAME
+HAVING
+	MAX(AUCTION_PRICE_LAKH) < (
+		SELECT
+			MAX(AUCTION_PRICE_LAKH)
+		FROM
+			PLAYERS
+	)
+ORDER BY
+	SEC_HIGH DESC
+LIMIT
+	1;
+
+--OR
+SELECT
+	PLAYER_NAME,
+	AUCTION_PRICE_LAKH AS SEC_HIGH
+FROM
+	PLAYERS
+WHERE
+	AUCTION_PRICE_LAKH < (
+		SELECT
+			MAX(AUCTION_PRICE_LAKH)
+		FROM
+			PLAYERS
+	)
+ORDER BY
+	SEC_HIGH DESC
+LIMIT
+	1;
+
+-- QUESTION 40: Find the second-most expensive player from each team.
+WITH
+	RANKED_PLAYERS AS (
+		SELECT
+			T.TEAM_NAME,
+			P.PLAYER_NAME,
+			P.AUCTION_PRICE_LAKH,
+			DENSE_RANK() OVER (
+				PARTITION BY
+					P.TEAM_ID
+				ORDER BY
+					P.AUCTION_PRICE_LAKH DESC
+			) AS RANKING
+		FROM
+			PLAYERS P
+			JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID
+	)
+SELECT
+	TEAM_NAME,
+	PLAYER_NAME,
+	AUCTION_PRICE_LAKH
+FROM
+	RANKED_PLAYERS
+WHERE
+	RANKING = 2;
+
+-- QUESTION 41: Use RANK() to rank players by auction price.
+SELECT
+	PLAYER_NAME,
+	AUCTION_PRICE_LAKH,
+	RANK() OVER (
+		ORDER BY
+			AUCTION_PRICE_LAKH DESC
+	)
+FROM
+	PLAYERS;
+
+-- QUESTION 42: Use DENSE_RANK() to rank players within each team according to auction price.
+SELECT
+	P.PLAYER_NAME,
+	T.TEAM_NAME,
+	P.AUCTION_PRICE_LAKH,
+	DENSE_RANK() OVER (
+		PARTITION BY
+			T.TEAM_NAME
+		ORDER BY
+			P.AUCTION_PRICE_LAKH DESC
+	) AS PRICE_RANK
+FROM
+	PLAYERS P
+	JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID;
+
+-- QUESTION 43: Use ROW_NUMBER() to number players within each team from highest to lowest auction price.
+SELECT
+	P.PLAYER_NAME,
+	T.TEAM_NAME,
+	P.AUCTION_PRICE_LAKH,
+	ROW_NUMBER() OVER (
+		PARTITION BY
+			T.TEAM_NAME
+		ORDER BY
+			P.AUCTION_PRICE_LAKH DESC
+	) AS ROW_NUM
+FROM
+	PLAYERS P
+	JOIN TEAMS T ON P.TEAM_ID = T.TEAM_ID;
+
+-- QUESTION 44: Use a CTE to calculate the total wins for each team and return the top 5 teams.
+WITH
+	TOTAL_WINS AS (
+		SELECT
+			T.TEAM_NAME,
+			COUNT(M.WINNER_TEAM_ID) AS TOTAL_W
+		FROM
+			MATCHES M
+			JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID
+		GROUP BY
+			T.TEAM_NAME
+	)
+SELECT
+	*
+FROM
+	TOTAL_WINS
+ORDER BY
+	TOTAL_W DESC
+LIMIT
+	5;
+
+-- QUESTION 45: Find each team's win percentage.
+SELECT
+	T.TEAM_NAME,
+	ROUND(
+		(
+			SELECT
+				COUNT(*)
+			FROM
+				MATCHES M
+			WHERE
+				M.WINNER_TEAM_ID = T.TEAM_ID
+		) * 100.0 / NULLIF(
+			(
+				SELECT
+					COUNT(*)
+				FROM
+					MATCHES M
+				WHERE
+					M.TEAM1_ID = T.TEAM_ID
+					OR M.TEAM2_ID = T.TEAM_ID
+			),
+			0
+		),
+		2
+	) AS WIN_PERCENTAGE
+FROM
+	TEAMS T
+ORDER BY
+	WIN_PERCENTAGE DESC
+	-- QUESTION 46: Find which team has the highest win percentage.
+SELECT
+	T.TEAM_NAME,
+	ROUND(
+		(
+			SELECT
+				COUNT(*)
+			FROM
+				MATCHES M
+			WHERE
+				M.WINNER_TEAM_ID = T.TEAM_ID
+		) * 100.0 / NULLIF(
+			(
+				SELECT
+					COUNT(*)
+				FROM
+					MATCHES M
+				WHERE
+					M.TEAM1_ID = T.TEAM_ID
+					OR M.TEAM2_ID = T.TEAM_ID
+			),
+			0
+		),
+		2
+	) AS WIN_PERCENTAGE
+FROM
+	TEAMS T
+ORDER BY
+	WIN_PERCENTAGE DESC
+LIMIT
+	1;
+
+-- QUESTION 47: Calculate each team's total wins season by season.
+SELECT
+	M.SEASON,
+	T.TEAM_NAME,
+	COUNT(M.WINNER_TEAM_ID) AS MATCHES_WIN
+FROM
+	MATCHES M
+	JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID
+GROUP BY
+	M.SEASON,
+	T.TEAM_NAME
+ORDER BY
+	M.SEASON ASC;
+
+-- QUESTION 48: Rank teams according to their number of wins within each season.
+SELECT
+	M.SEASON,
+	T.TEAM_NAME,
+	COUNT(M.WINNER_TEAM_ID) AS MATCHES_WIN,
+	RANK() OVER (
+		PARTITION BY
+			M.SEASON
+		ORDER BY
+			COUNT(M.WINNER_TEAM_ID) DESC
+	) AS RANKING
+FROM
+	MATCHES M
+	JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID
+GROUP BY
+	M.SEASON,
+	T.TEAM_NAME
+ORDER BY
+	M.SEASON ASC;
+
+-- QUESTION 49: Find the team with the most wins in each season.
+WITH
+	MOST_WINS AS (
+		SELECT
+			M.SEASON,
+			T.TEAM_NAME,
+			COUNT(M.WINNER_TEAM_ID) AS MATCHES_WIN,
+			RANK() OVER (
+				PARTITION BY
+					M.SEASON
+				ORDER BY
+					COUNT(M.WINNER_TEAM_ID) DESC
+			) AS RANKING
+		FROM
+			MATCHES M
+			JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID
+		GROUP BY
+			M.SEASON,
+			T.TEAM_NAME
+		ORDER BY
+			M.SEASON ASC
+	)
+SELECT
+	SEASON,
+	TEAM_NAME,
+	MATCHES_WIN
+FROM
+	MOST_WINS
+WHERE
+	RANKING = 1;
+
+-- QUESTION 50: Find each player's Player of the Match count and rank players within their team.
+SELECT
+	T.TEAM_NAME,
+	P.PLAYER_NAME,
+	COUNT(M.PLAYER_OF_MATCH_ID) AS WINS,
+	RANK() OVER (
+		PARTITION BY
+			T.TEAM_NAME
+		ORDER BY
+			COUNT(M.PLAYER_OF_MATCH_ID) DESC
+	) AS RANKING
+FROM
+	TEAMS T
+	JOIN PLAYERS P ON P.TEAM_ID = T.TEAM_ID
+	LEFT JOIN MATCHES M ON M.PLAYER_OF_MATCH_ID = P.PLAYER_ID
+GROUP BY
+	T.TEAM_NAME,
+	P.PLAYER_NAME
+ORDER BY
+	TEAM_NAME ASC,
+	RANKING ASC;
+
+-- QUESTION 51: Find the most successful Player of the Match winner from each team.
+WITH
+	SUCC_PL_OF_MATCH AS (
+		SELECT
+			T.TEAM_NAME,
+			P.PLAYER_NAME,
+			COUNT(M.PLAYER_OF_MATCH_ID) AS WINS,
+			RANK() OVER (
+				PARTITION BY
+					T.TEAM_NAME
+				ORDER BY
+					COUNT(M.PLAYER_OF_MATCH_ID) DESC
+			) AS RANKING
+		FROM
+			TEAMS T
+			JOIN PLAYERS P ON P.TEAM_ID = T.TEAM_ID
+			LEFT JOIN MATCHES M ON M.PLAYER_OF_MATCH_ID = P.PLAYER_ID
+		GROUP BY
+			T.TEAM_NAME,
+			P.PLAYER_NAME
+	)
+SELECT
+	TEAM_NAME,
+	PLAYER_NAME,
+	WINS,
+	RANKING
+FROM
+	SUCC_PL_OF_MATCH
+WHERE
+	RANKING = 1;
+
+-- QUESTION 52: Calculate the difference between each team's total fours and total sixes.
+WITH
+	MATCH_RECORD AS (
+		SELECT
+			T.TEAM_NAME,
+			SUM(
+				CASE
+					WHEN M.TEAM1_ID = T.TEAM_ID THEN M.TEAM1_FOURS
+					ELSE M.TEAM2_FOURS
+				END
+			) AS TOTAL_FOURS,
+			SUM(
+				CASE
+					WHEN M.TEAM1_ID = T.TEAM_ID THEN M.TEAM1_SIXES
+					ELSE M.TEAM2_SIXES
+				END
+			) AS TOTAL_SIXES
+		FROM
+			MATCHES M
+			JOIN TEAMS T ON M.TEAM1_ID = T.TEAM_ID
+			OR M.TEAM2_ID = T.TEAM_ID
+		GROUP BY
+			T.TEAM_NAME
+	)
+SELECT
+	TEAM_NAME,
+	TOTAL_FOURS,
+	TOTAL_SIXES,
+	TOTAL_FOURS - TOTAL_SIXES AS DIFFERENCE
+FROM
+	MATCH_RECORD
+ORDER BY
+	DIFFERENCE DESC;
+
+-- QUESTION 53: Find teams whose total wins are above the average wins across all teams.
+WITH
+	TEAM_WINS AS (
+		SELECT
+			T.TEAM_NAME,
+			COUNT(M.WINNER_TEAM_ID) AS MATCH_WINS
+		FROM
+			TEAMS T
+			LEFT JOIN MATCHES M ON M.WINNER_TEAM_ID = T.TEAM_ID
+		GROUP BY
+			T.TEAM_NAME
+	)
+SELECT
+	TEAM_NAME,
+	MATCH_WINS
+FROM
+	TEAM_WINS
+WHERE
+	MATCH_WINS > (
+		SELECT
+			AVG(MATCH_WINS)
+		FROM
+			TEAM_WINS
+	)
+ORDER BY
+	MATCH_WINS DESC;
+
+-- QUESTION 54: Use LAG() to compare a team's season wins with its previous season's wins.
+WITH
+	T_WIN AS (
+		SELECT
+			M.SEASON,
+			T.TEAM_NAME,
+			COUNT(M.WINNER_TEAM_ID) AS MATCHES_WIN
+		FROM
+			MATCHES M
+			JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID
+		GROUP BY
+			M.SEASON,
+			T.TEAM_NAME
+		ORDER BY
+			M.SEASON ASC
+	)
+SELECT
+	SEASON,
+	TEAM_NAME,
+	MATCHES_WIN,
+	LAG(MATCHES_WIN) OVER (
+		PARTITION BY
+			TEAM_NAME
+		ORDER BY
+			SEASON
+	) AS LG
+FROM
+	T_WIN
+ORDER BY
+	SEASON,
+	TEAM_NAME ASC;
+
+-- QUESTION 55: Calculate the year-over-year change in wins for each team.
+WITH
+	T_WIN AS (
+		SELECT
+			M.SEASON,
+			T.TEAM_NAME,
+			COUNT(M.WINNER_TEAM_ID) AS MATCHES_WIN
+		FROM
+			MATCHES M
+			JOIN TEAMS T ON M.WINNER_TEAM_ID = T.TEAM_ID
+		GROUP BY
+			M.SEASON,
+			T.TEAM_NAME
+		ORDER BY
+			M.SEASON ASC
+	)
+SELECT
+	SEASON,
+	TEAM_NAME,
+	MATCHES_WIN,
+	LAG(MATCHES_WIN) OVER (
+		PARTITION BY
+			TEAM_NAME
+		ORDER BY
+			SEASON
+	) AS LAST_WIN,
+	MATCHES_WIN - LAG(MATCHES_WIN) OVER (
+		PARTITION BY
+			TEAM_NAME
+		ORDER BY
+			SEASON
+	) AS CHANGE
+FROM
+	T_WIN
+ORDER BY
+	SEASON,
+	TEAM_NAME ASC;
