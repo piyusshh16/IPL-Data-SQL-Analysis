@@ -1,0 +1,251 @@
+﻿player_id,player_name,team_id,role,batting_style,bowling_style,nationality,age,auction_price_lakh
+101,Vikram Sharma,1,All-Rounder,Right-hand,Right-arm Medium,India,23,141.8
+102,Sai Patel,1,Bowler,Right-hand,Right-arm Fast,India,26,61.9
+103,Axar Sharma,1,Bowler,Left-hand,Left-arm Orthodox,India,34,126.1
+104,Aarav Iyer,1,All-Rounder,Left-hand,Left-arm Fast,India,26,192.3
+105,Abhishek Yadav,1,Batsman,Left-hand,None,England,28,165.3
+106,Kuldeep Malik,1,Batsman,Left-hand,Right-arm Fast,Sri Lanka,31,123.9
+107,Rohan Singh,1,All-Rounder,Right-hand,Left-arm Fast,Sri Lanka,27,176
+108,Dhruv Rana,1,Bowler,Right-hand,Left-arm Fast,India,31,57.7
+109,Rajat Patel,1,Bowler,Right-hand,Right-arm Medium,India,34,88.3
+110,Mayank Gill,1,All-Rounder,Right-hand,Right-arm Fast,Sri Lanka,21,164.9
+111,Mohit Rana,1,Batsman,Left-hand,Leg Spin,India,35,91.2
+112,Kuldeep Verma,1,Batsman,Left-hand,None,New Zealand,38,97.1
+113,Sanju Nair,1,Batsman,Left-hand,Right-arm Medium,India,21,175
+114,Siddharth Iyer,1,All-Rounder,Right-hand,Off Spin,India,32,127.3
+115,Kuldeep Chahar,1,Batsman,Right-hand,None,South Africa,23,142.7
+116,Sai Rana,1,All-Rounder,Right-hand,Left-arm Fast,India,33,48.5
+117,Aarav Rana,1,Wicketkeeper,Right-hand,Leg Spin,Sri Lanka,29,171.5
+118,Shivam Gaikwad,1,Batsman,Right-hand,None,Australia,36,185.3
+119,Axar Desai,1,Bowler,Left-hand,Right-arm Fast,Afghanistan,29,63.1
+120,Akash Tripathi,1,Wicketkeeper,Left-hand,None,Sri Lanka,22,196
+121,Sai Verma,1,Batsman,Right-hand,None,India,36,177
+122,Avesh Kumar,1,Wicketkeeper,Right-hand,Left-arm Orthodox,New Zealand,29,91.8
+123,Rinku Thakur,1,Wicketkeeper,Right-hand,None,India,22,80.9
+124,Sanju Malik,1,Batsman,Right-hand,None,New Zealand,21,61.2
+125,Aditya Desai,1,Batsman,Left-hand,None,India,37,43.8
+126,Prithvi Tripathi,2,Bowler,Left-hand,Off Spin,India,23,37.4
+127,Avesh Mehta,2,Bowler,Right-hand,Off Spin,South Africa,23,30.9
+128,Akash Kumar,2,Batsman,Left-hand,None,India,28,103.3
+129,Rohan Thakur,2,All-Rounder,Right-hand,Leg Spin,India,37,170.5
+130,Kunal Gill,2,Batsman,Right-hand,None,Sri Lanka,32,182.4
+131,Manav Nair,2,Batsman,Left-hand,None,India,33,145.4
+132,Mayank Bishnoi,2,Batsman,Right-hand,None,England,37,31
+133,Ruturaj Singh,2,Batsman,Right-hand,None,India,36,34.4
+134,Dev Patel,2,Bowler,Right-hand,Left-arm Orthodox,India,23,189.5
+135,Prithvi Gill,2,Bowler,Right-hand,Right-arm Fast,India,38,121.7
+136,Ruturaj Rana,2,Batsman,Right-hand,None,India,32,43.6
+137,Ishan Thakur,2,Batsman,Right-hand,Right-arm Fast,India,38,199.3
+138,Rohan Malik,2,Batsman,Left-hand,None,Afghanistan,22,178.3
+139,Rinku Reddy,2,Batsman,Left-hand,Left-arm Orthodox,England,36,21.4
+140,Mayank Reddy,2,Wicketkeeper,Right-hand,None,India,23,180.1
+141,Mayank Verma,2,Batsman,Left-hand,None,India,28,111
+142,Varun Singh,2,Batsman,Left-hand,None,India,20,80
+143,Nikhil Rana,2,Batsman,Left-hand,None,Australia,20,40.1
+144,Siddharth Malik,2,Batsman,Right-hand,None,India,24,27.5
+145,Rinku Singh,2,Wicketkeeper,Right-hand,None,South Africa,23,83.7
+146,Mayank Joshi,2,Wicketkeeper,Right-hand,None,Sri Lanka,25,195.7
+147,Dev Joshi,2,Batsman,Left-hand,None,West Indies,33,164.4
+148,Akash Rana,2,Batsman,Left-hand,None,Sri Lanka,21,174.5
+149,Harsh Kumar,2,All-Rounder,Left-hand,Off Spin,India,27,60.1
+150,Yash Nair,2,Batsman,Left-hand,Left-arm Fast,South Africa,36,91.9
+151,Sai Desai,3,Wicketkeeper,Left-hand,None,India,38,193.3
+152,Rahul Gaikwad,3,Bowler,Left-hand,Left-arm Orthodox,India,36,40.8
+153,Prithvi Kumar,3,Batsman,Right-hand,None,Australia,37,143.6
+154,Yash Mehta,3,Bowler,Left-hand,Left-arm Orthodox,England,30,139.4
+155,Vikram Reddy,3,Bowler,Left-hand,Left-arm Orthodox,India,32,145.5
+156,Yash Joshi,3,All-Rounder,Right-hand,Off Spin,England,38,74.2
+157,Mayank Sharma,3,Batsman,Left-hand,None,India,34,99.6
+158,Kabir Chahar,3,Bowler,Right-hand,Left-arm Orthodox,South Africa,22,71.1
+159,Riyan Desai,3,Batsman,Left-hand,Right-arm Medium,India,26,46.5
+160,Aditya Gill,3,Wicketkeeper,Right-hand,None,India,33,179.5
+161,Dhruv Bishnoi,3,Bowler,Right-hand,Right-arm Medium,Afghanistan,23,160.1
+162,Harsh Iyer,3,All-Rounder,Left-hand,Left-arm Orthodox,India,37,64.9
+163,Vikram Thakur,3,Batsman,Left-hand,None,West Indies,34,130.3
+164,Shivam Joshi,3,All-Rounder,Left-hand,Leg Spin,Afghanistan,25,153.9
+165,Ravi Thakur,3,Batsman,Left-hand,None,West Indies,36,107.2
+166,Arshdeep Patel,3,All-Rounder,Left-hand,Right-arm Medium,India,30,180.7
+167,Kunal Verma,3,Batsman,Right-hand,None,New Zealand,26,31.6
+168,Deepak Desai,3,Bowler,Right-hand,Off Spin,India,33,90.1
+169,Sanju Sharma,3,All-Rounder,Left-hand,Leg Spin,India,20,189.7
+170,Ishan Nair,3,All-Rounder,Right-hand,Off Spin,India,27,69.1
+171,Washington Sharma,3,Bowler,Left-hand,Left-arm Orthodox,New Zealand,25,171.3
+172,Nikhil Gaikwad,3,Bowler,Right-hand,Off Spin,India,33,44.4
+173,Kuldeep Iyer,3,Batsman,Right-hand,None,India,30,80.8
+174,Deepak Rana,3,All-Rounder,Right-hand,Off Spin,New Zealand,37,29.4
+175,Tilak Gill,3,Bowler,Right-hand,Left-arm Orthodox,West Indies,20,190.9
+176,Yash Sharma,4,Bowler,Right-hand,Right-arm Medium,India,23,121.5
+177,Kabir Thakur,4,All-Rounder,Right-hand,Left-arm Fast,England,23,160
+178,Manav Reddy,4,Batsman,Left-hand,None,England,32,91.4
+179,Yash Patel,4,Bowler,Right-hand,Left-arm Orthodox,India,29,173.1
+180,Axar Yadav,4,All-Rounder,Right-hand,Leg Spin,India,37,97.1
+181,Rinku Patel,4,Bowler,Right-hand,Left-arm Fast,Sri Lanka,33,168
+182,Rahul Joshi,4,Wicketkeeper,Left-hand,None,New Zealand,24,98.4
+183,Nitish Rana,4,Bowler,Left-hand,Leg Spin,India,33,168.6
+184,Sanju Rana,4,Batsman,Right-hand,None,India,34,63.9
+185,Kuldeep Tripathi,4,Bowler,Left-hand,Off Spin,India,35,173.2
+186,Dev Bishnoi,4,Batsman,Left-hand,Left-arm Fast,Afghanistan,28,120
+187,Nitish Kumar,4,Batsman,Left-hand,None,Australia,27,144.3
+188,Washington Thakur,4,All-Rounder,Left-hand,Right-arm Fast,India,32,144.5
+189,Ishan Tripathi,4,Batsman,Left-hand,None,India,37,79.5
+190,Kuldeep Rana,4,Batsman,Right-hand,None,India,23,153.7
+191,Dev Kumar,4,Batsman,Left-hand,None,India,26,73.3
+192,Rinku Iyer,4,Batsman,Right-hand,None,India,21,195.4
+193,Nikhil Bishnoi,4,Batsman,Left-hand,None,India,35,99.3
+194,Dev Singh,4,Batsman,Right-hand,Right-arm Fast,India,35,33.3
+195,Arjun Verma,4,Batsman,Left-hand,None,India,27,41.3
+196,Deepak Gaikwad,4,Bowler,Right-hand,Leg Spin,West Indies,36,88.5
+197,Arshdeep Reddy,4,All-Rounder,Left-hand,Off Spin,England,21,129.7
+198,Rahul Kumar,4,Bowler,Right-hand,Left-arm Fast,India,27,51.3
+199,Rohan Iyer,4,Batsman,Left-hand,None,India,21,61.7
+200,Shreyas Thakur,4,Batsman,Left-hand,None,West Indies,38,139
+201,Vikram Malik,5,Batsman,Left-hand,None,Sri Lanka,24,32.9
+202,Axar Tripathi,5,Wicketkeeper,Left-hand,None,New Zealand,29,146
+203,Rajat Chahar,5,Bowler,Right-hand,Off Spin,England,21,180.1
+204,Ruturaj Gaikwad,5,Batsman,Right-hand,None,West Indies,28,123.7
+205,Nitish Thakur,5,Wicketkeeper,Left-hand,None,South Africa,35,194.4
+206,Ravi Mehta,5,Bowler,Right-hand,Left-arm Fast,Sri Lanka,25,79.4
+207,Washington Reddy,5,All-Rounder,Right-hand,Off Spin,India,22,76.6
+208,Ruturaj Yadav,5,Wicketkeeper,Right-hand,None,South Africa,37,103.2
+209,Arjun Kumar,5,Bowler,Left-hand,Leg Spin,South Africa,34,156.8
+210,Kabir Rana,5,Bowler,Left-hand,Left-arm Fast,Afghanistan,35,41.9
+211,Axar Gill,5,All-Rounder,Right-hand,Left-arm Fast,Australia,33,36.8
+212,Vikram Verma,5,Bowler,Left-hand,Left-arm Orthodox,Australia,28,94.8
+213,Ravi Bishnoi,5,Batsman,Left-hand,None,India,36,154.3
+214,Nikhil Patel,5,Batsman,Left-hand,Off Spin,Afghanistan,36,68.1
+215,Aarav Reddy,5,All-Rounder,Left-hand,Leg Spin,Sri Lanka,24,100.4
+216,Abhishek Malik,5,All-Rounder,Left-hand,Off Spin,Afghanistan,30,176.5
+217,Dhruv Gill,5,All-Rounder,Right-hand,Off Spin,India,35,146.9
+218,Dhruv Nair,5,Wicketkeeper,Right-hand,Left-arm Orthodox,India,21,42.7
+219,Sanju Desai,5,All-Rounder,Right-hand,Off Spin,Australia,34,22.8
+220,Siddharth Joshi,5,All-Rounder,Right-hand,Right-arm Medium,India,28,80.9
+221,Mohit Patel,5,All-Rounder,Left-hand,Left-arm Orthodox,India,35,177
+222,Aditya Gaikwad,5,Batsman,Left-hand,None,India,22,98.1
+223,Rahul Yadav,5,Bowler,Left-hand,Left-arm Orthodox,Afghanistan,20,28.3
+224,Arjun Reddy,5,Batsman,Right-hand,None,Australia,33,121.9
+225,Dev Iyer,5,Batsman,Left-hand,None,England,27,109.6
+226,Sanju Verma,6,Batsman,Left-hand,None,India,20,181.8
+227,Kuldeep Reddy,6,All-Rounder,Right-hand,Right-arm Medium,India,31,197.8
+228,Ishan Joshi,6,All-Rounder,Left-hand,Off Spin,India,32,173.6
+229,Rahul Gill,6,Bowler,Left-hand,Left-arm Fast,New Zealand,29,23.9
+230,Aarav Tripathi,6,All-Rounder,Right-hand,Left-arm Orthodox,Afghanistan,35,169.9
+231,Shreyas Gill,6,Bowler,Right-hand,Left-arm Fast,South Africa,26,131.8
+232,Nikhil Yadav,6,Wicketkeeper,Left-hand,None,West Indies,34,26
+233,Rinku Verma,6,Batsman,Left-hand,None,India,26,43.8
+234,Sai Mehta,6,Bowler,Right-hand,Left-arm Fast,India,35,194.1
+235,Shreyas Desai,6,All-Rounder,Right-hand,Off Spin,India,27,174.8
+236,Mohit Malik,6,Batsman,Left-hand,Right-arm Fast,Australia,23,101.9
+237,Varun Tripathi,6,Bowler,Left-hand,Left-arm Orthodox,India,27,104.9
+238,Riyan Malik,6,Batsman,Right-hand,None,South Africa,34,183.7
+239,Aditya Singh,6,Batsman,Right-hand,None,India,37,44.4
+240,Kuldeep Mehta,6,All-Rounder,Left-hand,Left-arm Orthodox,England,24,179.4
+241,Rahul Bishnoi,6,Bowler,Right-hand,Left-arm Fast,New Zealand,31,59.1
+242,Arshdeep Gill,6,All-Rounder,Left-hand,Right-arm Fast,Australia,31,30.9
+243,Rajat Kumar,6,Wicketkeeper,Right-hand,Off Spin,South Africa,26,135.5
+244,Arjun Desai,6,Batsman,Right-hand,None,India,37,57.3
+245,Kabir Gill,6,Batsman,Right-hand,None,India,24,197.8
+246,Dev Yadav,6,All-Rounder,Right-hand,Right-arm Fast,India,31,162.2
+247,Ruturaj Sharma,6,Batsman,Left-hand,None,Australia,23,154.2
+248,Rinku Chahar,6,Bowler,Right-hand,Off Spin,England,21,150.9
+249,Nitish Reddy,6,Bowler,Right-hand,Right-arm Fast,India,32,96.7
+250,Kunal Desai,6,Bowler,Right-hand,Right-arm Fast,India,38,118.7
+251,Ruturaj Nair,7,Wicketkeeper,Left-hand,None,Australia,33,37.9
+252,Kabir Joshi,7,Bowler,Left-hand,Right-arm Medium,India,34,91.8
+253,Rahul Desai,7,Bowler,Left-hand,Left-arm Orthodox,India,24,143.6
+254,Ravi Patel,7,Batsman,Left-hand,None,India,31,166.1
+255,Mayank Singh,7,Bowler,Left-hand,Leg Spin,South Africa,23,93.9
+256,Avesh Singh,7,Wicketkeeper,Left-hand,None,India,38,111.3
+257,Siddharth Bishnoi,7,Batsman,Left-hand,None,India,28,123.3
+258,Avesh Malik,7,Wicketkeeper,Right-hand,Leg Spin,England,28,25.2
+259,Rajat Reddy,7,Wicketkeeper,Right-hand,None,Sri Lanka,24,121.9
+260,Siddharth Sharma,7,Batsman,Left-hand,None,India,34,81.4
+261,Ruturaj Tripathi,7,Bowler,Right-hand,Right-arm Fast,India,21,141.3
+262,Rajat Thakur,7,All-Rounder,Left-hand,Off Spin,India,28,58.8
+263,Shivam Yadav,7,Batsman,Left-hand,None,Australia,29,28.2
+264,Mohit Gaikwad,7,Batsman,Right-hand,None,West Indies,24,157.5
+265,Washington Joshi,7,Batsman,Right-hand,None,Australia,37,170
+266,Tilak Patel,7,Bowler,Right-hand,Left-arm Orthodox,India,20,102.8
+267,Rohan Desai,7,Bowler,Left-hand,Leg Spin,New Zealand,33,72.1
+268,Mohit Sharma,7,Wicketkeeper,Left-hand,None,Sri Lanka,31,35.9
+269,Avesh Tripathi,7,Bowler,Left-hand,Right-arm Fast,Sri Lanka,29,154.2
+270,Harsh Desai,7,All-Rounder,Right-hand,Right-arm Fast,Australia,36,54.9
+271,Tilak Mehta,7,All-Rounder,Right-hand,Left-arm Orthodox,India,23,46.4
+272,Yash Iyer,7,Bowler,Right-hand,Left-arm Orthodox,India,35,103.5
+273,Arshdeep Tripathi,7,Bowler,Left-hand,Leg Spin,Sri Lanka,30,47.2
+274,Rohan Bishnoi,7,Bowler,Left-hand,Left-arm Fast,England,21,83.3
+275,Rohan Reddy,7,Bowler,Right-hand,Right-arm Fast,India,29,33.8
+276,Kunal Gaikwad,8,Bowler,Left-hand,Off Spin,England,37,191.8
+277,Aditya Thakur,8,Wicketkeeper,Right-hand,None,India,35,110.2
+278,Arjun Thakur,8,Batsman,Right-hand,Left-arm Fast,Australia,25,27
+279,Arshdeep Thakur,8,Bowler,Right-hand,Leg Spin,India,31,185.2
+280,Dhruv Joshi,8,All-Rounder,Right-hand,Left-arm Orthodox,West Indies,30,31.9
+281,Rahul Malik,8,All-Rounder,Left-hand,Left-arm Fast,New Zealand,24,80
+282,Tilak Reddy,8,Wicketkeeper,Left-hand,None,India,22,75.7
+283,Dhruv Desai,8,All-Rounder,Right-hand,Left-arm Orthodox,South Africa,33,111.5
+284,Vivaan Mehta,8,Batsman,Left-hand,Left-arm Fast,India,27,200
+285,Siddharth Patel,8,Batsman,Right-hand,Leg Spin,South Africa,30,177.8
+286,Riyan Verma,8,Bowler,Right-hand,Right-arm Medium,India,25,149.8
+287,Aditya Joshi,8,Batsman,Left-hand,None,England,29,155.4
+288,Sai Gill,8,Batsman,Right-hand,Off Spin,India,38,197.2
+289,Dhruv Chahar,8,Bowler,Right-hand,Right-arm Medium,West Indies,24,177.1
+290,Arjun Bishnoi,8,All-Rounder,Right-hand,Leg Spin,New Zealand,36,173.2
+291,Shreyas Patel,8,All-Rounder,Left-hand,Left-arm Fast,Afghanistan,36,46.5
+292,Avesh Patel,8,Wicketkeeper,Left-hand,None,Afghanistan,31,187.5
+293,Deepak Singh,8,Bowler,Right-hand,Left-arm Fast,India,22,87.5
+294,Vivaan Desai,8,Wicketkeeper,Left-hand,Left-arm Orthodox,West Indies,24,44.8
+295,Shreyas Bishnoi,8,All-Rounder,Left-hand,Right-arm Medium,India,20,183.1
+296,Vivaan Rana,8,Batsman,Left-hand,None,India,29,62.8
+297,Vikram Singh,8,Batsman,Left-hand,None,India,23,170.6
+298,Washington Gaikwad,8,Bowler,Right-hand,Left-arm Orthodox,New Zealand,24,72.4
+299,Aarav Gaikwad,8,Batsman,Right-hand,None,South Africa,22,114.2
+300,Nitish Malik,8,Bowler,Right-hand,Leg Spin,India,35,27.8
+301,Dhruv Mehta,9,Batsman,Right-hand,None,India,27,151.9
+302,Rahul Tripathi,9,All-Rounder,Right-hand,Left-arm Fast,India,31,118.3
+303,Dev Thakur,9,Wicketkeeper,Right-hand,None,West Indies,24,31.4
+304,Kuldeep Singh,9,Batsman,Right-hand,None,Afghanistan,21,76.8
+305,Ishan Chahar,9,Bowler,Left-hand,Leg Spin,India,21,155.6
+306,Yash Reddy,9,Batsman,Left-hand,Left-arm Orthodox,India,23,163.9
+307,Avesh Nair,9,All-Rounder,Left-hand,Off Spin,India,35,144.6
+308,Avesh Gaikwad,9,Wicketkeeper,Left-hand,None,India,23,34.4
+309,Shreyas Reddy,9,Bowler,Left-hand,Left-arm Orthodox,India,34,83.3
+310,Aditya Mehta,9,Bowler,Left-hand,Off Spin,South Africa,21,33.5
+311,Mohit Mehta,9,Bowler,Right-hand,Left-arm Orthodox,India,24,172.8
+312,Arshdeep Singh,9,Batsman,Left-hand,None,India,32,190.9
+313,Siddharth Thakur,9,Wicketkeeper,Right-hand,None,England,24,115.3
+314,Mohit Desai,9,Bowler,Right-hand,Right-arm Medium,India,25,109.8
+315,Dhruv Malik,9,Batsman,Left-hand,Left-arm Orthodox,India,29,144.9
+316,Washington Kumar,9,Batsman,Right-hand,Off Spin,Afghanistan,34,199.5
+317,Ruturaj Mehta,9,All-Rounder,Left-hand,Leg Spin,Afghanistan,29,173.2
+318,Dev Mehta,9,Bowler,Right-hand,Right-arm Fast,West Indies,24,62.6
+319,Rinku Malik,9,Bowler,Right-hand,Off Spin,England,22,31.8
+320,Mohit Bishnoi,9,Bowler,Right-hand,Off Spin,India,30,135.6
+321,Nitish Mehta,9,Batsman,Right-hand,Leg Spin,West Indies,24,97.9
+322,Arjun Yadav,9,Bowler,Right-hand,Left-arm Fast,India,30,188.3
+323,Harsh Mehta,9,Wicketkeeper,Left-hand,None,Sri Lanka,22,65.1
+324,Mayank Rana,9,Batsman,Right-hand,None,Australia,25,126.5
+325,Manav Gaikwad,9,All-Rounder,Left-hand,Leg Spin,Sri Lanka,38,27.4
+326,Vivaan Patel,10,Batsman,Left-hand,None,South Africa,26,158.1
+327,Vivaan Bishnoi,10,Wicketkeeper,Left-hand,None,India,27,164.8
+328,Mohit Reddy,10,Bowler,Right-hand,Left-arm Orthodox,India,34,94.8
+329,Kuldeep Kumar,10,Batsman,Left-hand,None,New Zealand,31,195.6
+330,Nikhil Mehta,10,Bowler,Left-hand,Right-arm Fast,India,34,42.1
+331,Siddharth Yadav,10,Batsman,Left-hand,Leg Spin,India,25,166.4
+332,Prithvi Desai,10,Batsman,Left-hand,None,India,29,109.5
+333,Kunal Nair,10,Bowler,Right-hand,Right-arm Medium,England,31,28.8
+334,Axar Bishnoi,10,Batsman,Right-hand,None,India,24,178.8
+335,Rinku Nair,10,Batsman,Right-hand,None,India,37,71.9
+336,Arshdeep Malik,10,Batsman,Right-hand,Left-arm Orthodox,India,23,90.9
+337,Yash Gaikwad,10,Bowler,Right-hand,Leg Spin,India,21,44.7
+338,Abhishek Bishnoi,10,Bowler,Right-hand,Right-arm Medium,India,30,49.3
+339,Riyan Reddy,10,Bowler,Left-hand,Leg Spin,New Zealand,38,74
+340,Deepak Tripathi,10,Batsman,Right-hand,Left-arm Orthodox,England,35,67.8
+341,Sanju Tripathi,10,Batsman,Left-hand,None,India,36,133.2
+342,Riyan Nair,10,Batsman,Right-hand,None,England,23,54.3
+343,Arshdeep Desai,10,Bowler,Right-hand,Off Spin,India,36,159.5
+344,Ravi Singh,10,All-Rounder,Right-hand,Leg Spin,Australia,30,199.7
+345,Ravi Chahar,10,Batsman,Left-hand,Off Spin,Australia,31,141.7
+346,Varun Gaikwad,10,Bowler,Left-hand,Right-arm Medium,Australia,29,60.5
+347,Ishan Reddy,10,All-Rounder,Left-hand,Left-arm Orthodox,India,35,82.8
+348,Vikram Tripathi,10,All-Rounder,Left-hand,Off Spin,Sri Lanka,31,191.8
+349,Siddharth Reddy,10,Batsman,Left-hand,Right-arm Fast,Afghanistan,34,138.1
+350,Ravi Kumar,10,Batsman,Left-hand,None,India,23,130.8

@@ -1,0 +1,1331 @@
+﻿match_id,season,match_date,city,venue,team1_id,team2_id,toss_winner_team_id,toss_decision,winner_team_id,loser_team_id,result_type,result_margin,team1_score,team2_score,player_of_match_id,team1_sixes,team2_sixes,team1_fours,team2_fours
+10001,2008,2008-03-20,Mumbai,Wankhede Stadium,5,2,5,Bat,5,2,Runs,7,220,189,223,12,1,18,2
+10002,2008,2008-03-21,Delhi,Arun Jaitley Stadium,1,5,1,Field,5,1,Wickets,4,197,218,202,17,1,18,9
+10003,2008,2008-03-22,Jaipur,Sawai Mansingh Stadium,2,5,2,Bat,5,2,Runs,5,241,260,224,18,4,8,0
+10004,2008,2008-03-23,Ahmedabad,Narendra Modi Stadium,3,5,3,Field,5,3,Wickets,9,241,260,217,12,4,11,1
+10005,2008,2008-03-24,Delhi,Arun Jaitley Stadium,3,2,2,Field,3,2,Runs,44,164,149,170,18,6,14,8
+10006,2008,2008-03-25,Mohali,PCA Stadium,3,1,1,Bat,3,1,Runs,62,178,106,159,11,3,15,4
+10007,2008,2008-03-26,Pune,MCA Stadium,3,7,3,Field,7,3,Runs,8,145,224,260,7,6,18,8
+10008,2008,2008-03-27,Bengaluru,M. Chinnaswamy Stadium,6,3,6,Field,3,6,Runs,29,237,252,174,14,5,14,8
+10009,2008,2008-03-28,Dharamsala,HPCA Stadium,4,5,4,Bat,4,5,Wickets,9,207,124,194,6,0,16,8
+10010,2008,2008-03-29,Pune,MCA Stadium,2,5,2,Bat,5,2,Wickets,2,167,230,203,13,7,20,0
+10011,2008,2008-03-30,Dharamsala,HPCA Stadium,4,2,2,Field,4,2,Wickets,5,215,206,176,16,3,17,1
+10012,2008,2008-03-31,Chennai,MA Chidambaram Stadium,1,4,4,Bat,1,4,Runs,61,215,209,125,7,6,13,6
+10013,2008,2008-04-01,Bengaluru,M. Chinnaswamy Stadium,4,7,7,Bat,4,7,Wickets,2,245,240,199,8,0,20,0
+10014,2008,2008-04-02,Mohali,PCA Stadium,3,4,4,Field,3,4,Runs,59,182,175,174,17,1,8,10
+10015,2008,2008-04-03,Lucknow,Ekana Cricket Stadium,4,5,4,Bat,4,5,Runs,13,239,219,197,16,0,11,0
+10016,2008,2008-04-04,Delhi,Arun Jaitley Stadium,4,7,4,Bat,4,7,Runs,65,205,186,195,17,5,11,4
+10017,2008,2008-04-05,Ahmedabad,Narendra Modi Stadium,2,6,2,Field,6,2,Wickets,1,159,214,243,12,0,13,10
+10018,2008,2008-04-06,Jaipur,Sawai Mansingh Stadium,6,4,4,Field,4,6,Runs,39,162,242,191,8,3,12,2
+10019,2008,2008-04-07,Kolkata,Eden Gardens,7,4,7,Field,4,7,Runs,50,180,191,196,6,7,13,1
+10020,2008,2008-04-08,Lucknow,Ekana Cricket Stadium,5,6,5,Bat,6,5,Wickets,10,125,132,250,14,8,11,7
+10021,2008,2008-04-09,Dharamsala,HPCA Stadium,2,3,3,Bat,2,3,Runs,16,237,167,148,14,3,14,3
+10022,2008,2008-04-10,Delhi,Arun Jaitley Stadium,5,3,3,Field,3,5,Wickets,5,207,236,166,12,1,20,7
+10023,2008,2008-04-11,Lucknow,Ekana Cricket Stadium,7,3,7,Field,3,7,Wickets,1,171,172,159,13,6,12,2
+10024,2008,2008-04-12,Pune,MCA Stadium,2,3,2,Field,2,3,Wickets,9,201,170,150,18,7,19,10
+10025,2008,2008-04-13,Dharamsala,HPCA Stadium,6,4,4,Bat,4,6,Runs,18,240,260,193,15,0,16,0
+10026,2008,2008-04-14,Kolkata,Eden Gardens,7,1,7,Bat,1,7,Runs,81,132,143,101,8,8,15,5
+10027,2008,2008-04-15,Ahmedabad,Narendra Modi Stadium,1,5,5,Field,1,5,Runs,69,220,108,101,13,4,16,4
+10028,2008,2008-04-16,Bengaluru,M. Chinnaswamy Stadium,1,5,5,Bat,1,5,Runs,68,176,154,120,13,4,13,4
+10029,2008,2008-04-17,Kolkata,Eden Gardens,7,4,7,Field,4,7,Wickets,10,172,181,197,18,1,18,10
+10030,2008,2008-04-18,Hyderabad,Rajiv Gandhi Intl. Stadium,7,1,7,Field,1,7,Wickets,9,129,152,106,6,7,14,10
+10031,2008,2008-04-19,Lucknow,Ekana Cricket Stadium,7,3,7,Bat,7,3,Runs,89,236,174,252,6,4,16,9
+10032,2008,2008-04-20,Bengaluru,M. Chinnaswamy Stadium,6,1,6,Field,6,1,Runs,76,216,124,235,7,3,17,6
+10033,2008,2008-04-21,Dharamsala,HPCA Stadium,6,5,5,Field,6,5,Runs,65,203,118,229,11,3,9,5
+10034,2008,2008-04-22,Hyderabad,Rajiv Gandhi Intl. Stadium,5,7,7,Field,5,7,Wickets,8,214,196,213,11,2,18,9
+10035,2008,2008-04-23,Delhi,Arun Jaitley Stadium,6,4,6,Field,6,4,Runs,11,225,202,246,7,6,13,5
+10036,2008,2008-04-24,Mumbai,Wankhede Stadium,1,7,1,Field,7,1,Wickets,5,148,154,264,12,8,16,8
+10037,2008,2008-04-25,Lucknow,Ekana Cricket Stadium,4,1,4,Bat,1,4,Runs,77,198,203,101,9,6,14,1
+10038,2008,2008-04-26,Delhi,Arun Jaitley Stadium,6,5,6,Bat,5,6,Runs,18,192,208,205,6,2,14,4
+10039,2008,2008-04-27,Dharamsala,HPCA Stadium,4,3,3,Bat,3,4,Wickets,4,241,256,154,7,4,8,6
+10040,2008,2008-04-28,Pune,MCA Stadium,3,5,5,Field,5,3,Wickets,7,149,181,211,14,3,15,5
+10041,2008,2008-04-29,Jaipur,Sawai Mansingh Stadium,2,4,4,Field,4,2,Runs,42,186,205,187,6,3,17,8
+10042,2008,2008-04-30,Dharamsala,HPCA Stadium,2,6,2,Field,2,6,Wickets,5,231,209,141,7,4,11,4
+10043,2008,2008-05-01,Hyderabad,Rajiv Gandhi Intl. Stadium,6,2,2,Field,6,2,Wickets,10,258,241,248,11,8,8,5
+10044,2008,2008-05-02,Pune,MCA Stadium,6,5,6,Bat,6,5,Wickets,3,232,207,236,17,6,9,0
+10045,2008,2008-05-03,Hyderabad,Rajiv Gandhi Intl. Stadium,1,3,1,Bat,3,1,Wickets,7,243,255,151,12,1,12,6
+10046,2008,2008-05-04,Kolkata,Eden Gardens,1,7,1,Field,7,1,Wickets,8,238,254,254,12,7,13,1
+10047,2008,2008-05-05,Bengaluru,M. Chinnaswamy Stadium,3,1,3,Bat,1,3,Runs,87,177,237,106,13,2,13,8
+10048,2008,2008-05-06,Pune,MCA Stadium,4,7,4,Field,4,7,Runs,82,225,206,176,16,3,15,9
+10049,2008,2008-05-07,Lucknow,Ekana Cricket Stadium,4,7,4,Bat,4,7,Wickets,2,248,242,187,10,3,15,1
+10050,2008,2008-05-08,Mumbai,Wankhede Stadium,3,6,6,Field,6,3,Wickets,10,204,232,240,14,2,18,4
+10051,2008,2008-05-09,Delhi,Arun Jaitley Stadium,5,7,5,Bat,7,5,Runs,31,144,151,262,16,2,16,6
+10052,2008,2008-05-10,Pune,MCA Stadium,4,5,4,Field,5,4,Runs,63,159,175,210,7,2,13,7
+10053,2008,2008-05-11,Jaipur,Sawai Mansingh Stadium,5,1,1,Bat,1,5,Runs,25,244,258,122,12,6,19,7
+10054,2008,2008-05-12,Delhi,Arun Jaitley Stadium,4,2,4,Bat,4,2,Wickets,1,252,242,181,17,7,17,7
+10055,2008,2008-05-13,Chennai,MA Chidambaram Stadium,5,7,5,Bat,7,5,Wickets,9,227,244,257,11,1,19,10
+10056,2008,2008-05-14,Mumbai,Wankhede Stadium,7,2,2,Bat,2,7,Wickets,6,227,252,133,8,5,19,9
+10057,2008,2008-05-15,Lucknow,Ekana Cricket Stadium,6,4,6,Bat,6,4,Runs,8,250,241,245,13,2,13,4
+10058,2008,2008-05-16,Delhi,Arun Jaitley Stadium,3,5,5,Bat,3,5,Wickets,1,147,138,158,7,5,11,10
+10059,2008,2008-05-17,Mumbai,Wankhede Stadium,4,7,4,Field,7,4,Wickets,8,138,208,267,16,4,19,5
+10060,2008,2008-05-18,Mumbai,Wankhede Stadium,4,7,7,Bat,4,7,Wickets,6,216,160,189,18,3,15,4
+10061,2008,2008-05-19,Chennai,MA Chidambaram Stadium,3,7,7,Bat,7,3,Wickets,1,140,222,251,6,2,15,7
+10062,2008,2008-05-20,Mumbai,Wankhede Stadium,1,4,1,Bat,4,1,Runs,36,207,210,187,15,2,8,6
+10063,2008,2008-05-21,Kolkata,Eden Gardens,6,3,6,Field,6,3,Runs,1,237,124,230,14,3,16,10
+10064,2008,2008-05-22,Hyderabad,Rajiv Gandhi Intl. Stadium,4,1,4,Field,4,1,Wickets,3,176,163,178,16,1,9,5
+10065,2008,2008-05-23,Ahmedabad,Narendra Modi Stadium,3,7,3,Field,3,7,Runs,9,162,147,162,16,3,18,2
+10066,2008,2008-05-24,Mumbai,Wankhede Stadium,4,5,5,Bat,4,5,Runs,18,213,194,189,10,2,11,4
+10067,2008,2008-05-25,Ahmedabad,Narendra Modi Stadium,6,1,6,Field,6,1,Wickets,4,245,153,249,11,4,18,0
+10068,2008,2008-05-26,Pune,MCA Stadium,7,2,2,Field,7,2,Runs,64,260,240,251,10,5,10,6
+10069,2008,2008-05-27,Chennai,MA Chidambaram Stadium,7,5,5,Field,7,5,Wickets,2,132,108,259,8,0,8,6
+10070,2008,2008-05-28,Ahmedabad,Narendra Modi Stadium,5,3,3,Field,3,5,Runs,82,154,176,153,9,1,16,3
+10071,2009,2009-03-20,Dharamsala,HPCA Stadium,7,2,2,Field,7,2,Wickets,7,176,119,258,6,6,9,7
+10072,2009,2009-03-21,Dharamsala,HPCA Stadium,5,7,5,Field,5,7,Runs,2,150,107,206,12,5,16,8
+10073,2009,2009-03-22,Dharamsala,HPCA Stadium,7,6,6,Bat,6,7,Runs,35,145,156,239,9,8,9,4
+10074,2009,2009-03-23,Hyderabad,Rajiv Gandhi Intl. Stadium,6,5,6,Field,5,6,Wickets,1,157,199,206,9,1,17,10
+10075,2009,2009-03-24,Chennai,MA Chidambaram Stadium,6,1,6,Bat,6,1,Runs,32,235,198,238,7,2,8,8
+10076,2009,2009-03-25,Dharamsala,HPCA Stadium,7,6,6,Bat,6,7,Runs,54,196,223,228,14,5,9,8
+10077,2009,2009-03-26,Hyderabad,Rajiv Gandhi Intl. Stadium,6,1,6,Bat,6,1,Wickets,2,187,184,236,6,8,15,0
+10078,2009,2009-03-27,Lucknow,Ekana Cricket Stadium,3,2,2,Field,3,2,Wickets,6,241,155,174,13,3,10,0
+10079,2009,2009-03-28,Pune,MCA Stadium,4,1,4,Field,4,1,Wickets,1,211,183,179,8,8,11,6
+10080,2009,2009-03-29,Ahmedabad,Narendra Modi Stadium,4,1,4,Field,4,1,Runs,30,220,200,190,16,1,17,1
+10081,2009,2009-03-30,Kolkata,Eden Gardens,5,2,2,Bat,5,2,Wickets,3,189,171,211,17,6,19,5
+10082,2009,2009-03-31,Lucknow,Ekana Cricket Stadium,3,4,4,Bat,3,4,Runs,18,148,144,156,12,7,13,6
+10083,2009,2009-04-01,Delhi,Arun Jaitley Stadium,1,5,5,Bat,5,1,Wickets,8,145,151,222,9,0,11,5
+10084,2009,2009-04-02,Delhi,Arun Jaitley Stadium,2,1,2,Field,1,2,Runs,87,181,182,113,18,7,16,8
+10085,2009,2009-04-03,Chennai,MA Chidambaram Stadium,2,1,1,Bat,2,1,Runs,2,171,138,132,18,6,13,10
+10086,2009,2009-04-04,Kolkata,Eden Gardens,6,7,6,Field,6,7,Runs,9,228,137,228,18,5,9,0
+10087,2009,2009-04-05,Jaipur,Sawai Mansingh Stadium,4,1,4,Field,1,4,Wickets,1,224,236,107,7,4,12,7
+10088,2009,2009-04-06,Hyderabad,Rajiv Gandhi Intl. Stadium,2,1,2,Field,1,2,Wickets,9,130,139,113,7,6,11,10
+10089,2009,2009-04-07,Ahmedabad,Narendra Modi Stadium,7,5,7,Bat,5,7,Wickets,8,239,260,219,13,5,14,4
+10090,2009,2009-04-08,Hyderabad,Rajiv Gandhi Intl. Stadium,2,1,1,Bat,2,1,Wickets,1,206,164,131,6,3,18,3
+10091,2009,2009-04-09,Bengaluru,M. Chinnaswamy Stadium,3,5,3,Bat,5,3,Wickets,3,175,186,224,16,5,17,0
+10092,2009,2009-04-10,Delhi,Arun Jaitley Stadium,6,7,7,Bat,6,7,Wickets,9,232,230,228,5,3,17,3
+10093,2009,2009-04-11,Mohali,PCA Stadium,1,5,5,Bat,5,1,Runs,17,160,187,202,5,2,17,2
+10094,2009,2009-04-12,Mumbai,Wankhede Stadium,7,1,1,Bat,1,7,Wickets,10,201,212,105,7,6,20,10
+10095,2009,2009-04-13,Lucknow,Ekana Cricket Stadium,4,6,6,Bat,6,4,Runs,86,159,201,235,16,4,10,2
+10096,2009,2009-04-14,Kolkata,Eden Gardens,6,1,1,Bat,6,1,Wickets,10,237,232,236,16,1,11,5
+10097,2009,2009-04-15,Kolkata,Eden Gardens,3,2,3,Field,2,3,Runs,34,178,190,134,17,1,19,0
+10098,2009,2009-04-16,Jaipur,Sawai Mansingh Stadium,1,4,4,Field,1,4,Wickets,8,257,244,104,18,7,20,9
+10099,2009,2009-04-17,Delhi,Arun Jaitley Stadium,6,7,6,Bat,7,6,Runs,5,120,186,259,6,1,13,2
+10100,2009,2009-04-18,Jaipur,Sawai Mansingh Stadium,4,2,4,Bat,2,4,Wickets,1,157,216,131,5,1,13,3
+10101,2009,2009-04-19,Chennai,MA Chidambaram Stadium,2,4,4,Field,4,2,Runs,13,215,245,191,7,0,13,0
+10102,2009,2009-04-20,Kolkata,Eden Gardens,4,1,1,Field,4,1,Runs,4,182,179,191,18,1,12,6
+10103,2009,2009-04-21,Jaipur,Sawai Mansingh Stadium,4,7,7,Bat,7,4,Runs,48,209,224,252,9,7,15,4
+10104,2009,2009-04-22,Mohali,PCA Stadium,2,3,2,Bat,2,3,Runs,86,220,163,143,5,6,16,6
+10105,2009,2009-04-23,Jaipur,Sawai Mansingh Stadium,5,6,6,Bat,6,5,Wickets,2,123,233,244,13,2,9,7
+10106,2009,2009-04-24,Mumbai,Wankhede Stadium,2,7,2,Bat,2,7,Runs,55,226,156,146,7,4,13,1
+10107,2009,2009-04-25,Dharamsala,HPCA Stadium,1,4,4,Field,4,1,Wickets,1,222,236,180,7,1,9,9
+10108,2009,2009-04-26,Pune,MCA Stadium,7,1,1,Field,1,7,Wickets,7,239,241,106,9,6,10,9
+10109,2009,2009-04-27,Chennai,MA Chidambaram Stadium,5,6,6,Bat,6,5,Wickets,4,236,260,237,5,5,20,4
+10110,2009,2009-04-28,Dharamsala,HPCA Stadium,3,7,7,Bat,3,7,Runs,39,228,187,159,16,6,17,10
+10111,2009,2009-04-29,Mohali,PCA Stadium,1,2,2,Bat,2,1,Wickets,9,129,236,131,6,4,19,8
+10112,2009,2009-04-30,Kolkata,Eden Gardens,4,2,4,Bat,4,2,Runs,8,223,221,187,16,3,12,5
+10113,2009,2009-05-01,Hyderabad,Rajiv Gandhi Intl. Stadium,7,4,4,Bat,7,4,Runs,48,229,150,266,14,8,13,5
+10114,2009,2009-05-02,Bengaluru,M. Chinnaswamy Stadium,2,3,2,Field,2,3,Wickets,1,169,161,146,8,3,12,10
+10115,2009,2009-05-03,Bengaluru,M. Chinnaswamy Stadium,4,5,4,Bat,5,4,Runs,83,117,162,209,14,4,19,10
+10116,2009,2009-05-04,Hyderabad,Rajiv Gandhi Intl. Stadium,3,4,4,Field,4,3,Wickets,4,192,238,195,11,1,8,8
+10117,2009,2009-05-05,Mohali,PCA Stadium,6,3,3,Field,6,3,Wickets,2,216,188,234,9,4,11,2
+10118,2009,2009-05-06,Pune,MCA Stadium,5,2,5,Field,2,5,Runs,4,242,251,139,11,6,19,0
+10119,2009,2009-05-07,Ahmedabad,Narendra Modi Stadium,5,6,5,Field,5,6,Wickets,6,191,148,222,13,2,12,1
+10120,2009,2009-05-08,Mohali,PCA Stadium,4,2,2,Bat,2,4,Runs,29,172,183,139,17,5,13,4
+10121,2009,2009-05-09,Lucknow,Ekana Cricket Stadium,5,3,3,Bat,3,5,Runs,82,133,225,157,13,1,18,6
+10122,2009,2009-05-10,Mohali,PCA Stadium,5,3,3,Bat,5,3,Runs,26,227,222,211,18,2,20,1
+10123,2009,2009-05-11,Delhi,Arun Jaitley Stadium,4,3,4,Field,4,3,Runs,58,168,148,194,17,2,15,1
+10124,2009,2009-05-12,Jaipur,Sawai Mansingh Stadium,2,5,5,Field,5,2,Wickets,8,116,134,207,16,5,8,5
+10125,2009,2009-05-13,Dharamsala,HPCA Stadium,7,5,7,Bat,7,5,Runs,29,203,184,255,6,6,16,9
+10126,2009,2009-05-14,Dharamsala,HPCA Stadium,3,2,3,Bat,2,3,Wickets,8,201,216,147,7,5,15,5
+10127,2009,2009-05-15,Dharamsala,HPCA Stadium,7,2,7,Field,7,2,Runs,29,183,159,251,14,8,10,1
+10128,2009,2009-05-16,Chennai,MA Chidambaram Stadium,3,6,3,Field,6,3,Runs,77,142,144,248,6,6,15,6
+10129,2009,2009-05-17,Pune,MCA Stadium,1,5,5,Field,1,5,Runs,89,196,182,122,6,8,12,9
+10130,2009,2009-05-18,Mumbai,Wankhede Stadium,5,6,5,Field,5,6,Runs,37,239,232,220,8,4,16,3
+10131,2009,2009-05-19,Hyderabad,Rajiv Gandhi Intl. Stadium,3,6,6,Field,3,6,Runs,71,239,228,158,5,0,18,1
+10132,2009,2009-05-20,Delhi,Arun Jaitley Stadium,1,5,5,Bat,1,5,Runs,13,231,221,109,12,0,9,2
+10133,2009,2009-05-21,Mumbai,Wankhede Stadium,7,1,1,Field,1,7,Wickets,2,126,154,105,15,2,13,5
+10134,2009,2009-05-22,Mumbai,Wankhede Stadium,4,5,5,Bat,5,4,Wickets,3,217,232,209,18,6,19,7
+10135,2009,2009-05-23,Mumbai,Wankhede Stadium,7,4,7,Bat,7,4,Runs,21,254,228,269,15,7,10,9
+10136,2009,2009-05-24,Jaipur,Sawai Mansingh Stadium,4,3,4,Bat,3,4,Wickets,2,227,230,159,15,5,8,10
+10137,2009,2009-05-25,Hyderabad,Rajiv Gandhi Intl. Stadium,5,6,5,Field,5,6,Wickets,4,208,203,218,14,0,8,10
+10138,2009,2009-05-26,Mohali,PCA Stadium,2,5,5,Field,2,5,Runs,63,198,189,127,13,3,16,10
+10139,2009,2009-05-27,Hyderabad,Rajiv Gandhi Intl. Stadium,4,7,4,Bat,7,4,Wickets,10,137,232,265,10,1,15,10
+10140,2009,2009-05-28,Lucknow,Ekana Cricket Stadium,1,7,7,Field,1,7,Runs,12,253,235,107,15,7,13,5
+10141,2010,2010-03-20,Dharamsala,HPCA Stadium,7,1,7,Field,1,7,Wickets,6,230,234,125,15,3,8,5
+10142,2010,2010-03-21,Hyderabad,Rajiv Gandhi Intl. Stadium,3,6,6,Field,3,6,Runs,22,213,209,159,14,3,11,1
+10143,2010,2010-03-22,Jaipur,Sawai Mansingh Stadium,7,4,7,Field,7,4,Wickets,2,161,136,265,12,8,10,7
+10144,2010,2010-03-23,Lucknow,Ekana Cricket Stadium,1,5,1,Field,5,1,Runs,89,159,163,213,15,5,16,6
+10145,2010,2010-03-24,Hyderabad,Rajiv Gandhi Intl. Stadium,4,5,4,Field,5,4,Wickets,5,149,163,220,16,8,12,8
+10146,2010,2010-03-25,Pune,MCA Stadium,7,3,7,Bat,7,3,Wickets,6,167,150,268,16,5,19,1
+10147,2010,2010-03-26,Ahmedabad,Narendra Modi Stadium,7,3,3,Field,3,7,Wickets,1,142,155,155,5,0,11,4
+10148,2010,2010-03-27,Delhi,Arun Jaitley Stadium,7,2,2,Field,7,2,Runs,89,245,243,262,18,7,9,9
+10149,2010,2010-03-28,Jaipur,Sawai Mansingh Stadium,7,6,7,Field,7,6,Wickets,1,214,211,272,10,8,8,0
+10150,2010,2010-03-29,Ahmedabad,Narendra Modi Stadium,6,3,6,Field,6,3,Wickets,10,165,154,235,12,2,18,1
+10151,2010,2010-03-30,Ahmedabad,Narendra Modi Stadium,2,7,2,Field,2,7,Wickets,5,182,138,131,14,4,8,5
+10152,2010,2010-03-31,Chennai,MA Chidambaram Stadium,4,6,4,Bat,4,6,Wickets,10,256,230,194,13,5,9,5
+10153,2010,2010-04-01,Ahmedabad,Narendra Modi Stadium,5,2,5,Bat,5,2,Wickets,9,218,128,212,8,3,18,5
+10154,2010,2010-04-02,Pune,MCA Stadium,3,7,7,Bat,7,3,Runs,15,203,219,258,15,3,8,10
+10155,2010,2010-04-03,Ahmedabad,Narendra Modi Stadium,3,4,3,Field,4,3,Wickets,1,210,236,192,12,7,8,4
+10156,2010,2010-04-04,Ahmedabad,Narendra Modi Stadium,6,2,2,Bat,6,2,Runs,69,128,121,247,15,3,18,6
+10157,2010,2010-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,7,1,7,Field,7,1,Runs,4,199,114,253,6,0,10,4
+10158,2010,2010-04-06,Pune,MCA Stadium,5,1,5,Field,1,5,Wickets,8,218,229,101,11,1,16,0
+10159,2010,2010-04-07,Mumbai,Wankhede Stadium,6,7,6,Bat,6,7,Wickets,9,189,182,245,6,4,20,7
+10160,2010,2010-04-08,Dharamsala,HPCA Stadium,4,7,4,Field,4,7,Runs,18,254,244,196,7,4,18,10
+10161,2010,2010-04-09,Lucknow,Ekana Cricket Stadium,3,1,3,Bat,3,1,Runs,74,260,242,153,9,3,19,5
+10162,2010,2010-04-10,Delhi,Arun Jaitley Stadium,2,4,2,Bat,2,4,Runs,79,164,134,131,15,0,20,8
+10163,2010,2010-04-11,Kolkata,Eden Gardens,4,6,4,Field,4,6,Wickets,2,239,189,187,7,3,9,4
+10164,2010,2010-04-12,Lucknow,Ekana Cricket Stadium,5,1,5,Field,1,5,Wickets,6,193,212,119,10,5,14,2
+10165,2010,2010-04-13,Bengaluru,M. Chinnaswamy Stadium,1,3,1,Bat,3,1,Wickets,6,199,227,165,12,5,20,4
+10166,2010,2010-04-14,Ahmedabad,Narendra Modi Stadium,4,5,4,Bat,4,5,Wickets,3,196,172,196,6,1,8,8
+10167,2010,2010-04-15,Ahmedabad,Narendra Modi Stadium,6,1,1,Bat,6,1,Wickets,9,235,143,237,11,3,20,9
+10168,2010,2010-04-16,Ahmedabad,Narendra Modi Stadium,6,3,6,Field,6,3,Wickets,6,194,166,245,15,2,20,8
+10169,2010,2010-04-17,Chennai,MA Chidambaram Stadium,2,4,2,Bat,2,4,Wickets,6,237,229,128,9,5,11,0
+10170,2010,2010-04-18,Chennai,MA Chidambaram Stadium,6,2,2,Field,2,6,Wickets,1,197,220,142,15,4,19,4
+10171,2010,2010-04-19,Pune,MCA Stadium,5,7,5,Field,7,5,Wickets,10,134,237,259,11,3,16,6
+10172,2010,2010-04-20,Bengaluru,M. Chinnaswamy Stadium,3,7,7,Field,3,7,Runs,57,173,124,167,15,4,11,2
+10173,2010,2010-04-21,Dharamsala,HPCA Stadium,2,7,7,Bat,2,7,Wickets,6,250,228,141,12,3,17,2
+10174,2010,2010-04-22,Lucknow,Ekana Cricket Stadium,6,4,6,Bat,6,4,Runs,74,156,139,246,13,0,17,2
+10175,2010,2010-04-23,Delhi,Arun Jaitley Stadium,1,2,2,Bat,2,1,Runs,85,136,160,140,14,7,15,2
+10176,2010,2010-04-24,Mohali,PCA Stadium,2,4,2,Bat,4,2,Runs,88,231,239,188,11,2,9,0
+10177,2010,2010-04-25,Lucknow,Ekana Cricket Stadium,2,5,5,Bat,2,5,Runs,61,258,241,150,6,1,15,10
+10178,2010,2010-04-26,Dharamsala,HPCA Stadium,2,5,2,Field,5,2,Wickets,1,224,250,216,17,6,13,9
+10179,2010,2010-04-27,Kolkata,Eden Gardens,7,6,7,Field,7,6,Wickets,8,197,177,268,11,4,11,0
+10180,2010,2010-04-28,Dharamsala,HPCA Stadium,6,7,6,Bat,6,7,Wickets,4,221,209,229,7,6,18,9
+10181,2010,2010-04-29,Jaipur,Sawai Mansingh Stadium,3,7,7,Field,7,3,Wickets,4,238,250,268,13,7,12,4
+10182,2010,2010-04-30,Dharamsala,HPCA Stadium,5,3,3,Bat,5,3,Runs,58,156,130,207,13,6,20,5
+10183,2010,2010-05-01,Bengaluru,M. Chinnaswamy Stadium,7,5,7,Bat,5,7,Runs,12,235,238,203,9,3,13,1
+10184,2010,2010-05-02,Pune,MCA Stadium,5,1,1,Field,1,5,Runs,23,241,242,107,18,8,12,3
+10185,2010,2010-05-03,Pune,MCA Stadium,1,5,1,Bat,1,5,Wickets,4,148,145,109,17,6,13,10
+10186,2010,2010-05-04,Delhi,Arun Jaitley Stadium,4,7,4,Bat,4,7,Runs,71,204,193,184,8,3,15,6
+10187,2010,2010-05-05,Mumbai,Wankhede Stadium,5,1,1,Bat,1,5,Runs,72,243,254,104,17,8,12,8
+10188,2010,2010-05-06,Mohali,PCA Stadium,7,5,5,Field,5,7,Wickets,4,232,260,219,18,0,15,1
+10189,2010,2010-05-07,Mohali,PCA Stadium,3,1,1,Bat,3,1,Wickets,7,180,172,160,6,6,18,5
+10190,2010,2010-05-08,Lucknow,Ekana Cricket Stadium,1,5,1,Field,5,1,Wickets,4,183,207,222,8,7,19,3
+10191,2010,2010-05-09,Kolkata,Eden Gardens,2,6,2,Field,2,6,Runs,26,206,144,150,6,1,9,10
+10192,2010,2010-05-10,Mohali,PCA Stadium,6,4,6,Bat,4,6,Wickets,10,241,257,181,17,8,12,6
+10193,2010,2010-05-11,Chennai,MA Chidambaram Stadium,2,5,2,Bat,5,2,Wickets,9,243,256,222,17,2,15,1
+10194,2010,2010-05-12,Kolkata,Eden Gardens,6,5,5,Field,6,5,Runs,87,212,130,236,10,4,10,8
+10195,2010,2010-05-13,Hyderabad,Rajiv Gandhi Intl. Stadium,3,2,2,Field,2,3,Wickets,3,223,237,148,17,5,13,6
+10196,2010,2010-05-14,Kolkata,Eden Gardens,3,4,3,Bat,3,4,Runs,35,225,202,157,7,2,15,0
+10197,2010,2010-05-15,Delhi,Arun Jaitley Stadium,2,4,4,Bat,4,2,Wickets,5,127,206,179,16,2,8,3
+10198,2010,2010-05-16,Mohali,PCA Stadium,7,3,3,Bat,3,7,Wickets,5,207,219,151,11,1,13,10
+10199,2010,2010-05-17,Hyderabad,Rajiv Gandhi Intl. Stadium,5,2,5,Field,2,5,Wickets,9,229,242,145,9,7,18,2
+10200,2010,2010-05-18,Bengaluru,M. Chinnaswamy Stadium,7,2,2,Field,2,7,Runs,11,202,213,136,15,4,19,4
+10201,2010,2010-05-19,Ahmedabad,Narendra Modi Stadium,5,6,6,Field,6,5,Wickets,10,230,236,231,18,0,10,3
+10202,2010,2010-05-20,Mumbai,Wankhede Stadium,6,3,6,Bat,6,3,Wickets,2,244,226,227,5,6,16,1
+10203,2010,2010-05-21,Kolkata,Eden Gardens,1,3,1,Bat,3,1,Wickets,4,187,218,171,7,2,16,2
+10204,2010,2010-05-22,Delhi,Arun Jaitley Stadium,1,7,7,Field,7,1,Wickets,9,228,251,268,7,7,18,10
+10205,2010,2010-05-23,Hyderabad,Rajiv Gandhi Intl. Stadium,5,4,4,Field,4,5,Runs,12,193,198,189,9,2,12,0
+10206,2010,2010-05-24,Chennai,MA Chidambaram Stadium,1,5,1,Field,5,1,Wickets,9,240,250,201,17,6,20,4
+10207,2010,2010-05-25,Jaipur,Sawai Mansingh Stadium,5,2,5,Field,5,2,Wickets,9,216,168,206,16,6,14,3
+10208,2010,2010-05-26,Delhi,Arun Jaitley Stadium,3,1,1,Bat,1,3,Wickets,9,220,248,103,7,2,12,1
+10209,2010,2010-05-27,Chennai,MA Chidambaram Stadium,6,4,4,Field,4,6,Runs,42,153,171,176,7,1,12,4
+10210,2010,2010-05-28,Chennai,MA Chidambaram Stadium,2,6,6,Bat,2,6,Runs,20,241,160,136,11,4,20,7
+10211,2011,2011-03-20,Delhi,Arun Jaitley Stadium,3,4,3,Field,3,4,Runs,8,215,123,168,12,2,11,4
+10212,2011,2011-03-21,Kolkata,Eden Gardens,7,4,7,Bat,7,4,Wickets,8,170,155,274,17,1,16,10
+10213,2011,2011-03-22,Dharamsala,HPCA Stadium,2,4,4,Field,4,2,Runs,81,125,245,192,6,4,15,10
+10214,2011,2011-03-23,Pune,MCA Stadium,3,2,2,Bat,3,2,Runs,31,226,188,151,7,4,17,1
+10215,2011,2011-03-24,Mumbai,Wankhede Stadium,4,2,4,Bat,2,4,Runs,48,178,194,128,15,5,20,10
+10216,2011,2011-03-25,Kolkata,Eden Gardens,1,7,7,Bat,1,7,Runs,63,196,193,115,16,3,8,6
+10217,2011,2011-03-26,Ahmedabad,Narendra Modi Stadium,3,6,3,Field,3,6,Wickets,8,260,243,166,8,2,16,5
+10218,2011,2011-03-27,Bengaluru,M. Chinnaswamy Stadium,3,6,6,Field,3,6,Runs,68,230,180,159,13,5,15,0
+10219,2011,2011-03-28,Kolkata,Eden Gardens,7,6,6,Bat,7,6,Wickets,10,197,121,272,13,6,11,8
+10220,2011,2011-03-29,Mumbai,Wankhede Stadium,6,4,6,Field,4,6,Wickets,6,139,238,197,6,0,10,2
+10221,2011,2011-03-30,Chennai,MA Chidambaram Stadium,7,1,7,Bat,1,7,Runs,13,214,230,117,14,4,8,5
+10222,2011,2011-03-31,Hyderabad,Rajiv Gandhi Intl. Stadium,2,5,2,Bat,2,5,Wickets,2,215,197,149,11,5,20,0
+10223,2011,2011-04-01,Kolkata,Eden Gardens,7,5,5,Bat,7,5,Wickets,2,139,130,274,8,8,14,3
+10224,2011,2011-04-02,Lucknow,Ekana Cricket Stadium,2,5,2,Bat,5,2,Runs,82,206,222,223,15,6,9,2
+10225,2011,2011-04-03,Mohali,PCA Stadium,7,2,2,Field,7,2,Wickets,6,214,200,275,15,6,19,5
+10226,2011,2011-04-04,Hyderabad,Rajiv Gandhi Intl. Stadium,5,2,5,Field,2,5,Wickets,8,216,240,127,9,0,16,2
+10227,2011,2011-04-05,Dharamsala,HPCA Stadium,3,1,1,Bat,3,1,Wickets,1,253,235,169,14,2,9,0
+10228,2011,2011-04-06,Kolkata,Eden Gardens,4,3,4,Bat,3,4,Wickets,10,174,200,160,6,6,17,3
+10229,2011,2011-04-07,Mumbai,Wankhede Stadium,6,1,1,Field,6,1,Wickets,10,191,114,249,17,6,9,0
+10230,2011,2011-04-08,Dharamsala,HPCA Stadium,7,3,3,Field,3,7,Runs,30,117,202,152,9,8,8,5
+10231,2011,2011-04-09,Pune,MCA Stadium,5,7,5,Field,5,7,Runs,7,244,219,220,14,8,9,3
+10232,2011,2011-04-10,Hyderabad,Rajiv Gandhi Intl. Stadium,4,3,3,Bat,4,3,Wickets,2,258,245,184,6,6,16,6
+10233,2011,2011-04-11,Jaipur,Sawai Mansingh Stadium,7,6,7,Bat,6,7,Runs,63,165,239,233,8,1,12,6
+10234,2011,2011-04-12,Mohali,PCA Stadium,3,6,3,Bat,6,3,Wickets,6,163,187,237,14,0,20,4
+10235,2011,2011-04-13,Kolkata,Eden Gardens,2,3,3,Bat,3,2,Runs,30,210,235,174,18,1,9,0
+10236,2011,2011-04-14,Delhi,Arun Jaitley Stadium,2,5,2,Field,2,5,Wickets,2,230,225,126,10,3,19,8
+10237,2011,2011-04-15,Lucknow,Ekana Cricket Stadium,2,7,7,Field,2,7,Runs,49,176,170,127,9,3,20,9
+10238,2011,2011-04-16,Pune,MCA Stadium,3,1,1,Bat,3,1,Wickets,5,207,132,151,9,6,11,6
+10239,2011,2011-04-17,Kolkata,Eden Gardens,5,6,5,Field,6,5,Runs,24,243,260,248,5,0,11,8
+10240,2011,2011-04-18,Pune,MCA Stadium,3,7,7,Field,3,7,Runs,45,205,195,171,9,3,16,4
+10241,2011,2011-04-19,Bengaluru,M. Chinnaswamy Stadium,7,1,1,Field,7,1,Wickets,4,227,205,255,6,6,16,10
+10242,2011,2011-04-20,Delhi,Arun Jaitley Stadium,5,6,5,Field,5,6,Runs,55,237,219,205,8,2,17,8
+10243,2011,2011-04-21,Pune,MCA Stadium,6,2,6,Field,6,2,Wickets,3,189,186,243,13,1,10,5
+10244,2011,2011-04-22,Hyderabad,Rajiv Gandhi Intl. Stadium,7,2,7,Field,2,7,Wickets,5,185,210,132,6,2,10,0
+10245,2011,2011-04-23,Chennai,MA Chidambaram Stadium,7,5,5,Bat,7,5,Runs,88,206,125,273,17,7,10,8
+10246,2011,2011-04-24,Hyderabad,Rajiv Gandhi Intl. Stadium,7,5,5,Field,7,5,Wickets,8,150,146,257,8,0,14,0
+10247,2011,2011-04-25,Hyderabad,Rajiv Gandhi Intl. Stadium,3,4,3,Bat,3,4,Runs,23,240,188,165,8,6,14,0
+10248,2011,2011-04-26,Mumbai,Wankhede Stadium,5,6,6,Field,6,5,Runs,67,230,257,227,8,8,16,6
+10249,2011,2011-04-27,Jaipur,Sawai Mansingh Stadium,6,1,1,Bat,6,1,Wickets,8,192,178,240,7,6,12,9
+10250,2011,2011-04-28,Mumbai,Wankhede Stadium,1,6,1,Field,6,1,Runs,65,161,244,230,11,6,13,7
+10251,2011,2011-04-29,Mohali,PCA Stadium,1,2,2,Bat,2,1,Runs,33,156,159,129,16,7,18,5
+10252,2011,2011-04-30,Bengaluru,M. Chinnaswamy Stadium,1,5,5,Bat,5,1,Wickets,1,200,206,205,7,0,14,4
+10253,2011,2011-05-01,Kolkata,Eden Gardens,3,6,6,Field,3,6,Runs,17,170,169,165,12,7,16,0
+10254,2011,2011-05-02,Hyderabad,Rajiv Gandhi Intl. Stadium,5,4,5,Bat,4,5,Wickets,7,135,143,193,9,8,11,0
+10255,2011,2011-05-03,Pune,MCA Stadium,2,7,2,Field,2,7,Runs,5,191,189,128,5,1,14,2
+10256,2011,2011-05-04,Mumbai,Wankhede Stadium,2,6,6,Bat,6,2,Wickets,1,191,203,238,18,1,20,6
+10257,2011,2011-05-05,Dharamsala,HPCA Stadium,7,5,7,Field,5,7,Runs,16,185,189,217,11,8,11,3
+10258,2011,2011-05-06,Lucknow,Ekana Cricket Stadium,5,1,5,Bat,1,5,Wickets,7,196,213,119,14,5,10,9
+10259,2011,2011-05-07,Kolkata,Eden Gardens,5,4,4,Field,5,4,Runs,38,136,135,215,15,1,19,3
+10260,2011,2011-05-08,Ahmedabad,Narendra Modi Stadium,7,5,5,Field,7,5,Wickets,6,169,107,271,8,4,12,1
+10261,2011,2011-05-09,Jaipur,Sawai Mansingh Stadium,3,7,7,Bat,3,7,Wickets,6,156,149,161,18,5,18,7
+10262,2011,2011-05-10,Mohali,PCA Stadium,4,1,4,Field,4,1,Wickets,9,233,210,199,5,8,12,9
+10263,2011,2011-05-11,Mumbai,Wankhede Stadium,6,7,7,Bat,6,7,Wickets,6,203,176,226,10,6,18,8
+10264,2011,2011-05-12,Dharamsala,HPCA Stadium,7,2,2,Bat,7,2,Wickets,6,188,174,253,12,3,13,7
+10265,2011,2011-05-13,Chennai,MA Chidambaram Stadium,7,3,7,Field,7,3,Runs,48,166,128,265,13,0,20,7
+10266,2011,2011-05-14,Bengaluru,M. Chinnaswamy Stadium,5,2,5,Field,2,5,Wickets,6,140,237,147,7,3,19,0
+10267,2011,2011-05-15,Lucknow,Ekana Cricket Stadium,4,7,4,Bat,7,4,Runs,88,137,190,265,5,1,16,10
+10268,2011,2011-05-16,Kolkata,Eden Gardens,6,3,6,Field,6,3,Wickets,4,188,175,243,10,7,18,1
+10269,2011,2011-05-17,Ahmedabad,Narendra Modi Stadium,3,2,3,Field,3,2,Runs,80,175,157,162,13,5,12,2
+10270,2011,2011-05-18,Mohali,PCA Stadium,6,3,6,Bat,6,3,Wickets,10,228,117,230,5,7,18,0
+10271,2011,2011-05-19,Dharamsala,HPCA Stadium,1,4,1,Bat,4,1,Wickets,3,229,239,186,18,3,19,10
+10272,2011,2011-05-20,Hyderabad,Rajiv Gandhi Intl. Stadium,7,5,7,Field,7,5,Runs,90,231,221,272,15,7,15,3
+10273,2011,2011-05-21,Pune,MCA Stadium,2,7,7,Field,7,2,Runs,90,199,214,266,5,1,15,1
+10274,2011,2011-05-22,Lucknow,Ekana Cricket Stadium,3,4,4,Bat,4,3,Wickets,10,147,235,179,11,1,13,8
+10275,2011,2011-05-23,Lucknow,Ekana Cricket Stadium,6,1,1,Field,1,6,Wickets,4,177,245,106,12,6,9,5
+10276,2011,2011-05-24,Pune,MCA Stadium,2,6,6,Field,6,2,Runs,23,134,229,229,14,7,13,8
+10277,2011,2011-05-25,Mumbai,Wankhede Stadium,1,4,1,Field,4,1,Runs,77,212,228,196,15,0,9,3
+10278,2011,2011-05-26,Delhi,Arun Jaitley Stadium,7,2,7,Bat,7,2,Wickets,9,226,219,257,15,5,12,9
+10279,2011,2011-05-27,Chennai,MA Chidambaram Stadium,7,6,6,Field,6,7,Runs,75,245,260,230,18,4,8,5
+10280,2011,2011-05-28,Kolkata,Eden Gardens,5,1,5,Field,5,1,Wickets,1,225,205,221,10,6,14,6
+10281,2012,2012-03-20,Ahmedabad,Narendra Modi Stadium,4,5,4,Bat,5,4,Runs,25,213,240,214,7,4,18,2
+10282,2012,2012-03-21,Bengaluru,M. Chinnaswamy Stadium,2,1,2,Bat,2,1,Wickets,7,161,140,139,18,7,20,9
+10283,2012,2012-03-22,Mohali,PCA Stadium,4,5,4,Field,5,4,Wickets,7,172,186,220,5,7,19,3
+10284,2012,2012-03-23,Lucknow,Ekana Cricket Stadium,6,5,5,Field,5,6,Runs,5,238,242,219,12,1,10,8
+10285,2012,2012-03-24,Pune,MCA Stadium,7,3,3,Bat,7,3,Runs,61,260,243,269,9,0,13,8
+10286,2012,2012-03-25,Mohali,PCA Stadium,7,1,1,Field,1,7,Wickets,7,190,196,102,16,4,19,9
+10287,2012,2012-03-26,Chennai,MA Chidambaram Stadium,3,1,1,Bat,3,1,Wickets,10,232,229,155,13,1,20,4
+10288,2012,2012-03-27,Lucknow,Ekana Cricket Stadium,3,2,2,Field,2,3,Runs,15,159,181,140,10,2,12,3
+10289,2012,2012-03-28,Bengaluru,M. Chinnaswamy Stadium,4,2,4,Field,4,2,Runs,77,241,210,200,11,3,18,7
+10290,2012,2012-03-29,Delhi,Arun Jaitley Stadium,6,7,6,Bat,7,6,Runs,83,144,150,265,11,7,12,7
+10291,2012,2012-03-30,Bengaluru,M. Chinnaswamy Stadium,6,5,6,Field,5,6,Wickets,5,226,236,215,11,5,16,10
+10292,2012,2012-03-31,Delhi,Arun Jaitley Stadium,1,7,7,Field,7,1,Wickets,5,140,170,271,14,6,15,10
+10293,2012,2012-04-01,Chennai,MA Chidambaram Stadium,6,2,6,Field,6,2,Wickets,9,123,122,239,6,8,9,10
+10294,2012,2012-04-02,Chennai,MA Chidambaram Stadium,4,3,4,Field,3,4,Runs,5,138,158,172,18,3,17,10
+10295,2012,2012-04-03,Bengaluru,M. Chinnaswamy Stadium,1,6,1,Bat,1,6,Wickets,10,161,152,110,12,1,18,7
+10296,2012,2012-04-04,Chennai,MA Chidambaram Stadium,3,4,4,Field,3,4,Runs,36,212,204,161,5,4,12,2
+10297,2012,2012-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,4,1,1,Bat,1,4,Runs,83,142,160,125,11,3,17,10
+10298,2012,2012-04-06,Lucknow,Ekana Cricket Stadium,1,4,4,Bat,1,4,Runs,10,220,219,116,7,0,8,10
+10299,2012,2012-04-07,Dharamsala,HPCA Stadium,4,3,4,Field,3,4,Runs,66,240,254,163,18,1,16,3
+10300,2012,2012-04-08,Jaipur,Sawai Mansingh Stadium,1,4,4,Bat,4,1,Wickets,5,129,141,193,18,5,9,7
+10301,2012,2012-04-09,Delhi,Arun Jaitley Stadium,7,3,7,Bat,7,3,Wickets,4,214,132,271,16,5,15,1
+10302,2012,2012-04-10,Dharamsala,HPCA Stadium,6,4,6,Bat,6,4,Runs,4,243,230,228,17,8,18,4
+10303,2012,2012-04-11,Mohali,PCA Stadium,4,5,5,Bat,4,5,Wickets,1,212,208,182,17,8,15,10
+10304,2012,2012-04-12,Hyderabad,Rajiv Gandhi Intl. Stadium,7,5,7,Bat,7,5,Runs,19,255,225,270,5,3,19,10
+10305,2012,2012-04-13,Lucknow,Ekana Cricket Stadium,2,1,2,Bat,1,2,Runs,59,158,185,104,6,7,17,9
+10306,2012,2012-04-14,Mumbai,Wankhede Stadium,2,1,2,Field,1,2,Wickets,6,150,187,107,17,0,17,2
+10307,2012,2012-04-15,Dharamsala,HPCA Stadium,3,1,3,Field,3,1,Wickets,3,209,147,165,8,0,10,1
+10308,2012,2012-04-16,Chennai,MA Chidambaram Stadium,7,6,6,Bat,7,6,Wickets,2,180,150,253,16,4,14,7
+10309,2012,2012-04-17,Kolkata,Eden Gardens,6,2,6,Bat,2,6,Wickets,7,159,179,131,16,7,17,1
+10310,2012,2012-04-18,Mumbai,Wankhede Stadium,6,3,3,Field,6,3,Runs,25,225,197,250,13,8,11,7
+10311,2012,2012-04-19,Bengaluru,M. Chinnaswamy Stadium,7,6,7,Field,7,6,Runs,15,236,232,256,7,0,8,10
+10312,2012,2012-04-20,Hyderabad,Rajiv Gandhi Intl. Stadium,3,7,3,Field,7,3,Wickets,10,126,131,274,5,8,10,2
+10313,2012,2012-04-21,Lucknow,Ekana Cricket Stadium,7,1,1,Bat,7,1,Runs,57,219,212,274,15,5,11,1
+10314,2012,2012-04-22,Kolkata,Eden Gardens,3,2,3,Bat,2,3,Runs,49,133,225,144,12,0,14,2
+10315,2012,2012-04-23,Hyderabad,Rajiv Gandhi Intl. Stadium,2,5,5,Bat,5,2,Wickets,3,164,196,209,8,5,10,0
+10316,2012,2012-04-24,Hyderabad,Rajiv Gandhi Intl. Stadium,6,5,6,Field,6,5,Runs,60,222,148,250,10,3,12,9
+10317,2012,2012-04-25,Hyderabad,Rajiv Gandhi Intl. Stadium,2,6,2,Bat,2,6,Wickets,9,253,226,140,9,0,19,6
+10318,2012,2012-04-26,Bengaluru,M. Chinnaswamy Stadium,6,2,6,Field,2,6,Runs,76,116,211,127,5,7,19,8
+10319,2012,2012-04-27,Kolkata,Eden Gardens,1,4,4,Field,1,4,Wickets,8,136,108,123,16,6,11,2
+10320,2012,2012-04-28,Bengaluru,M. Chinnaswamy Stadium,3,7,3,Bat,3,7,Wickets,5,232,111,165,12,2,19,6
+10321,2012,2012-04-29,Ahmedabad,Narendra Modi Stadium,2,3,3,Bat,2,3,Wickets,6,194,180,150,9,8,17,3
+10322,2012,2012-04-30,Mumbai,Wankhede Stadium,7,6,7,Field,7,6,Wickets,1,213,198,265,14,0,13,5
+10323,2012,2012-05-01,Ahmedabad,Narendra Modi Stadium,2,6,2,Bat,2,6,Wickets,4,251,227,150,14,3,20,3
+10324,2012,2012-05-02,Mohali,PCA Stadium,3,7,7,Field,7,3,Runs,9,203,220,266,13,8,9,7
+10325,2012,2012-05-03,Hyderabad,Rajiv Gandhi Intl. Stadium,6,5,5,Field,5,6,Runs,25,137,150,206,9,1,9,2
+10326,2012,2012-05-04,Pune,MCA Stadium,3,1,3,Field,3,1,Runs,67,194,180,172,13,2,15,5
+10327,2012,2012-05-05,Kolkata,Eden Gardens,4,7,4,Field,4,7,Runs,3,229,210,186,15,5,15,9
+10328,2012,2012-05-06,Bengaluru,M. Chinnaswamy Stadium,6,7,7,Field,7,6,Runs,40,181,197,262,9,0,10,5
+10329,2012,2012-05-07,Dharamsala,HPCA Stadium,3,4,3,Bat,4,3,Runs,23,154,162,179,5,5,17,2
+10330,2012,2012-05-08,Mohali,PCA Stadium,4,3,3,Bat,4,3,Runs,86,203,142,187,12,8,10,8
+10331,2012,2012-05-09,Mohali,PCA Stadium,3,1,3,Field,1,3,Runs,59,154,178,118,13,5,18,4
+10332,2012,2012-05-10,Chennai,MA Chidambaram Stadium,4,3,4,Field,3,4,Runs,62,150,160,151,11,3,15,5
+10333,2012,2012-05-11,Chennai,MA Chidambaram Stadium,1,3,1,Bat,1,3,Wickets,4,260,242,115,15,1,16,6
+10334,2012,2012-05-12,Dharamsala,HPCA Stadium,2,4,4,Bat,4,2,Wickets,3,224,237,187,5,4,13,5
+10335,2012,2012-05-13,Delhi,Arun Jaitley Stadium,3,4,3,Bat,4,3,Wickets,8,156,213,199,11,2,17,9
+10336,2012,2012-05-14,Lucknow,Ekana Cricket Stadium,1,2,1,Field,2,1,Wickets,2,211,212,139,15,4,14,2
+10337,2012,2012-05-15,Ahmedabad,Narendra Modi Stadium,5,4,5,Bat,5,4,Wickets,5,240,115,210,18,4,15,8
+10338,2012,2012-05-16,Delhi,Arun Jaitley Stadium,6,4,6,Bat,6,4,Runs,34,235,136,246,15,4,14,2
+10339,2012,2012-05-17,Mumbai,Wankhede Stadium,4,6,4,Bat,4,6,Wickets,8,247,228,189,18,4,18,10
+10340,2012,2012-05-18,Lucknow,Ekana Cricket Stadium,4,6,4,Field,4,6,Wickets,3,153,142,190,16,2,13,2
+10341,2012,2012-05-19,Delhi,Arun Jaitley Stadium,1,3,3,Field,3,1,Runs,38,134,236,157,17,2,20,1
+10342,2012,2012-05-20,Mumbai,Wankhede Stadium,5,2,2,Field,2,5,Wickets,6,205,206,130,13,4,13,7
+10343,2012,2012-05-21,Kolkata,Eden Gardens,4,3,4,Bat,4,3,Runs,65,260,239,193,16,8,19,1
+10344,2012,2012-05-22,Mohali,PCA Stadium,4,7,4,Bat,4,7,Runs,62,202,197,190,14,8,20,5
+10345,2012,2012-05-23,Dharamsala,HPCA Stadium,2,6,6,Bat,2,6,Runs,17,173,163,130,8,2,9,6
+10346,2012,2012-05-24,Kolkata,Eden Gardens,6,1,6,Bat,1,6,Wickets,1,142,168,122,13,0,15,1
+10347,2012,2012-05-25,Lucknow,Ekana Cricket Stadium,3,1,3,Field,3,1,Runs,16,167,156,156,15,5,8,1
+10348,2012,2012-05-26,Dharamsala,HPCA Stadium,2,6,6,Field,6,2,Runs,65,176,234,244,6,1,17,0
+10349,2012,2012-05-27,Kolkata,Eden Gardens,5,2,5,Field,5,2,Runs,13,244,226,212,16,2,15,10
+10350,2012,2012-05-28,Kolkata,Eden Gardens,1,2,2,Field,2,1,Runs,66,219,244,136,6,7,9,8
+10351,2013,2013-03-20,Hyderabad,Rajiv Gandhi Intl. Stadium,3,4,4,Field,3,4,Runs,42,213,203,165,14,4,18,7
+10352,2013,2013-03-21,Hyderabad,Rajiv Gandhi Intl. Stadium,4,5,5,Field,5,4,Runs,9,209,210,222,12,1,14,7
+10353,2013,2013-03-22,Mumbai,Wankhede Stadium,2,1,2,Field,1,2,Runs,22,208,219,107,14,6,9,3
+10354,2013,2013-03-23,Hyderabad,Rajiv Gandhi Intl. Stadium,7,6,6,Field,6,7,Wickets,6,218,229,242,9,2,20,7
+10355,2013,2013-03-24,Bengaluru,M. Chinnaswamy Stadium,2,1,1,Field,1,2,Runs,81,122,130,124,5,1,15,10
+10356,2013,2013-03-25,Lucknow,Ekana Cricket Stadium,1,2,2,Field,1,2,Wickets,10,139,124,122,17,8,20,7
+10357,2013,2013-03-26,Mohali,PCA Stadium,8,2,2,Field,2,8,Wickets,9,119,133,129,11,7,13,6
+10358,2013,2013-03-27,Hyderabad,Rajiv Gandhi Intl. Stadium,8,4,8,Bat,8,4,Wickets,3,225,139,285,16,6,15,1
+10359,2013,2013-03-28,Delhi,Arun Jaitley Stadium,8,6,6,Field,8,6,Runs,51,241,201,295,15,5,20,4
+10360,2013,2013-03-29,Dharamsala,HPCA Stadium,6,1,6,Bat,6,1,Wickets,6,205,192,229,11,5,13,6
+10361,2013,2013-03-30,Mumbai,Wankhede Stadium,6,1,6,Bat,6,1,Wickets,10,187,183,236,7,0,16,5
+10362,2013,2013-03-31,Hyderabad,Rajiv Gandhi Intl. Stadium,1,4,4,Field,4,1,Runs,90,120,186,188,14,6,13,9
+10363,2013,2013-04-01,Ahmedabad,Narendra Modi Stadium,2,7,7,Bat,2,7,Wickets,8,201,147,145,9,5,14,3
+10364,2013,2013-04-02,Delhi,Arun Jaitley Stadium,8,6,8,Bat,6,8,Wickets,1,217,237,249,6,1,17,5
+10365,2013,2013-04-03,Pune,MCA Stadium,5,1,1,Field,5,1,Wickets,2,260,234,210,11,8,13,3
+10366,2013,2013-04-04,Dharamsala,HPCA Stadium,7,4,4,Field,7,4,Runs,81,239,232,272,18,7,12,10
+10367,2013,2013-04-05,Kolkata,Eden Gardens,7,5,7,Bat,5,7,Wickets,3,153,181,214,11,5,9,10
+10368,2013,2013-04-06,Pune,MCA Stadium,4,7,7,Field,7,4,Runs,33,175,208,258,6,2,11,0
+10369,2013,2013-04-07,Pune,MCA Stadium,4,7,7,Field,7,4,Wickets,7,124,156,256,9,2,8,4
+10370,2013,2013-04-08,Mumbai,Wankhede Stadium,5,6,5,Bat,6,5,Runs,8,195,223,228,11,5,18,10
+10371,2013,2013-04-09,Pune,MCA Stadium,2,4,2,Bat,2,4,Runs,67,260,232,128,8,1,20,5
+10372,2013,2013-04-10,Mumbai,Wankhede Stadium,6,7,7,Bat,7,6,Runs,19,159,168,265,11,4,17,0
+10373,2013,2013-04-11,Pune,MCA Stadium,8,5,5,Bat,5,8,Wickets,8,178,207,205,10,7,19,5
+10374,2013,2013-04-12,Jaipur,Sawai Mansingh Stadium,5,1,5,Bat,5,1,Wickets,9,226,197,222,6,8,11,7
+10375,2013,2013-04-13,Delhi,Arun Jaitley Stadium,7,1,1,Field,1,7,Runs,31,168,198,115,15,5,20,10
+10376,2013,2013-04-14,Dharamsala,HPCA Stadium,7,8,7,Field,7,8,Wickets,8,220,190,273,11,1,10,4
+10377,2013,2013-04-15,Pune,MCA Stadium,2,3,3,Field,3,2,Runs,7,162,218,171,7,0,14,3
+10378,2013,2013-04-16,Dharamsala,HPCA Stadium,5,3,5,Bat,5,3,Runs,67,236,210,211,12,7,19,2
+10379,2013,2013-04-17,Mohali,PCA Stadium,5,2,2,Field,5,2,Runs,54,234,205,213,18,3,8,0
+10380,2013,2013-04-18,Jaipur,Sawai Mansingh Stadium,4,1,1,Bat,1,4,Runs,7,224,229,103,10,2,17,1
+10381,2013,2013-04-19,Dharamsala,HPCA Stadium,1,6,6,Field,6,1,Runs,29,167,195,234,9,7,14,2
+10382,2013,2013-04-20,Bengaluru,M. Chinnaswamy Stadium,7,8,7,Bat,8,7,Runs,54,219,220,285,9,3,17,7
+10383,2013,2013-04-21,Mohali,PCA Stadium,4,3,3,Bat,4,3,Wickets,3,216,159,198,11,6,19,9
+10384,2013,2013-04-22,Hyderabad,Rajiv Gandhi Intl. Stadium,5,1,5,Bat,5,1,Wickets,4,205,116,201,9,8,17,6
+10385,2013,2013-04-23,Bengaluru,M. Chinnaswamy Stadium,5,4,4,Bat,5,4,Runs,34,243,231,211,12,2,9,5
+10386,2013,2013-04-24,Hyderabad,Rajiv Gandhi Intl. Stadium,7,2,2,Bat,2,7,Runs,17,186,197,139,9,4,17,4
+10387,2013,2013-04-25,Pune,MCA Stadium,6,4,6,Field,4,6,Runs,72,227,234,180,5,3,10,0
+10388,2013,2013-04-26,Chennai,MA Chidambaram Stadium,8,3,8,Field,3,8,Runs,64,228,251,168,12,7,15,1
+10389,2013,2013-04-27,Bengaluru,M. Chinnaswamy Stadium,3,1,1,Bat,3,1,Wickets,3,245,174,169,15,3,17,0
+10390,2013,2013-04-28,Chennai,MA Chidambaram Stadium,3,4,3,Bat,4,3,Runs,43,187,200,187,14,1,13,2
+10391,2013,2013-04-29,Pune,MCA Stadium,1,8,8,Field,8,1,Wickets,10,116,189,277,15,7,13,9
+10392,2013,2013-04-30,Ahmedabad,Narendra Modi Stadium,3,2,3,Field,2,3,Runs,10,212,225,134,7,3,20,6
+10393,2013,2013-05-01,Pune,MCA Stadium,2,1,2,Bat,1,2,Wickets,5,154,164,116,17,6,19,4
+10394,2013,2013-05-02,Jaipur,Sawai Mansingh Stadium,3,8,3,Field,3,8,Wickets,8,236,173,169,14,6,9,6
+10395,2013,2013-05-03,Ahmedabad,Narendra Modi Stadium,6,5,6,Field,5,6,Runs,6,202,223,222,8,2,15,8
+10396,2013,2013-05-04,Bengaluru,M. Chinnaswamy Stadium,2,3,3,Field,2,3,Wickets,5,208,181,133,13,6,12,9
+10397,2013,2013-05-05,Mumbai,Wankhede Stadium,1,5,1,Bat,1,5,Wickets,7,233,169,112,9,1,20,8
+10398,2013,2013-05-06,Mumbai,Wankhede Stadium,1,8,8,Bat,1,8,Wickets,1,221,181,111,14,7,20,10
+10399,2013,2013-05-07,Mumbai,Wankhede Stadium,8,5,5,Field,8,5,Runs,24,181,132,289,13,0,8,6
+10400,2013,2013-05-08,Dharamsala,HPCA Stadium,2,1,2,Field,1,2,Wickets,10,239,259,120,10,6,20,4
+10401,2013,2013-05-09,Dharamsala,HPCA Stadium,2,8,2,Bat,2,8,Runs,3,163,111,132,12,2,18,3
+10402,2013,2013-05-10,Hyderabad,Rajiv Gandhi Intl. Stadium,7,8,7,Bat,8,7,Wickets,3,223,227,281,7,7,15,7
+10403,2013,2013-05-11,Jaipur,Sawai Mansingh Stadium,1,7,7,Bat,1,7,Wickets,10,191,190,104,15,6,14,7
+10404,2013,2013-05-12,Dharamsala,HPCA Stadium,5,1,1,Field,1,5,Wickets,4,130,240,101,11,5,16,1
+10405,2013,2013-05-13,Pune,MCA Stadium,5,6,6,Field,5,6,Wickets,10,242,219,214,5,2,12,3
+10406,2013,2013-05-14,Dharamsala,HPCA Stadium,8,3,3,Bat,8,3,Wickets,10,234,138,285,16,6,14,10
+10407,2013,2013-05-15,Pune,MCA Stadium,6,7,7,Bat,6,7,Wickets,2,238,138,231,8,2,17,7
+10408,2013,2013-05-16,Ahmedabad,Narendra Modi Stadium,2,7,7,Field,7,2,Runs,27,127,139,259,10,2,10,8
+10409,2013,2013-05-17,Kolkata,Eden Gardens,1,7,1,Field,7,1,Runs,80,145,162,266,9,5,20,5
+10410,2013,2013-05-18,Hyderabad,Rajiv Gandhi Intl. Stadium,1,7,7,Bat,1,7,Runs,57,143,132,120,14,1,16,0
+10411,2013,2013-05-19,Dharamsala,HPCA Stadium,2,8,2,Bat,8,2,Runs,38,228,234,291,16,1,10,10
+10412,2013,2013-05-20,Chennai,MA Chidambaram Stadium,6,3,6,Bat,6,3,Wickets,7,237,226,235,13,2,9,4
+10413,2013,2013-05-21,Jaipur,Sawai Mansingh Stadium,6,8,8,Field,6,8,Runs,68,173,140,239,11,6,15,8
+10414,2013,2013-05-22,Mohali,PCA Stadium,6,1,1,Bat,6,1,Runs,11,232,207,231,11,0,14,0
+10415,2013,2013-05-23,Delhi,Arun Jaitley Stadium,3,5,3,Field,5,3,Wickets,9,195,196,209,13,2,19,6
+10416,2013,2013-05-24,Delhi,Arun Jaitley Stadium,8,6,8,Field,6,8,Wickets,4,136,154,236,11,2,16,8
+10417,2013,2013-05-25,Chennai,MA Chidambaram Stadium,5,2,5,Field,2,5,Runs,3,181,208,150,9,6,16,1
+10418,2013,2013-05-26,Pune,MCA Stadium,1,7,7,Field,7,1,Runs,7,146,219,260,14,0,15,5
+10419,2013,2013-05-27,Pune,MCA Stadium,4,7,4,Field,7,4,Wickets,10,150,201,267,16,3,9,5
+10420,2013,2013-05-28,Jaipur,Sawai Mansingh Stadium,4,7,7,Field,4,7,Runs,55,135,128,177,11,2,15,3
+10421,2014,2014-03-20,Hyderabad,Rajiv Gandhi Intl. Stadium,8,1,1,Field,1,8,Wickets,10,223,246,116,16,6,10,2
+10422,2014,2014-03-21,Hyderabad,Rajiv Gandhi Intl. Stadium,3,4,4,Bat,3,4,Runs,59,163,145,162,6,6,9,1
+10423,2014,2014-03-22,Delhi,Arun Jaitley Stadium,6,5,5,Bat,6,5,Runs,48,210,182,235,12,0,20,2
+10424,2014,2014-03-23,Bengaluru,M. Chinnaswamy Stadium,3,7,7,Bat,7,3,Wickets,4,240,244,268,10,1,8,6
+10425,2014,2014-03-24,Dharamsala,HPCA Stadium,8,5,5,Field,5,8,Wickets,8,148,165,221,12,7,18,7
+10426,2014,2014-03-25,Jaipur,Sawai Mansingh Stadium,3,7,7,Bat,7,3,Wickets,4,201,243,252,15,7,19,4
+10427,2014,2014-03-26,Ahmedabad,Narendra Modi Stadium,2,7,2,Bat,7,2,Runs,83,136,154,270,13,0,17,8
+10428,2014,2014-03-27,Delhi,Arun Jaitley Stadium,4,7,7,Bat,4,7,Runs,3,194,167,198,18,7,9,8
+10429,2014,2014-03-28,Bengaluru,M. Chinnaswamy Stadium,6,4,6,Field,6,4,Wickets,7,221,111,242,10,6,12,1
+10430,2014,2014-03-29,Mumbai,Wankhede Stadium,2,1,2,Field,2,1,Runs,33,197,183,147,7,0,17,5
+10431,2014,2014-03-30,Bengaluru,M. Chinnaswamy Stadium,3,1,3,Field,1,3,Runs,41,220,229,113,18,1,8,3
+10432,2014,2014-03-31,Chennai,MA Chidambaram Stadium,4,7,4,Field,7,4,Runs,35,196,223,268,11,1,15,0
+10433,2014,2014-04-01,Ahmedabad,Narendra Modi Stadium,7,6,7,Bat,6,7,Runs,32,147,182,244,11,7,9,10
+10434,2014,2014-04-02,Jaipur,Sawai Mansingh Stadium,4,7,4,Field,4,7,Runs,69,230,115,176,18,7,17,4
+10435,2014,2014-04-03,Mohali,PCA Stadium,3,1,3,Field,1,3,Wickets,7,169,235,110,5,2,19,8
+10436,2014,2014-04-04,Delhi,Arun Jaitley Stadium,2,3,2,Field,2,3,Runs,72,225,158,145,13,5,18,5
+10437,2014,2014-04-05,Kolkata,Eden Gardens,5,7,7,Field,5,7,Wickets,6,232,189,201,16,2,18,0
+10438,2014,2014-04-06,Ahmedabad,Narendra Modi Stadium,8,1,8,Bat,1,8,Wickets,7,135,153,101,18,7,18,1
+10439,2014,2014-04-07,Chennai,MA Chidambaram Stadium,6,7,7,Field,7,6,Runs,90,146,223,262,8,7,8,3
+10440,2014,2014-04-08,Pune,MCA Stadium,1,7,7,Field,1,7,Runs,79,192,161,108,12,5,8,4
+10441,2014,2014-04-09,Delhi,Arun Jaitley Stadium,8,6,8,Bat,8,6,Wickets,2,243,231,281,13,3,18,9
+10442,2014,2014-04-10,Kolkata,Eden Gardens,3,1,3,Bat,3,1,Wickets,10,185,154,172,5,8,17,4
+10443,2014,2014-04-11,Delhi,Arun Jaitley Stadium,8,1,1,Bat,1,8,Wickets,7,146,237,115,12,5,16,0
+10444,2014,2014-04-12,Jaipur,Sawai Mansingh Stadium,4,1,1,Field,1,4,Wickets,1,164,190,103,14,0,19,3
+10445,2014,2014-04-13,Mumbai,Wankhede Stadium,7,1,7,Bat,7,1,Wickets,5,139,112,266,11,0,17,10
+10446,2014,2014-04-14,Mohali,PCA Stadium,6,7,7,Bat,6,7,Wickets,4,207,190,233,6,7,20,1
+10447,2014,2014-04-15,Mohali,PCA Stadium,8,5,8,Bat,8,5,Runs,49,139,137,290,5,4,17,10
+10448,2014,2014-04-16,Jaipur,Sawai Mansingh Stadium,7,1,7,Bat,7,1,Wickets,7,218,210,270,17,0,15,6
+10449,2014,2014-04-17,Ahmedabad,Narendra Modi Stadium,8,7,7,Bat,7,8,Runs,59,199,203,254,5,1,17,3
+10450,2014,2014-04-18,Hyderabad,Rajiv Gandhi Intl. Stadium,3,6,6,Field,6,3,Wickets,10,162,167,230,17,0,8,2
+10451,2014,2014-04-19,Hyderabad,Rajiv Gandhi Intl. Stadium,5,8,8,Field,8,5,Runs,19,194,204,287,5,8,17,10
+10452,2014,2014-04-20,Kolkata,Eden Gardens,3,1,3,Bat,1,3,Wickets,4,166,177,107,15,7,19,7
+10453,2014,2014-04-21,Mumbai,Wankhede Stadium,6,7,7,Field,7,6,Wickets,3,231,247,258,5,3,19,3
+10454,2014,2014-04-22,Kolkata,Eden Gardens,8,5,8,Bat,5,8,Wickets,7,217,244,201,10,0,9,5
+10455,2014,2014-04-23,Pune,MCA Stadium,1,5,1,Bat,5,1,Wickets,4,207,208,207,8,4,10,3
+10456,2014,2014-04-24,Chennai,MA Chidambaram Stadium,5,6,5,Field,5,6,Runs,26,202,172,204,5,2,14,10
+10457,2014,2014-04-25,Mohali,PCA Stadium,2,3,2,Field,3,2,Runs,48,158,239,170,11,1,9,2
+10458,2014,2014-04-26,Lucknow,Ekana Cricket Stadium,3,7,3,Bat,7,3,Wickets,6,224,254,252,17,3,16,4
+10459,2014,2014-04-27,Lucknow,Ekana Cricket Stadium,3,8,3,Bat,8,3,Runs,66,240,260,278,17,7,20,10
+10460,2014,2014-04-28,Mohali,PCA Stadium,2,8,8,Field,8,2,Wickets,3,210,239,298,12,7,15,4
+10461,2014,2014-04-29,Kolkata,Eden Gardens,7,6,7,Bat,7,6,Runs,58,216,160,260,11,6,17,2
+10462,2014,2014-04-30,Ahmedabad,Narendra Modi Stadium,6,3,6,Bat,6,3,Wickets,8,205,163,244,5,7,16,9
+10463,2014,2014-05-01,Hyderabad,Rajiv Gandhi Intl. Stadium,6,4,4,Field,4,6,Wickets,6,196,209,176,7,7,11,4
+10464,2014,2014-05-02,Mumbai,Wankhede Stadium,2,3,2,Field,2,3,Wickets,4,145,123,137,5,8,11,5
+10465,2014,2014-05-03,Dharamsala,HPCA Stadium,4,6,6,Field,6,4,Wickets,4,150,244,234,5,4,12,5
+10466,2014,2014-05-04,Kolkata,Eden Gardens,7,4,7,Field,7,4,Wickets,4,234,226,267,14,8,20,7
+10467,2014,2014-05-05,Kolkata,Eden Gardens,8,3,8,Field,8,3,Wickets,7,227,220,293,5,5,10,9
+10468,2014,2014-05-06,Jaipur,Sawai Mansingh Stadium,3,8,3,Field,8,3,Wickets,4,223,248,300,16,8,12,5
+10469,2014,2014-05-07,Pune,MCA Stadium,1,5,1,Bat,1,5,Wickets,10,215,202,107,11,1,16,6
+10470,2014,2014-05-08,Bengaluru,M. Chinnaswamy Stadium,4,8,4,Field,8,4,Wickets,2,141,150,277,18,7,8,2
+10471,2014,2014-05-09,Pune,MCA Stadium,4,1,1,Field,4,1,Runs,38,223,221,187,13,0,10,5
+10472,2014,2014-05-10,Dharamsala,HPCA Stadium,7,4,7,Bat,7,4,Wickets,8,233,204,257,7,3,12,6
+10473,2014,2014-05-11,Chennai,MA Chidambaram Stadium,8,2,2,Bat,2,8,Wickets,4,151,219,128,18,6,17,3
+10474,2014,2014-05-12,Delhi,Arun Jaitley Stadium,6,5,5,Field,5,6,Runs,12,231,254,223,17,4,14,9
+10475,2014,2014-05-13,Pune,MCA Stadium,3,4,3,Bat,4,3,Wickets,7,161,174,198,5,3,10,4
+10476,2014,2014-05-14,Mumbai,Wankhede Stadium,5,6,5,Bat,6,5,Wickets,9,209,234,229,13,5,14,7
+10477,2014,2014-05-15,Pune,MCA Stadium,3,8,3,Bat,8,3,Runs,10,233,244,299,11,3,14,0
+10478,2014,2014-05-16,Hyderabad,Rajiv Gandhi Intl. Stadium,1,3,1,Bat,3,1,Wickets,8,132,150,172,8,7,10,7
+10479,2014,2014-05-17,Delhi,Arun Jaitley Stadium,5,7,5,Bat,5,7,Runs,23,260,241,213,7,1,18,0
+10480,2014,2014-05-18,Pune,MCA Stadium,5,2,2,Field,5,2,Runs,5,241,218,202,18,8,18,10
+10481,2014,2014-05-19,Jaipur,Sawai Mansingh Stadium,2,4,4,Field,2,4,Runs,7,180,168,133,8,1,8,6
+10482,2014,2014-05-20,Pune,MCA Stadium,1,8,8,Bat,1,8,Runs,13,157,147,102,11,8,9,5
+10483,2014,2014-05-21,Kolkata,Eden Gardens,6,5,6,Bat,5,6,Wickets,2,169,181,211,7,0,14,10
+10484,2014,2014-05-22,Pune,MCA Stadium,6,1,1,Bat,1,6,Runs,9,186,199,102,6,3,14,4
+10485,2014,2014-05-23,Pune,MCA Stadium,8,1,8,Field,8,1,Wickets,7,196,190,296,17,5,18,7
+10486,2014,2014-05-24,Lucknow,Ekana Cricket Stadium,2,3,2,Field,3,2,Runs,65,118,164,151,14,1,12,3
+10487,2014,2014-05-25,Hyderabad,Rajiv Gandhi Intl. Stadium,7,8,7,Bat,7,8,Runs,48,190,156,255,11,3,18,0
+10488,2014,2014-05-26,Pune,MCA Stadium,4,6,6,Field,4,6,Wickets,6,260,238,189,15,4,20,0
+10489,2014,2014-05-27,Chennai,MA Chidambaram Stadium,4,7,7,Field,4,7,Runs,70,178,161,195,18,6,16,5
+10490,2014,2014-05-28,Chennai,MA Chidambaram Stadium,3,4,3,Bat,4,3,Runs,25,151,157,180,6,2,17,8
+10491,2015,2015-03-20,Dharamsala,HPCA Stadium,4,2,4,Field,2,4,Wickets,3,165,167,139,7,3,12,4
+10492,2015,2015-03-21,Jaipur,Sawai Mansingh Stadium,8,6,8,Field,6,8,Runs,47,211,227,240,11,8,17,6
+10493,2015,2015-03-22,Delhi,Arun Jaitley Stadium,3,7,7,Bat,7,3,Wickets,2,154,163,263,12,4,15,4
+10494,2015,2015-03-23,Kolkata,Eden Gardens,7,5,5,Bat,5,7,Runs,61,154,155,201,18,8,19,5
+10495,2015,2015-03-24,Delhi,Arun Jaitley Stadium,8,4,4,Field,4,8,Wickets,8,133,209,177,6,6,17,2
+10496,2015,2015-03-25,Dharamsala,HPCA Stadium,4,7,7,Field,7,4,Wickets,6,129,203,264,16,3,11,7
+10497,2015,2015-03-26,Hyderabad,Rajiv Gandhi Intl. Stadium,1,7,7,Bat,1,7,Wickets,10,178,170,120,14,2,8,1
+10498,2015,2015-03-27,Bengaluru,M. Chinnaswamy Stadium,2,6,6,Field,2,6,Runs,55,224,169,148,9,8,16,10
+10499,2015,2015-03-28,Lucknow,Ekana Cricket Stadium,7,5,5,Field,7,5,Runs,82,203,141,259,16,3,19,6
+10500,2015,2015-03-29,Dharamsala,HPCA Stadium,5,1,5,Field,5,1,Runs,9,253,239,221,9,6,10,2
+10501,2015,2015-03-30,Mumbai,Wankhede Stadium,6,2,6,Bat,2,6,Runs,65,230,236,132,5,2,20,3
+10502,2015,2015-03-31,Delhi,Arun Jaitley Stadium,5,7,7,Field,5,7,Runs,11,205,201,209,6,5,8,9
+10503,2015,2015-04-01,Chennai,MA Chidambaram Stadium,4,8,8,Bat,4,8,Runs,35,136,129,192,17,0,14,9
+10504,2015,2015-04-02,Pune,MCA Stadium,5,4,4,Field,4,5,Wickets,6,202,229,183,10,6,14,9
+10505,2015,2015-04-03,Dharamsala,HPCA Stadium,1,3,3,Bat,1,3,Wickets,7,150,111,120,6,8,12,3
+10506,2015,2015-04-04,Mohali,PCA Stadium,6,4,4,Field,6,4,Runs,82,225,197,227,17,5,18,7
+10507,2015,2015-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,4,5,5,Field,4,5,Wickets,7,213,203,195,8,2,16,9
+10508,2015,2015-04-06,Hyderabad,Rajiv Gandhi Intl. Stadium,1,2,2,Bat,2,1,Wickets,3,144,228,147,13,3,11,3
+10509,2015,2015-04-07,Mohali,PCA Stadium,3,7,3,Bat,7,3,Runs,21,213,221,274,9,7,18,1
+10510,2015,2015-04-08,Lucknow,Ekana Cricket Stadium,3,5,5,Bat,5,3,Runs,74,131,192,213,16,6,18,10
+10511,2015,2015-04-09,Mumbai,Wankhede Stadium,7,8,7,Bat,8,7,Runs,38,143,154,299,14,3,19,1
+10512,2015,2015-04-10,Lucknow,Ekana Cricket Stadium,6,2,2,Field,6,2,Wickets,1,218,204,236,17,5,20,10
+10513,2015,2015-04-11,Hyderabad,Rajiv Gandhi Intl. Stadium,3,5,3,Bat,5,3,Runs,69,195,222,210,18,3,15,10
+10514,2015,2015-04-12,Ahmedabad,Narendra Modi Stadium,8,2,2,Bat,8,2,Wickets,5,203,175,298,14,7,18,3
+10515,2015,2015-04-13,Dharamsala,HPCA Stadium,8,3,3,Bat,3,8,Runs,27,172,202,175,7,7,19,6
+10516,2015,2015-04-14,Pune,MCA Stadium,5,7,5,Bat,7,5,Wickets,7,236,260,263,11,1,16,4
+10517,2015,2015-04-15,Lucknow,Ekana Cricket Stadium,5,6,5,Field,5,6,Runs,42,197,182,221,7,2,15,7
+10518,2015,2015-04-16,Dharamsala,HPCA Stadium,5,2,5,Bat,5,2,Runs,47,155,142,214,15,2,8,1
+10519,2015,2015-04-17,Jaipur,Sawai Mansingh Stadium,6,4,6,Bat,6,4,Wickets,10,216,208,227,6,3,14,7
+10520,2015,2015-04-18,Delhi,Arun Jaitley Stadium,5,6,5,Field,5,6,Wickets,7,228,199,201,6,1,9,1
+10521,2015,2015-04-19,Lucknow,Ekana Cricket Stadium,8,6,8,Bat,6,8,Wickets,2,161,203,241,15,6,12,9
+10522,2015,2015-04-20,Jaipur,Sawai Mansingh Stadium,3,1,1,Bat,3,1,Wickets,1,240,121,167,18,8,19,10
+10523,2015,2015-04-21,Ahmedabad,Narendra Modi Stadium,2,7,2,Bat,2,7,Runs,1,229,185,129,5,2,17,3
+10524,2015,2015-04-22,Delhi,Arun Jaitley Stadium,3,1,1,Bat,3,1,Runs,65,250,244,164,15,0,11,4
+10525,2015,2015-04-23,Ahmedabad,Narendra Modi Stadium,1,5,5,Field,1,5,Wickets,6,259,242,107,16,1,18,0
+10526,2015,2015-04-24,Lucknow,Ekana Cricket Stadium,4,1,4,Bat,1,4,Runs,18,170,196,109,7,6,9,8
+10527,2015,2015-04-25,Delhi,Arun Jaitley Stadium,5,3,3,Bat,3,5,Wickets,2,223,241,157,6,4,18,10
+10528,2015,2015-04-26,Jaipur,Sawai Mansingh Stadium,4,6,6,Bat,6,4,Runs,41,212,232,233,6,4,9,8
+10529,2015,2015-04-27,Mohali,PCA Stadium,2,6,6,Bat,6,2,Runs,47,184,212,233,9,0,9,6
+10530,2015,2015-04-28,Hyderabad,Rajiv Gandhi Intl. Stadium,4,8,4,Bat,4,8,Wickets,10,252,240,198,14,4,16,4
+10531,2015,2015-04-29,Dharamsala,HPCA Stadium,2,1,2,Field,1,2,Runs,45,218,227,119,7,4,8,10
+10532,2015,2015-04-30,Dharamsala,HPCA Stadium,3,6,3,Bat,6,3,Wickets,1,209,231,245,11,7,10,7
+10533,2015,2015-05-01,Dharamsala,HPCA Stadium,6,7,7,Field,7,6,Wickets,9,173,183,271,18,1,12,6
+10534,2015,2015-05-02,Bengaluru,M. Chinnaswamy Stadium,6,7,6,Bat,6,7,Runs,12,129,126,249,9,8,15,0
+10535,2015,2015-05-03,Chennai,MA Chidambaram Stadium,7,6,7,Field,6,7,Runs,52,163,186,239,16,8,19,5
+10536,2015,2015-05-04,Mumbai,Wankhede Stadium,4,6,4,Field,4,6,Runs,23,208,139,192,10,0,14,7
+10537,2015,2015-05-05,Mumbai,Wankhede Stadium,7,2,2,Bat,2,7,Runs,70,189,205,135,9,3,8,10
+10538,2015,2015-05-06,Mohali,PCA Stadium,7,2,2,Bat,2,7,Wickets,1,116,222,136,9,5,9,0
+10539,2015,2015-05-07,Jaipur,Sawai Mansingh Stadium,6,8,6,Field,8,6,Runs,13,240,243,292,13,2,14,1
+10540,2015,2015-05-08,Mohali,PCA Stadium,8,1,8,Field,8,1,Wickets,7,212,198,281,13,4,9,7
+10541,2015,2015-05-09,Dharamsala,HPCA Stadium,8,2,8,Field,2,8,Runs,46,165,172,135,5,2,14,6
+10542,2015,2015-05-10,Jaipur,Sawai Mansingh Stadium,6,1,6,Bat,1,6,Wickets,2,240,245,116,17,2,13,6
+10543,2015,2015-05-11,Mohali,PCA Stadium,7,2,7,Bat,7,2,Runs,20,243,108,275,15,3,8,10
+10544,2015,2015-05-12,Hyderabad,Rajiv Gandhi Intl. Stadium,6,4,6,Field,4,6,Wickets,5,136,214,183,14,2,19,8
+10545,2015,2015-05-13,Jaipur,Sawai Mansingh Stadium,3,2,2,Bat,2,3,Runs,86,165,226,148,17,1,19,8
+10546,2015,2015-05-14,Chennai,MA Chidambaram Stadium,3,2,3,Bat,3,2,Runs,52,185,154,155,11,0,17,3
+10547,2015,2015-05-15,Kolkata,Eden Gardens,2,7,2,Field,7,2,Wickets,4,201,214,266,5,8,14,10
+10548,2015,2015-05-16,Dharamsala,HPCA Stadium,1,3,1,Field,3,1,Wickets,6,222,233,152,7,0,8,0
+10549,2015,2015-05-17,Bengaluru,M. Chinnaswamy Stadium,6,2,2,Field,2,6,Runs,56,179,230,137,10,4,9,1
+10550,2015,2015-05-18,Ahmedabad,Narendra Modi Stadium,1,6,1,Field,6,1,Wickets,10,210,231,234,8,6,9,1
+10551,2015,2015-05-19,Mumbai,Wankhede Stadium,3,6,3,Bat,3,6,Runs,58,260,244,161,9,7,20,3
+10552,2015,2015-05-20,Mohali,PCA Stadium,3,1,3,Bat,1,3,Wickets,9,208,219,121,16,1,14,1
+10553,2015,2015-05-21,Chennai,MA Chidambaram Stadium,8,4,8,Bat,4,8,Runs,38,130,153,199,18,6,15,10
+10554,2015,2015-05-22,Delhi,Arun Jaitley Stadium,2,8,8,Field,8,2,Wickets,10,167,168,281,14,3,17,0
+10555,2015,2015-05-23,Ahmedabad,Narendra Modi Stadium,8,5,5,Field,8,5,Wickets,5,156,148,277,13,3,12,0
+10556,2015,2015-05-24,Ahmedabad,Narendra Modi Stadium,3,8,3,Field,3,8,Runs,27,144,105,171,10,5,13,1
+10557,2015,2015-05-25,Pune,MCA Stadium,5,6,5,Field,6,5,Wickets,1,117,196,233,16,4,10,4
+10558,2015,2015-05-26,Kolkata,Eden Gardens,1,5,1,Field,5,1,Runs,57,198,205,219,15,6,10,7
+10559,2015,2015-05-27,Hyderabad,Rajiv Gandhi Intl. Stadium,4,6,6,Field,4,6,Wickets,2,228,222,181,8,7,19,2
+10560,2015,2015-05-28,Kolkata,Eden Gardens,5,1,1,Bat,5,1,Wickets,10,144,141,214,8,7,18,6
+10561,2016,2016-03-20,Chennai,MA Chidambaram Stadium,2,6,2,Bat,2,6,Wickets,7,143,108,150,18,0,10,3
+10562,2016,2016-03-21,Dharamsala,HPCA Stadium,2,3,2,Bat,2,3,Runs,70,201,126,132,7,7,20,9
+10563,2016,2016-03-22,Kolkata,Eden Gardens,8,7,8,Field,7,8,Wickets,3,129,244,273,9,8,9,0
+10564,2016,2016-03-23,Kolkata,Eden Gardens,1,8,8,Bat,8,1,Runs,1,121,163,289,11,2,13,10
+10565,2016,2016-03-24,Kolkata,Eden Gardens,5,2,2,Bat,2,5,Runs,15,141,177,137,6,5,9,5
+10566,2016,2016-03-25,Bengaluru,M. Chinnaswamy Stadium,2,1,2,Bat,1,2,Wickets,10,223,252,122,15,4,17,4
+10567,2016,2016-03-26,Chennai,MA Chidambaram Stadium,6,1,1,Field,1,6,Wickets,2,153,164,105,11,7,19,7
+10568,2016,2016-03-27,Bengaluru,M. Chinnaswamy Stadium,2,1,1,Field,2,1,Runs,42,215,203,136,12,6,15,6
+10569,2016,2016-03-28,Ahmedabad,Narendra Modi Stadium,6,2,6,Field,2,6,Wickets,9,241,259,133,11,1,17,6
+10570,2016,2016-03-29,Chennai,MA Chidambaram Stadium,4,6,4,Bat,6,4,Runs,27,207,226,230,6,0,13,5
+10571,2016,2016-03-30,Kolkata,Eden Gardens,3,8,8,Bat,8,3,Runs,27,129,140,279,16,2,14,0
+10572,2016,2016-03-31,Bengaluru,M. Chinnaswamy Stadium,7,3,7,Bat,7,3,Wickets,10,154,142,255,6,3,9,0
+10573,2016,2016-04-01,Jaipur,Sawai Mansingh Stadium,7,2,7,Field,7,2,Wickets,8,244,218,271,16,0,12,1
+10574,2016,2016-04-02,Jaipur,Sawai Mansingh Stadium,3,1,3,Bat,3,1,Runs,51,231,171,169,13,4,19,3
+10575,2016,2016-04-03,Jaipur,Sawai Mansingh Stadium,7,2,2,Bat,2,7,Runs,28,129,161,138,7,8,17,1
+10576,2016,2016-04-04,Mohali,PCA Stadium,8,4,4,Field,4,8,Runs,7,223,232,179,6,1,13,9
+10577,2016,2016-04-05,Kolkata,Eden Gardens,6,1,6,Field,6,1,Runs,9,191,184,243,8,0,11,4
+10578,2016,2016-04-06,Mumbai,Wankhede Stadium,2,5,2,Field,2,5,Runs,41,194,107,137,17,4,14,8
+10579,2016,2016-04-07,Jaipur,Sawai Mansingh Stadium,4,3,3,Field,4,3,Runs,43,243,130,192,17,2,8,9
+10580,2016,2016-04-08,Hyderabad,Rajiv Gandhi Intl. Stadium,7,4,7,Field,7,4,Runs,88,135,128,273,8,3,20,10
+10581,2016,2016-04-09,Delhi,Arun Jaitley Stadium,3,7,3,Field,7,3,Runs,44,207,215,252,16,6,11,3
+10582,2016,2016-04-10,Ahmedabad,Narendra Modi Stadium,2,8,8,Bat,2,8,Runs,40,236,232,140,10,2,12,2
+10583,2016,2016-04-11,Dharamsala,HPCA Stadium,2,3,3,Field,2,3,Runs,23,232,171,141,9,7,18,2
+10584,2016,2016-04-12,Jaipur,Sawai Mansingh Stadium,2,5,5,Bat,5,2,Wickets,7,148,217,212,13,5,13,1
+10585,2016,2016-04-13,Dharamsala,HPCA Stadium,7,5,5,Field,7,5,Runs,32,172,144,254,9,6,10,9
+10586,2016,2016-04-14,Mohali,PCA Stadium,7,8,7,Bat,8,7,Wickets,2,234,255,293,18,7,9,1
+10587,2016,2016-04-15,Mohali,PCA Stadium,3,6,3,Field,6,3,Runs,52,131,186,236,14,7,11,7
+10588,2016,2016-04-16,Pune,MCA Stadium,2,3,3,Bat,2,3,Wickets,3,205,186,127,14,6,8,5
+10589,2016,2016-04-17,Jaipur,Sawai Mansingh Stadium,7,4,7,Bat,7,4,Runs,88,184,169,271,7,1,10,1
+10590,2016,2016-04-18,Kolkata,Eden Gardens,5,4,5,Field,4,5,Wickets,9,181,208,177,6,6,13,4
+10591,2016,2016-04-19,Dharamsala,HPCA Stadium,3,2,2,Field,2,3,Wickets,9,156,216,137,16,6,8,8
+10592,2016,2016-04-20,Hyderabad,Rajiv Gandhi Intl. Stadium,4,1,4,Field,1,4,Runs,20,152,232,111,6,6,12,8
+10593,2016,2016-04-21,Dharamsala,HPCA Stadium,1,4,1,Field,1,4,Runs,28,235,212,118,17,2,17,6
+10594,2016,2016-04-22,Chennai,MA Chidambaram Stadium,4,3,4,Bat,4,3,Wickets,6,192,183,192,18,1,19,7
+10595,2016,2016-04-23,Mohali,PCA Stadium,8,4,4,Field,4,8,Wickets,9,144,150,190,11,5,10,8
+10596,2016,2016-04-24,Dharamsala,HPCA Stadium,3,5,5,Field,5,3,Wickets,5,140,166,204,6,0,17,6
+10597,2016,2016-04-25,Kolkata,Eden Gardens,2,4,2,Field,2,4,Wickets,7,239,221,138,6,3,15,1
+10598,2016,2016-04-26,Kolkata,Eden Gardens,6,7,7,Field,7,6,Runs,48,244,253,272,9,4,20,6
+10599,2016,2016-04-27,Mohali,PCA Stadium,4,1,1,Bat,4,1,Runs,20,196,190,181,14,6,11,8
+10600,2016,2016-04-28,Jaipur,Sawai Mansingh Stadium,7,2,2,Bat,2,7,Runs,82,159,208,136,13,2,14,3
+10601,2016,2016-04-29,Bengaluru,M. Chinnaswamy Stadium,2,6,2,Bat,6,2,Wickets,9,197,200,228,5,6,8,10
+10602,2016,2016-04-30,Pune,MCA Stadium,3,1,3,Field,3,1,Runs,59,206,152,158,15,3,12,3
+10603,2016,2016-05-01,Bengaluru,M. Chinnaswamy Stadium,4,6,6,Field,4,6,Wickets,2,135,131,190,14,1,9,2
+10604,2016,2016-05-02,Kolkata,Eden Gardens,5,3,5,Bat,5,3,Wickets,6,215,130,216,17,0,14,1
+10605,2016,2016-05-03,Pune,MCA Stadium,8,6,8,Bat,6,8,Wickets,6,230,236,235,5,2,18,9
+10606,2016,2016-05-04,Ahmedabad,Narendra Modi Stadium,1,8,8,Field,8,1,Runs,21,180,187,295,5,8,8,8
+10607,2016,2016-05-05,Bengaluru,M. Chinnaswamy Stadium,3,2,2,Bat,3,2,Runs,42,171,126,174,16,2,12,4
+10608,2016,2016-05-06,Jaipur,Sawai Mansingh Stadium,8,2,8,Field,2,8,Wickets,8,217,226,131,8,4,14,1
+10609,2016,2016-05-07,Lucknow,Ekana Cricket Stadium,5,2,5,Field,2,5,Wickets,7,184,186,145,6,6,14,3
+10610,2016,2016-05-08,Delhi,Arun Jaitley Stadium,6,3,6,Field,6,3,Runs,66,219,180,245,18,8,13,6
+10611,2016,2016-05-09,Kolkata,Eden Gardens,1,8,1,Field,8,1,Runs,46,133,160,297,10,5,10,5
+10612,2016,2016-05-10,Lucknow,Ekana Cricket Stadium,2,1,1,Bat,1,2,Runs,60,197,215,103,11,4,17,3
+10613,2016,2016-05-11,Mohali,PCA Stadium,4,1,1,Bat,1,4,Wickets,6,165,167,116,12,0,12,6
+10614,2016,2016-05-12,Lucknow,Ekana Cricket Stadium,2,1,1,Bat,1,2,Wickets,4,120,177,101,15,0,15,4
+10615,2016,2016-05-13,Mumbai,Wankhede Stadium,3,7,7,Bat,3,7,Wickets,1,235,129,164,16,4,12,5
+10616,2016,2016-05-14,Delhi,Arun Jaitley Stadium,6,4,6,Field,4,6,Runs,51,231,259,196,6,5,17,1
+10617,2016,2016-05-15,Dharamsala,HPCA Stadium,1,2,1,Bat,1,2,Runs,42,226,162,106,6,3,19,5
+10618,2016,2016-05-16,Delhi,Arun Jaitley Stadium,1,6,1,Field,1,6,Runs,7,183,172,123,14,6,12,2
+10619,2016,2016-05-17,Lucknow,Ekana Cricket Stadium,3,5,5,Bat,3,5,Wickets,3,220,219,172,6,8,16,3
+10620,2016,2016-05-18,Mumbai,Wankhede Stadium,8,6,6,Field,6,8,Wickets,4,182,205,228,10,8,11,10
+10621,2016,2016-05-19,Chennai,MA Chidambaram Stadium,4,6,4,Bat,6,4,Runs,28,170,224,238,8,7,9,5
+10622,2016,2016-05-20,Mumbai,Wankhede Stadium,4,7,7,Field,7,4,Runs,65,148,161,262,11,7,17,8
+10623,2016,2016-05-21,Bengaluru,M. Chinnaswamy Stadium,4,7,7,Bat,4,7,Wickets,7,193,131,180,12,1,19,1
+10624,2016,2016-05-22,Pune,MCA Stadium,4,1,1,Bat,1,4,Runs,61,230,239,104,13,1,13,6
+10625,2016,2016-05-23,Delhi,Arun Jaitley Stadium,4,2,2,Field,2,4,Runs,57,209,211,146,11,6,11,4
+10626,2016,2016-05-24,Pune,MCA Stadium,4,8,4,Field,8,4,Wickets,2,127,168,279,8,1,8,0
+10627,2016,2016-05-25,Dharamsala,HPCA Stadium,5,2,5,Bat,2,5,Runs,80,218,231,129,8,4,15,3
+10628,2016,2016-05-26,Mumbai,Wankhede Stadium,3,7,3,Field,7,3,Wickets,1,162,233,273,14,7,19,4
+10629,2016,2016-05-27,Hyderabad,Rajiv Gandhi Intl. Stadium,4,2,2,Bat,4,2,Runs,43,151,108,197,12,6,13,0
+10630,2016,2016-05-28,Lucknow,Ekana Cricket Stadium,3,8,3,Bat,3,8,Wickets,8,258,230,158,12,1,8,0
+10631,2017,2017-03-20,Delhi,Arun Jaitley Stadium,5,7,5,Bat,5,7,Runs,13,236,220,224,10,8,12,10
+10632,2017,2017-03-21,Dharamsala,HPCA Stadium,8,3,3,Field,8,3,Wickets,5,260,237,297,18,7,9,4
+10633,2017,2017-03-22,Chennai,MA Chidambaram Stadium,1,2,2,Bat,1,2,Wickets,8,227,215,107,16,1,11,6
+10634,2017,2017-03-23,Jaipur,Sawai Mansingh Stadium,2,3,3,Bat,3,2,Wickets,6,221,231,157,5,8,19,5
+10635,2017,2017-03-24,Hyderabad,Rajiv Gandhi Intl. Stadium,2,4,4,Field,4,2,Runs,2,152,224,197,7,8,12,9
+10636,2017,2017-03-25,Hyderabad,Rajiv Gandhi Intl. Stadium,3,8,8,Field,3,8,Wickets,1,170,160,169,6,0,15,4
+10637,2017,2017-03-26,Mohali,PCA Stadium,1,4,4,Bat,1,4,Wickets,3,255,233,125,13,2,9,4
+10638,2017,2017-03-27,Chennai,MA Chidambaram Stadium,3,6,3,Field,3,6,Wickets,4,236,195,158,17,6,14,6
+10639,2017,2017-03-28,Lucknow,Ekana Cricket Stadium,2,3,3,Field,2,3,Wickets,6,165,156,130,11,8,11,4
+10640,2017,2017-03-29,Mumbai,Wankhede Stadium,5,1,1,Field,5,1,Wickets,7,254,239,223,10,8,18,5
+10641,2017,2017-03-30,Chennai,MA Chidambaram Stadium,8,3,3,Field,3,8,Wickets,8,121,212,153,17,2,17,4
+10642,2017,2017-03-31,Bengaluru,M. Chinnaswamy Stadium,4,5,5,Bat,5,4,Runs,51,218,233,225,18,8,15,0
+10643,2017,2017-04-01,Lucknow,Ekana Cricket Stadium,2,1,1,Bat,1,2,Runs,38,238,260,102,6,8,19,0
+10644,2017,2017-04-02,Pune,MCA Stadium,4,5,4,Field,4,5,Runs,87,203,182,185,16,0,20,7
+10645,2017,2017-04-03,Mumbai,Wankhede Stadium,4,1,4,Bat,4,1,Runs,67,178,157,179,12,0,16,7
+10646,2017,2017-04-04,Kolkata,Eden Gardens,7,1,7,Field,1,7,Wickets,3,181,217,122,14,1,14,2
+10647,2017,2017-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,1,2,1,Bat,1,2,Runs,61,189,179,122,6,7,13,10
+10648,2017,2017-04-06,Bengaluru,M. Chinnaswamy Stadium,5,4,4,Bat,4,5,Wickets,7,122,177,190,6,6,8,9
+10649,2017,2017-04-07,Dharamsala,HPCA Stadium,5,1,1,Bat,1,5,Runs,60,232,233,106,10,8,16,3
+10650,2017,2017-04-08,Pune,MCA Stadium,6,8,8,Bat,6,8,Runs,46,245,222,230,9,4,14,1
+10651,2017,2017-04-09,Mohali,PCA Stadium,8,4,4,Bat,4,8,Runs,90,204,208,178,5,0,19,2
+10652,2017,2017-04-10,Dharamsala,HPCA Stadium,4,1,4,Field,1,4,Wickets,4,175,204,106,16,6,20,6
+10653,2017,2017-04-11,Mohali,PCA Stadium,2,1,1,Bat,2,1,Runs,57,160,149,129,16,7,14,2
+10654,2017,2017-04-12,Kolkata,Eden Gardens,4,2,2,Field,2,4,Wickets,4,156,216,142,17,3,9,9
+10655,2017,2017-04-13,Mohali,PCA Stadium,1,6,1,Bat,1,6,Runs,1,260,244,103,10,2,18,10
+10656,2017,2017-04-14,Ahmedabad,Narendra Modi Stadium,8,2,8,Field,2,8,Wickets,10,150,165,139,15,6,9,9
+10657,2017,2017-04-15,Chennai,MA Chidambaram Stadium,2,8,8,Bat,2,8,Wickets,4,199,110,133,18,4,12,6
+10658,2017,2017-04-16,Lucknow,Ekana Cricket Stadium,6,1,6,Field,6,1,Runs,67,243,184,238,14,0,16,1
+10659,2017,2017-04-17,Kolkata,Eden Gardens,8,3,8,Bat,3,8,Wickets,5,200,205,157,13,5,20,10
+10660,2017,2017-04-18,Jaipur,Sawai Mansingh Stadium,1,2,2,Bat,1,2,Wickets,2,232,227,109,16,0,9,0
+10661,2017,2017-04-19,Kolkata,Eden Gardens,8,5,8,Field,5,8,Wickets,5,120,121,225,17,3,16,9
+10662,2017,2017-04-20,Dharamsala,HPCA Stadium,7,6,7,Field,7,6,Wickets,7,238,215,264,13,2,9,7
+10663,2017,2017-04-21,Chennai,MA Chidambaram Stadium,2,5,5,Field,2,5,Wickets,7,175,164,128,14,0,11,6
+10664,2017,2017-04-22,Bengaluru,M. Chinnaswamy Stadium,1,7,1,Bat,1,7,Runs,8,227,151,110,5,5,13,9
+10665,2017,2017-04-23,Mumbai,Wankhede Stadium,4,3,4,Field,3,4,Runs,85,134,169,168,8,7,19,5
+10666,2017,2017-04-24,Delhi,Arun Jaitley Stadium,4,8,8,Field,8,4,Runs,68,196,243,292,6,0,13,6
+10667,2017,2017-04-25,Dharamsala,HPCA Stadium,8,3,8,Bat,8,3,Runs,40,168,136,287,16,2,8,3
+10668,2017,2017-04-26,Delhi,Arun Jaitley Stadium,8,6,6,Bat,8,6,Wickets,1,213,203,278,5,4,17,6
+10669,2017,2017-04-27,Kolkata,Eden Gardens,8,1,1,Field,1,8,Runs,29,212,234,114,13,0,18,4
+10670,2017,2017-04-28,Kolkata,Eden Gardens,1,5,5,Bat,5,1,Wickets,10,122,192,224,18,6,14,0
+10671,2017,2017-04-29,Dharamsala,HPCA Stadium,2,5,5,Field,5,2,Wickets,10,181,194,215,16,3,10,0
+10672,2017,2017-04-30,Lucknow,Ekana Cricket Stadium,5,7,7,Bat,5,7,Wickets,6,216,114,220,9,5,12,10
+10673,2017,2017-05-01,Bengaluru,M. Chinnaswamy Stadium,5,7,5,Bat,7,5,Wickets,5,228,229,265,5,7,8,5
+10674,2017,2017-05-02,Lucknow,Ekana Cricket Stadium,8,6,8,Field,8,6,Runs,36,195,121,290,7,4,20,4
+10675,2017,2017-05-03,Lucknow,Ekana Cricket Stadium,5,7,7,Bat,5,7,Runs,19,168,164,221,5,2,18,8
+10676,2017,2017-05-04,Delhi,Arun Jaitley Stadium,8,5,5,Bat,8,5,Runs,34,213,195,298,5,3,13,1
+10677,2017,2017-05-05,Mohali,PCA Stadium,2,5,5,Bat,2,5,Runs,27,214,211,146,11,4,10,0
+10678,2017,2017-05-06,Delhi,Arun Jaitley Stadium,6,5,5,Field,5,6,Wickets,8,122,146,212,5,4,10,9
+10679,2017,2017-05-07,Lucknow,Ekana Cricket Stadium,1,8,1,Field,8,1,Runs,49,123,143,288,17,1,9,3
+10680,2017,2017-05-08,Delhi,Arun Jaitley Stadium,7,5,7,Bat,5,7,Wickets,6,164,180,208,10,3,20,5
+10681,2017,2017-05-09,Mohali,PCA Stadium,4,8,8,Bat,4,8,Wickets,7,213,195,192,6,5,18,7
+10682,2017,2017-05-10,Pune,MCA Stadium,4,8,8,Bat,4,8,Runs,53,197,171,185,10,5,9,1
+10683,2017,2017-05-11,Chennai,MA Chidambaram Stadium,7,4,7,Field,7,4,Runs,59,157,135,264,9,8,19,7
+10684,2017,2017-05-12,Bengaluru,M. Chinnaswamy Stadium,2,8,2,Field,2,8,Runs,10,214,213,137,7,6,19,8
+10685,2017,2017-05-13,Lucknow,Ekana Cricket Stadium,4,6,6,Bat,6,4,Wickets,10,142,145,249,10,7,14,10
+10686,2017,2017-05-14,Dharamsala,HPCA Stadium,8,6,6,Field,6,8,Runs,24,245,250,226,14,5,18,10
+10687,2017,2017-05-15,Kolkata,Eden Gardens,8,4,4,Field,8,4,Wickets,2,242,231,277,14,8,16,9
+10688,2017,2017-05-16,Chennai,MA Chidambaram Stadium,7,3,3,Field,3,7,Runs,19,168,215,167,9,5,9,5
+10689,2017,2017-05-17,Kolkata,Eden Gardens,5,2,5,Field,2,5,Wickets,8,158,178,134,14,1,11,10
+10690,2017,2017-05-18,Chennai,MA Chidambaram Stadium,5,2,5,Bat,5,2,Runs,77,164,106,216,18,0,13,3
+10691,2017,2017-05-19,Mumbai,Wankhede Stadium,5,8,8,Field,5,8,Wickets,5,247,218,214,12,4,9,2
+10692,2017,2017-05-20,Mohali,PCA Stadium,5,6,5,Field,5,6,Runs,10,245,234,209,12,8,18,1
+10693,2017,2017-05-21,Pune,MCA Stadium,6,1,1,Bat,1,6,Runs,72,124,132,105,14,6,11,10
+10694,2017,2017-05-22,Delhi,Arun Jaitley Stadium,4,3,3,Bat,3,4,Runs,64,148,155,171,6,8,19,3
+10695,2017,2017-05-23,Jaipur,Sawai Mansingh Stadium,1,4,1,Field,1,4,Runs,5,223,202,119,8,5,15,8
+10696,2017,2017-05-24,Lucknow,Ekana Cricket Stadium,3,8,3,Field,8,3,Wickets,7,206,244,291,9,1,11,1
+10697,2017,2017-05-25,Bengaluru,M. Chinnaswamy Stadium,5,4,4,Field,5,4,Wickets,2,233,186,222,6,5,19,6
+10698,2017,2017-05-26,Delhi,Arun Jaitley Stadium,3,7,7,Field,7,3,Runs,4,183,234,257,18,6,8,8
+10699,2017,2017-05-27,Jaipur,Sawai Mansingh Stadium,6,3,3,Field,3,6,Wickets,7,181,190,166,16,3,13,10
+10700,2017,2017-05-28,Kolkata,Eden Gardens,1,3,3,Field,1,3,Runs,69,194,189,120,13,0,19,0
+10701,2018,2018-03-20,Kolkata,Eden Gardens,7,1,1,Field,7,1,Runs,67,249,242,256,18,8,14,3
+10702,2018,2018-03-21,Ahmedabad,Narendra Modi Stadium,5,7,5,Field,7,5,Wickets,4,178,180,251,17,8,9,8
+10703,2018,2018-03-22,Chennai,MA Chidambaram Stadium,7,8,8,Bat,7,8,Wickets,5,173,168,252,9,1,20,6
+10704,2018,2018-03-23,Dharamsala,HPCA Stadium,7,2,2,Bat,7,2,Runs,65,221,110,251,16,8,17,2
+10705,2018,2018-03-24,Ahmedabad,Narendra Modi Stadium,2,6,6,Bat,6,2,Wickets,7,120,182,234,12,3,9,4
+10706,2018,2018-03-25,Ahmedabad,Narendra Modi Stadium,8,4,4,Field,8,4,Runs,53,238,228,298,13,8,11,6
+10707,2018,2018-03-26,Lucknow,Ekana Cricket Stadium,1,4,4,Field,1,4,Wickets,4,231,206,108,12,5,15,9
+10708,2018,2018-03-27,Ahmedabad,Narendra Modi Stadium,2,6,6,Field,2,6,Runs,13,186,158,141,14,3,9,2
+10709,2018,2018-03-28,Jaipur,Sawai Mansingh Stadium,7,5,5,Bat,7,5,Wickets,5,194,191,255,5,5,19,9
+10710,2018,2018-03-29,Hyderabad,Rajiv Gandhi Intl. Stadium,7,8,7,Field,7,8,Wickets,9,195,165,261,12,7,16,8
+10711,2018,2018-03-30,Bengaluru,M. Chinnaswamy Stadium,2,1,1,Bat,1,2,Runs,2,146,147,107,12,1,8,6
+10712,2018,2018-03-31,Delhi,Arun Jaitley Stadium,8,2,2,Bat,2,8,Wickets,1,145,216,135,16,4,16,5
+10713,2018,2018-04-01,Dharamsala,HPCA Stadium,6,5,6,Bat,5,6,Runs,79,210,237,220,9,7,15,3
+10714,2018,2018-04-02,Jaipur,Sawai Mansingh Stadium,6,8,6,Bat,8,6,Runs,41,160,176,278,5,4,19,3
+10715,2018,2018-04-03,Lucknow,Ekana Cricket Stadium,4,6,4,Field,6,4,Runs,8,234,237,237,15,8,11,5
+10716,2018,2018-04-04,Lucknow,Ekana Cricket Stadium,1,2,2,Field,2,1,Wickets,6,218,236,143,15,3,9,9
+10717,2018,2018-04-05,Mumbai,Wankhede Stadium,3,1,3,Field,3,1,Wickets,10,257,238,171,17,6,13,9
+10718,2018,2018-04-06,Kolkata,Eden Gardens,5,7,7,Bat,5,7,Runs,30,147,142,206,12,0,13,1
+10719,2018,2018-04-07,Ahmedabad,Narendra Modi Stadium,1,2,2,Field,2,1,Wickets,5,145,166,143,11,6,20,6
+10720,2018,2018-04-08,Pune,MCA Stadium,8,3,3,Field,8,3,Runs,22,186,141,289,13,7,15,4
+10721,2018,2018-04-09,Hyderabad,Rajiv Gandhi Intl. Stadium,2,5,5,Field,2,5,Runs,47,220,213,145,13,3,14,5
+10722,2018,2018-04-10,Kolkata,Eden Gardens,3,6,3,Bat,6,3,Wickets,9,116,184,236,6,5,12,8
+10723,2018,2018-04-11,Chennai,MA Chidambaram Stadium,1,5,5,Bat,5,1,Wickets,7,179,200,202,14,0,19,7
+10724,2018,2018-04-12,Chennai,MA Chidambaram Stadium,8,4,8,Field,8,4,Runs,48,154,150,280,6,6,9,0
+10725,2018,2018-04-13,Pune,MCA Stadium,8,6,8,Field,8,6,Wickets,4,217,190,297,18,5,19,2
+10726,2018,2018-04-14,Kolkata,Eden Gardens,6,5,6,Field,5,6,Runs,9,243,260,209,6,2,15,0
+10727,2018,2018-04-15,Delhi,Arun Jaitley Stadium,5,8,5,Field,5,8,Runs,40,204,135,211,12,1,17,7
+10728,2018,2018-04-16,Lucknow,Ekana Cricket Stadium,2,1,2,Bat,2,1,Runs,41,174,148,126,8,5,15,1
+10729,2018,2018-04-17,Dharamsala,HPCA Stadium,4,3,4,Bat,3,4,Runs,49,188,197,155,14,5,14,3
+10730,2018,2018-04-18,Delhi,Arun Jaitley Stadium,4,3,4,Bat,3,4,Wickets,8,138,230,162,14,5,13,10
+10731,2018,2018-04-19,Lucknow,Ekana Cricket Stadium,8,7,8,Bat,7,8,Runs,69,168,216,262,15,4,11,5
+10732,2018,2018-04-20,Chennai,MA Chidambaram Stadium,5,1,5,Field,5,1,Wickets,5,259,237,221,7,7,10,7
+10733,2018,2018-04-21,Mohali,PCA Stadium,6,3,3,Bat,3,6,Runs,81,117,145,164,12,5,13,10
+10734,2018,2018-04-22,Bengaluru,M. Chinnaswamy Stadium,2,8,8,Field,2,8,Wickets,9,243,217,145,12,6,19,6
+10735,2018,2018-04-23,Pune,MCA Stadium,8,7,8,Field,7,8,Wickets,8,217,219,258,17,8,9,6
+10736,2018,2018-04-24,Bengaluru,M. Chinnaswamy Stadium,7,8,8,Field,7,8,Runs,66,246,239,269,17,2,10,10
+10737,2018,2018-04-25,Hyderabad,Rajiv Gandhi Intl. Stadium,6,7,6,Bat,7,6,Runs,45,216,231,251,15,2,11,2
+10738,2018,2018-04-26,Mumbai,Wankhede Stadium,5,3,5,Bat,5,3,Runs,56,177,144,222,13,5,8,7
+10739,2018,2018-04-27,Pune,MCA Stadium,3,8,3,Field,8,3,Runs,61,211,223,298,8,1,14,2
+10740,2018,2018-04-28,Lucknow,Ekana Cricket Stadium,6,7,6,Field,7,6,Wickets,7,215,241,253,10,7,18,9
+10741,2018,2018-04-29,Ahmedabad,Narendra Modi Stadium,1,2,1,Bat,2,1,Wickets,6,115,206,128,15,3,10,7
+10742,2018,2018-04-30,Jaipur,Sawai Mansingh Stadium,4,1,4,Field,1,4,Runs,44,161,213,105,9,4,14,10
+10743,2018,2018-05-01,Pune,MCA Stadium,8,1,1,Field,8,1,Runs,51,250,224,278,10,1,18,6
+10744,2018,2018-05-02,Hyderabad,Rajiv Gandhi Intl. Stadium,1,2,2,Bat,2,1,Wickets,1,217,242,127,9,6,12,10
+10745,2018,2018-05-03,Mohali,PCA Stadium,2,5,5,Field,5,2,Wickets,9,143,150,214,13,6,18,1
+10746,2018,2018-05-04,Chennai,MA Chidambaram Stadium,3,1,1,Field,3,1,Wickets,7,233,177,152,6,7,15,5
+10747,2018,2018-05-05,Chennai,MA Chidambaram Stadium,1,5,5,Field,5,1,Wickets,5,183,193,212,11,0,15,5
+10748,2018,2018-05-06,Dharamsala,HPCA Stadium,5,6,5,Bat,6,5,Runs,69,216,222,228,13,1,10,2
+10749,2018,2018-05-07,Lucknow,Ekana Cricket Stadium,8,4,4,Field,4,8,Runs,68,232,235,186,10,0,10,9
+10750,2018,2018-05-08,Chennai,MA Chidambaram Stadium,2,4,2,Field,4,2,Wickets,7,162,170,199,15,1,14,1
+10751,2018,2018-05-09,Lucknow,Ekana Cricket Stadium,4,5,5,Field,4,5,Runs,48,236,160,200,11,4,19,2
+10752,2018,2018-05-10,Chennai,MA Chidambaram Stadium,5,8,5,Field,5,8,Wickets,5,219,158,201,17,6,18,2
+10753,2018,2018-05-11,Chennai,MA Chidambaram Stadium,5,3,3,Field,5,3,Runs,29,198,161,203,14,4,19,9
+10754,2018,2018-05-12,Chennai,MA Chidambaram Stadium,8,5,5,Field,5,8,Wickets,9,202,213,212,18,7,10,7
+10755,2018,2018-05-13,Pune,MCA Stadium,8,2,8,Field,2,8,Wickets,1,135,229,143,10,1,11,8
+10756,2018,2018-05-14,Bengaluru,M. Chinnaswamy Stadium,6,3,3,Field,3,6,Wickets,1,157,195,169,11,6,20,0
+10757,2018,2018-05-15,Lucknow,Ekana Cricket Stadium,5,8,8,Bat,8,5,Runs,49,146,159,282,8,1,17,4
+10758,2018,2018-05-16,Jaipur,Sawai Mansingh Stadium,3,7,3,Field,7,3,Wickets,4,186,211,262,15,1,18,10
+10759,2018,2018-05-17,Delhi,Arun Jaitley Stadium,6,5,5,Bat,5,6,Wickets,8,230,260,206,11,4,8,8
+10760,2018,2018-05-18,Pune,MCA Stadium,6,7,7,Bat,6,7,Wickets,10,222,212,239,8,0,17,3
+10761,2018,2018-05-19,Kolkata,Eden Gardens,3,5,3,Field,3,5,Wickets,10,247,225,153,10,0,19,9
+10762,2018,2018-05-20,Bengaluru,M. Chinnaswamy Stadium,7,5,7,Bat,5,7,Wickets,4,235,246,205,9,1,8,3
+10763,2018,2018-05-21,Ahmedabad,Narendra Modi Stadium,8,4,8,Field,8,4,Runs,60,217,189,281,8,7,19,1
+10764,2018,2018-05-22,Jaipur,Sawai Mansingh Stadium,1,6,1,Field,6,1,Wickets,2,181,242,229,16,8,19,0
+10765,2018,2018-05-23,Jaipur,Sawai Mansingh Stadium,8,4,8,Field,4,8,Runs,47,245,259,179,6,2,12,9
+10766,2018,2018-05-24,Kolkata,Eden Gardens,2,6,2,Field,6,2,Wickets,3,238,247,229,10,1,15,7
+10767,2018,2018-05-25,Hyderabad,Rajiv Gandhi Intl. Stadium,4,7,7,Field,7,4,Wickets,6,181,201,252,17,2,10,8
+10768,2018,2018-05-26,Dharamsala,HPCA Stadium,5,1,5,Field,1,5,Wickets,5,155,183,116,16,7,18,4
+10769,2018,2018-05-27,Pune,MCA Stadium,3,6,3,Bat,6,3,Wickets,5,173,201,232,14,4,10,9
+10770,2018,2018-05-28,Pune,MCA Stadium,1,3,3,Field,3,1,Runs,45,154,233,161,13,5,14,7
+10771,2019,2019-03-20,Pune,MCA Stadium,3,7,7,Bat,7,3,Wickets,1,131,192,258,9,3,11,2
+10772,2019,2019-03-21,Lucknow,Ekana Cricket Stadium,5,8,5,Bat,8,5,Wickets,8,118,239,283,16,3,13,10
+10773,2019,2019-03-22,Ahmedabad,Narendra Modi Stadium,1,4,1,Field,1,4,Wickets,9,135,119,115,14,8,11,3
+10774,2019,2019-03-23,Chennai,MA Chidambaram Stadium,5,7,5,Bat,5,7,Wickets,3,183,176,203,16,3,19,1
+10775,2019,2019-03-24,Lucknow,Ekana Cricket Stadium,3,5,5,Bat,3,5,Runs,32,237,223,154,13,0,13,10
+10776,2019,2019-03-25,Kolkata,Eden Gardens,2,8,8,Bat,8,2,Runs,61,140,243,294,8,7,12,9
+10777,2019,2019-03-26,Pune,MCA Stadium,1,5,5,Bat,5,1,Runs,76,231,240,225,11,4,15,10
+10778,2019,2019-03-27,Kolkata,Eden Gardens,3,8,8,Field,8,3,Wickets,9,202,224,293,13,4,18,7
+10779,2019,2019-03-28,Hyderabad,Rajiv Gandhi Intl. Stadium,2,7,2,Field,2,7,Wickets,9,241,146,131,6,6,18,4
+10780,2019,2019-03-29,Kolkata,Eden Gardens,2,7,7,Field,2,7,Runs,14,200,183,135,10,8,15,1
+10781,2019,2019-03-30,Jaipur,Sawai Mansingh Stadium,5,8,5,Bat,8,5,Runs,25,158,178,297,7,5,16,7
+10782,2019,2019-03-31,Mohali,PCA Stadium,7,8,8,Bat,8,7,Wickets,5,152,183,286,16,5,19,5
+10783,2019,2019-04-01,Chennai,MA Chidambaram Stadium,8,3,3,Field,3,8,Runs,52,219,240,155,12,4,8,3
+10784,2019,2019-04-02,Jaipur,Sawai Mansingh Stadium,4,6,6,Field,6,4,Runs,42,212,230,243,16,3,20,3
+10785,2019,2019-04-03,Mohali,PCA Stadium,8,7,7,Bat,8,7,Runs,21,237,225,277,17,6,19,7
+10786,2019,2019-04-04,Mohali,PCA Stadium,4,3,3,Bat,4,3,Runs,82,254,242,190,9,1,15,2
+10787,2019,2019-04-05,Kolkata,Eden Gardens,2,3,3,Bat,2,3,Wickets,10,225,217,136,14,8,20,10
+10788,2019,2019-04-06,Dharamsala,HPCA Stadium,5,8,8,Bat,5,8,Runs,90,226,197,225,12,3,10,5
+10789,2019,2019-04-07,Dharamsala,HPCA Stadium,8,2,2,Field,2,8,Runs,87,181,201,149,5,2,9,10
+10790,2019,2019-04-08,Mohali,PCA Stadium,7,4,4,Field,7,4,Runs,66,218,216,267,18,5,20,8
+10791,2019,2019-04-09,Mumbai,Wankhede Stadium,8,3,3,Bat,8,3,Runs,72,260,236,278,14,7,17,10
+10792,2019,2019-04-10,Dharamsala,HPCA Stadium,4,7,4,Field,7,4,Wickets,8,153,189,253,7,5,15,8
+10793,2019,2019-04-11,Chennai,MA Chidambaram Stadium,7,1,1,Field,7,1,Wickets,1,201,187,255,9,3,17,10
+10794,2019,2019-04-12,Bengaluru,M. Chinnaswamy Stadium,6,5,5,Bat,5,6,Runs,25,167,183,206,6,0,16,9
+10795,2019,2019-04-13,Kolkata,Eden Gardens,1,7,1,Field,1,7,Wickets,6,168,156,110,7,6,12,3
+10796,2019,2019-04-14,Jaipur,Sawai Mansingh Stadium,4,7,7,Bat,4,7,Wickets,2,246,218,199,18,3,14,0
+10797,2019,2019-04-15,Mumbai,Wankhede Stadium,8,4,4,Bat,8,4,Wickets,10,166,149,294,16,8,9,2
+10798,2019,2019-04-16,Kolkata,Eden Gardens,4,1,1,Field,1,4,Wickets,4,138,234,112,12,4,16,1
+10799,2019,2019-04-17,Mohali,PCA Stadium,8,1,8,Field,1,8,Wickets,2,207,234,103,11,4,11,1
+10800,2019,2019-04-18,Kolkata,Eden Gardens,7,4,7,Field,4,7,Runs,19,160,165,192,7,2,19,7
+10801,2019,2019-04-19,Jaipur,Sawai Mansingh Stadium,1,8,1,Field,8,1,Wickets,3,159,189,292,7,2,13,1
+10802,2019,2019-04-20,Delhi,Arun Jaitley Stadium,3,1,1,Bat,1,3,Wickets,6,197,223,101,10,0,15,0
+10803,2019,2019-04-21,Chennai,MA Chidambaram Stadium,3,4,3,Field,3,4,Runs,13,204,162,153,11,1,9,7
+10804,2019,2019-04-22,Hyderabad,Rajiv Gandhi Intl. Stadium,8,4,4,Bat,8,4,Wickets,8,180,137,286,15,8,13,9
+10805,2019,2019-04-23,Bengaluru,M. Chinnaswamy Stadium,2,4,4,Bat,2,4,Runs,66,184,162,128,16,1,19,6
+10806,2019,2019-04-24,Dharamsala,HPCA Stadium,5,8,5,Bat,5,8,Wickets,3,192,189,223,12,8,16,9
+10807,2019,2019-04-25,Lucknow,Ekana Cricket Stadium,5,7,5,Field,7,5,Wickets,3,123,203,271,5,3,10,0
+10808,2019,2019-04-26,Chennai,MA Chidambaram Stadium,3,6,3,Bat,3,6,Wickets,6,238,228,162,8,6,15,3
+10809,2019,2019-04-27,Mohali,PCA Stadium,8,5,5,Field,8,5,Wickets,9,201,152,284,10,7,20,8
+10810,2019,2019-04-28,Jaipur,Sawai Mansingh Stadium,8,6,8,Field,6,8,Runs,47,121,244,230,6,3,15,1
+10811,2019,2019-04-29,Jaipur,Sawai Mansingh Stadium,2,5,5,Bat,5,2,Wickets,8,136,234,206,11,8,11,2
+10812,2019,2019-04-30,Ahmedabad,Narendra Modi Stadium,4,7,4,Bat,7,4,Runs,73,127,241,262,13,3,19,8
+10813,2019,2019-05-01,Ahmedabad,Narendra Modi Stadium,3,8,3,Bat,3,8,Runs,20,223,156,159,5,6,12,6
+10814,2019,2019-05-02,Mumbai,Wankhede Stadium,7,4,4,Field,7,4,Wickets,1,191,184,274,14,1,8,6
+10815,2019,2019-05-03,Pune,MCA Stadium,3,2,2,Bat,3,2,Wickets,3,222,205,169,8,3,13,1
+10816,2019,2019-05-04,Hyderabad,Rajiv Gandhi Intl. Stadium,4,3,4,Field,4,3,Runs,27,200,175,186,5,1,16,4
+10817,2019,2019-05-05,Ahmedabad,Narendra Modi Stadium,2,7,7,Bat,7,2,Wickets,2,231,234,275,16,5,12,0
+10818,2019,2019-05-06,Bengaluru,M. Chinnaswamy Stadium,7,8,8,Bat,8,7,Wickets,10,239,247,292,6,1,19,9
+10819,2019,2019-05-07,Mumbai,Wankhede Stadium,6,2,2,Field,2,6,Runs,82,186,215,134,15,8,13,6
+10820,2019,2019-05-08,Lucknow,Ekana Cricket Stadium,5,3,5,Bat,5,3,Wickets,4,241,161,219,11,4,9,7
+10821,2019,2019-05-09,Mumbai,Wankhede Stadium,7,5,5,Bat,7,5,Runs,74,178,166,269,15,6,14,0
+10822,2019,2019-05-10,Pune,MCA Stadium,6,8,8,Field,6,8,Wickets,7,179,160,231,5,5,9,4
+10823,2019,2019-05-11,Mohali,PCA Stadium,7,8,7,Field,8,7,Wickets,6,178,193,277,10,7,19,10
+10824,2019,2019-05-12,Bengaluru,M. Chinnaswamy Stadium,5,7,5,Bat,7,5,Wickets,6,242,253,262,14,8,19,3
+10825,2019,2019-05-13,Lucknow,Ekana Cricket Stadium,6,7,7,Bat,6,7,Wickets,6,242,152,250,11,3,12,7
+10826,2019,2019-05-14,Chennai,MA Chidambaram Stadium,6,3,3,Field,6,3,Runs,42,172,153,235,13,8,12,8
+10827,2019,2019-05-15,Pune,MCA Stadium,3,4,3,Bat,3,4,Runs,77,218,172,155,16,5,16,5
+10828,2019,2019-05-16,Kolkata,Eden Gardens,7,2,2,Bat,2,7,Runs,42,228,236,143,7,4,8,7
+10829,2019,2019-05-17,Bengaluru,M. Chinnaswamy Stadium,4,7,4,Bat,4,7,Wickets,4,188,180,176,18,7,15,6
+10830,2019,2019-05-18,Delhi,Arun Jaitley Stadium,4,8,4,Field,8,4,Wickets,6,225,237,283,10,8,13,1
+10831,2019,2019-05-19,Mohali,PCA Stadium,3,8,3,Bat,3,8,Wickets,9,187,163,162,16,8,11,7
+10832,2019,2019-05-20,Jaipur,Sawai Mansingh Stadium,5,8,5,Field,8,5,Wickets,10,131,148,276,13,7,16,10
+10833,2019,2019-05-21,Dharamsala,HPCA Stadium,1,3,3,Bat,1,3,Wickets,2,185,169,124,5,7,14,2
+10834,2019,2019-05-22,Lucknow,Ekana Cricket Stadium,7,2,2,Field,2,7,Wickets,4,245,250,150,13,5,8,9
+10835,2019,2019-05-23,Jaipur,Sawai Mansingh Stadium,1,6,6,Bat,1,6,Runs,68,156,154,108,14,2,10,0
+10836,2019,2019-05-24,Lucknow,Ekana Cricket Stadium,8,6,8,Field,8,6,Runs,52,214,209,288,16,7,10,5
+10837,2019,2019-05-25,Hyderabad,Rajiv Gandhi Intl. Stadium,3,1,1,Field,3,1,Wickets,5,161,152,163,8,3,13,10
+10838,2019,2019-05-26,Chennai,MA Chidambaram Stadium,2,3,3,Bat,3,2,Runs,78,130,200,154,7,0,16,0
+10839,2019,2019-05-27,Bengaluru,M. Chinnaswamy Stadium,1,3,3,Field,1,3,Wickets,2,238,232,118,8,5,9,10
+10840,2019,2019-05-28,Bengaluru,M. Chinnaswamy Stadium,3,5,5,Bat,5,3,Runs,65,228,248,202,13,1,20,4
+10841,2020,2020-03-20,Kolkata,Eden Gardens,5,1,1,Bat,5,1,Runs,64,206,191,222,13,6,20,7
+10842,2020,2020-03-21,Kolkata,Eden Gardens,2,6,2,Field,2,6,Wickets,3,240,153,138,5,5,8,7
+10843,2020,2020-03-22,Mohali,PCA Stadium,2,7,2,Field,7,2,Runs,37,149,219,275,8,4,18,6
+10844,2020,2020-03-23,Mumbai,Wankhede Stadium,7,4,4,Bat,4,7,Runs,63,197,228,195,11,4,15,4
+10845,2020,2020-03-24,Dharamsala,HPCA Stadium,1,5,1,Bat,1,5,Wickets,10,209,185,102,13,0,8,4
+10846,2020,2020-03-25,Mohali,PCA Stadium,7,2,2,Bat,2,7,Runs,66,126,159,129,12,2,11,5
+10847,2020,2020-03-26,Jaipur,Sawai Mansingh Stadium,2,6,2,Field,2,6,Runs,6,167,134,135,5,3,18,5
+10848,2020,2020-03-27,Bengaluru,M. Chinnaswamy Stadium,3,4,3,Field,4,3,Runs,20,178,207,189,15,4,11,10
+10849,2020,2020-03-28,Kolkata,Eden Gardens,5,4,5,Field,4,5,Wickets,5,239,259,176,15,6,8,7
+10850,2020,2020-03-29,Hyderabad,Rajiv Gandhi Intl. Stadium,3,6,3,Bat,3,6,Runs,21,169,151,161,7,4,18,6
+10851,2020,2020-03-30,Jaipur,Sawai Mansingh Stadium,5,8,8,Field,8,5,Runs,16,166,184,291,8,2,16,0
+10852,2020,2020-03-31,Bengaluru,M. Chinnaswamy Stadium,8,4,8,Bat,8,4,Runs,50,136,122,283,11,5,15,2
+10853,2020,2020-04-01,Lucknow,Ekana Cricket Stadium,8,5,8,Bat,8,5,Wickets,1,155,144,284,7,5,15,3
+10854,2020,2020-04-02,Bengaluru,M. Chinnaswamy Stadium,1,4,4,Bat,4,1,Runs,29,164,190,197,16,7,8,7
+10855,2020,2020-04-03,Mohali,PCA Stadium,2,7,2,Field,2,7,Runs,71,155,133,128,11,8,16,0
+10856,2020,2020-04-04,Pune,MCA Stadium,3,6,6,Field,3,6,Runs,14,174,106,163,5,0,14,9
+10857,2020,2020-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,2,7,2,Bat,2,7,Runs,84,213,177,147,14,6,15,3
+10858,2020,2020-04-06,Hyderabad,Rajiv Gandhi Intl. Stadium,8,5,5,Field,5,8,Wickets,3,207,212,210,15,2,14,4
+10859,2020,2020-04-07,Hyderabad,Rajiv Gandhi Intl. Stadium,3,8,3,Field,8,3,Runs,6,220,243,283,11,2,18,5
+10860,2020,2020-04-08,Jaipur,Sawai Mansingh Stadium,4,8,8,Field,8,4,Wickets,8,233,244,286,15,6,10,8
+10861,2020,2020-04-09,Ahmedabad,Narendra Modi Stadium,4,2,4,Bat,4,2,Wickets,8,219,200,196,9,3,14,2
+10862,2020,2020-04-10,Kolkata,Eden Gardens,8,1,1,Field,1,8,Runs,26,201,223,113,13,6,10,7
+10863,2020,2020-04-11,Bengaluru,M. Chinnaswamy Stadium,1,6,1,Field,1,6,Wickets,10,217,155,105,11,5,15,3
+10864,2020,2020-04-12,Mumbai,Wankhede Stadium,3,7,7,Field,3,7,Runs,9,120,107,152,10,1,13,5
+10865,2020,2020-04-13,Lucknow,Ekana Cricket Stadium,4,6,4,Bat,6,4,Runs,47,195,219,241,10,2,12,4
+10866,2020,2020-04-14,Ahmedabad,Narendra Modi Stadium,2,7,2,Bat,2,7,Wickets,2,219,145,143,13,7,19,4
+10867,2020,2020-04-15,Jaipur,Sawai Mansingh Stadium,4,1,4,Field,4,1,Runs,18,236,202,191,7,0,17,5
+10868,2020,2020-04-16,Mohali,PCA Stadium,8,5,8,Field,8,5,Wickets,10,201,126,287,6,2,10,9
+10869,2020,2020-04-17,Mohali,PCA Stadium,5,6,6,Bat,5,6,Runs,82,189,126,212,14,7,8,9
+10870,2020,2020-04-18,Chennai,MA Chidambaram Stadium,7,2,2,Field,7,2,Wickets,9,240,186,256,5,3,19,4
+10871,2020,2020-04-19,Pune,MCA Stadium,5,4,4,Field,5,4,Wickets,8,208,190,202,7,0,19,9
+10872,2020,2020-04-20,Chennai,MA Chidambaram Stadium,1,3,3,Bat,3,1,Wickets,7,184,201,161,10,8,20,6
+10873,2020,2020-04-21,Kolkata,Eden Gardens,7,6,6,Bat,6,7,Wickets,9,240,249,228,12,1,20,10
+10874,2020,2020-04-22,Mumbai,Wankhede Stadium,6,7,6,Bat,6,7,Runs,32,203,200,230,14,3,20,1
+10875,2020,2020-04-23,Pune,MCA Stadium,2,1,2,Field,2,1,Runs,75,232,189,147,6,1,8,2
+10876,2020,2020-04-24,Jaipur,Sawai Mansingh Stadium,4,6,4,Bat,4,6,Runs,1,174,158,177,16,1,14,5
+10877,2020,2020-04-25,Dharamsala,HPCA Stadium,4,8,4,Field,4,8,Wickets,5,224,218,192,5,1,10,3
+10878,2020,2020-04-26,Mohali,PCA Stadium,5,2,5,Bat,5,2,Runs,24,173,146,213,15,4,17,6
+10879,2020,2020-04-27,Chennai,MA Chidambaram Stadium,5,2,2,Field,2,5,Runs,68,179,204,131,6,0,9,7
+10880,2020,2020-04-28,Dharamsala,HPCA Stadium,6,8,6,Field,6,8,Wickets,1,205,186,250,10,1,17,4
+10881,2020,2020-04-29,Hyderabad,Rajiv Gandhi Intl. Stadium,6,4,4,Field,4,6,Wickets,5,195,244,199,8,3,17,2
+10882,2020,2020-04-30,Jaipur,Sawai Mansingh Stadium,1,6,6,Field,6,1,Wickets,6,233,248,230,7,6,14,0
+10883,2020,2020-05-01,Chennai,MA Chidambaram Stadium,3,7,7,Field,3,7,Wickets,6,226,149,155,14,2,11,1
+10884,2020,2020-05-02,Chennai,MA Chidambaram Stadium,1,4,4,Bat,4,1,Wickets,4,242,248,185,18,8,12,3
+10885,2020,2020-05-03,Pune,MCA Stadium,4,8,8,Field,8,4,Runs,63,130,195,279,6,5,19,7
+10886,2020,2020-05-04,Chennai,MA Chidambaram Stadium,5,2,5,Field,5,2,Wickets,8,193,145,211,15,4,18,9
+10887,2020,2020-05-05,Dharamsala,HPCA Stadium,7,5,7,Bat,5,7,Wickets,6,147,199,219,12,1,8,7
+10888,2020,2020-05-06,Pune,MCA Stadium,6,4,6,Bat,4,6,Runs,41,236,254,186,14,5,19,3
+10889,2020,2020-05-07,Hyderabad,Rajiv Gandhi Intl. Stadium,3,8,3,Bat,3,8,Wickets,10,202,185,154,11,2,17,5
+10890,2020,2020-05-08,Jaipur,Sawai Mansingh Stadium,2,5,5,Field,5,2,Runs,58,164,175,223,7,5,20,0
+10891,2020,2020-05-09,Hyderabad,Rajiv Gandhi Intl. Stadium,8,2,8,Bat,2,8,Wickets,10,152,174,136,12,5,17,8
+10892,2020,2020-05-10,Ahmedabad,Narendra Modi Stadium,4,7,4,Bat,7,4,Runs,25,244,252,263,11,0,12,4
+10893,2020,2020-05-11,Mohali,PCA Stadium,4,2,2,Bat,4,2,Wickets,2,234,142,190,15,6,16,2
+10894,2020,2020-05-12,Kolkata,Eden Gardens,8,7,7,Bat,7,8,Wickets,5,231,237,269,7,5,8,1
+10895,2020,2020-05-13,Dharamsala,HPCA Stadium,1,7,7,Field,7,1,Runs,41,211,245,251,15,6,18,5
+10896,2020,2020-05-14,Lucknow,Ekana Cricket Stadium,7,2,2,Bat,2,7,Wickets,10,125,235,127,16,2,15,1
+10897,2020,2020-05-15,Mohali,PCA Stadium,2,8,2,Bat,2,8,Runs,12,206,191,128,11,5,20,1
+10898,2020,2020-05-16,Mumbai,Wankhede Stadium,8,4,8,Field,4,8,Runs,71,168,219,181,6,4,11,3
+10899,2020,2020-05-17,Chennai,MA Chidambaram Stadium,1,6,1,Bat,1,6,Wickets,1,171,164,105,18,2,16,5
+10900,2020,2020-05-18,Pune,MCA Stadium,6,4,4,Bat,4,6,Wickets,1,221,245,178,5,3,17,0
+10901,2020,2020-05-19,Mohali,PCA Stadium,4,2,2,Bat,2,4,Runs,75,245,258,132,7,8,8,10
+10902,2020,2020-05-20,Delhi,Arun Jaitley Stadium,5,3,3,Field,5,3,Runs,78,200,155,211,9,6,9,10
+10903,2020,2020-05-21,Mumbai,Wankhede Stadium,5,4,5,Field,4,5,Runs,24,125,204,179,16,3,11,9
+10904,2020,2020-05-22,Pune,MCA Stadium,5,7,5,Field,7,5,Wickets,1,173,180,267,5,4,8,3
+10905,2020,2020-05-23,Hyderabad,Rajiv Gandhi Intl. Stadium,3,7,7,Bat,7,3,Wickets,6,215,245,266,12,8,17,4
+10906,2020,2020-05-24,Delhi,Arun Jaitley Stadium,4,1,4,Bat,4,1,Runs,2,197,182,188,16,2,9,0
+10907,2020,2020-05-25,Jaipur,Sawai Mansingh Stadium,6,2,6,Field,2,6,Runs,36,120,181,150,5,1,12,2
+10908,2020,2020-05-26,Chennai,MA Chidambaram Stadium,5,4,5,Bat,5,4,Wickets,3,143,127,224,8,7,17,8
+10909,2020,2020-05-27,Mumbai,Wankhede Stadium,5,3,5,Field,5,3,Runs,28,216,201,201,5,7,14,7
+10910,2020,2020-05-28,Dharamsala,HPCA Stadium,7,2,7,Bat,7,2,Wickets,5,237,156,259,5,4,11,3
+10911,2021,2021-03-20,Dharamsala,HPCA Stadium,8,7,8,Bat,7,8,Wickets,4,127,178,262,6,5,15,7
+10912,2021,2021-03-21,Bengaluru,M. Chinnaswamy Stadium,3,8,8,Bat,8,3,Wickets,7,217,232,287,17,4,10,10
+10913,2021,2021-03-22,Delhi,Arun Jaitley Stadium,8,6,6,Field,6,8,Runs,78,150,190,237,15,7,15,8
+10914,2021,2021-03-23,Bengaluru,M. Chinnaswamy Stadium,3,1,1,Bat,1,3,Runs,74,167,206,103,18,6,9,8
+10915,2021,2021-03-24,Pune,MCA Stadium,1,5,1,Bat,5,1,Runs,30,200,230,204,10,5,16,6
+10916,2021,2021-03-25,Pune,MCA Stadium,7,2,2,Field,7,2,Runs,82,231,144,273,17,3,19,0
+10917,2021,2021-03-26,Delhi,Arun Jaitley Stadium,2,4,2,Bat,4,2,Runs,52,168,243,196,6,3,8,0
+10918,2021,2021-03-27,Delhi,Arun Jaitley Stadium,1,3,1,Bat,1,3,Runs,9,230,135,114,10,6,8,9
+10919,2021,2021-03-28,Lucknow,Ekana Cricket Stadium,5,3,3,Field,5,3,Wickets,7,237,115,222,12,0,15,5
+10920,2021,2021-03-29,Dharamsala,HPCA Stadium,6,1,1,Field,1,6,Runs,55,204,230,101,11,0,15,1
+10921,2021,2021-03-30,Jaipur,Sawai Mansingh Stadium,8,3,8,Bat,8,3,Runs,59,201,166,295,12,0,13,4
+10922,2021,2021-03-31,Pune,MCA Stadium,8,2,2,Bat,8,2,Runs,76,249,234,278,13,2,15,4
+10923,2021,2021-04-01,Hyderabad,Rajiv Gandhi Intl. Stadium,7,8,7,Field,7,8,Wickets,3,190,146,252,9,5,14,1
+10924,2021,2021-04-02,Chennai,MA Chidambaram Stadium,3,7,3,Bat,7,3,Wickets,4,214,239,263,5,4,10,3
+10925,2021,2021-04-03,Bengaluru,M. Chinnaswamy Stadium,6,7,7,Bat,7,6,Runs,13,150,174,270,14,0,15,7
+10926,2021,2021-04-04,Hyderabad,Rajiv Gandhi Intl. Stadium,6,7,7,Bat,7,6,Runs,54,123,176,264,13,6,9,1
+10927,2021,2021-04-05,Mumbai,Wankhede Stadium,2,3,3,Field,3,2,Runs,18,121,146,153,14,2,18,3
+10928,2021,2021-04-06,Bengaluru,M. Chinnaswamy Stadium,8,6,6,Field,6,8,Runs,85,220,238,227,8,3,10,4
+10929,2021,2021-04-07,Chennai,MA Chidambaram Stadium,3,6,6,Bat,6,3,Runs,66,143,239,247,9,8,8,4
+10930,2021,2021-04-08,Hyderabad,Rajiv Gandhi Intl. Stadium,3,8,3,Field,3,8,Runs,85,237,227,157,6,2,14,8
+10931,2021,2021-04-09,Mumbai,Wankhede Stadium,2,8,2,Bat,2,8,Wickets,9,189,168,150,11,5,11,4
+10932,2021,2021-04-10,Kolkata,Eden Gardens,7,1,1,Bat,1,7,Wickets,1,210,225,120,18,3,19,2
+10933,2021,2021-04-11,Mumbai,Wankhede Stadium,8,5,5,Bat,8,5,Wickets,8,225,112,289,6,8,9,2
+10934,2021,2021-04-12,Delhi,Arun Jaitley Stadium,1,3,3,Field,3,1,Wickets,6,198,226,166,13,7,14,9
+10935,2021,2021-04-13,Ahmedabad,Narendra Modi Stadium,3,4,4,Bat,4,3,Wickets,9,131,169,196,9,4,12,9
+10936,2021,2021-04-14,Kolkata,Eden Gardens,4,3,3,Bat,4,3,Wickets,5,259,237,189,9,4,17,6
+10937,2021,2021-04-15,Ahmedabad,Narendra Modi Stadium,4,7,4,Field,4,7,Wickets,9,197,157,190,14,8,10,1
+10938,2021,2021-04-16,Hyderabad,Rajiv Gandhi Intl. Stadium,5,6,5,Bat,6,5,Runs,83,210,223,241,16,4,17,7
+10939,2021,2021-04-17,Ahmedabad,Narendra Modi Stadium,6,2,2,Bat,2,6,Runs,49,215,218,132,17,4,15,7
+10940,2021,2021-04-18,Pune,MCA Stadium,5,8,8,Bat,8,5,Runs,55,240,256,289,11,5,9,2
+10941,2021,2021-04-19,Mumbai,Wankhede Stadium,3,1,1,Bat,3,1,Runs,36,183,137,154,16,6,11,0
+10942,2021,2021-04-20,Kolkata,Eden Gardens,1,8,1,Field,8,1,Wickets,7,174,194,295,14,4,16,5
+10943,2021,2021-04-21,Kolkata,Eden Gardens,4,2,4,Field,4,2,Runs,50,149,146,194,16,4,20,7
+10944,2021,2021-04-22,Lucknow,Ekana Cricket Stadium,2,1,2,Field,2,1,Runs,59,157,149,133,9,1,8,3
+10945,2021,2021-04-23,Mumbai,Wankhede Stadium,5,4,4,Field,5,4,Runs,13,219,218,215,7,6,17,6
+10946,2021,2021-04-24,Mohali,PCA Stadium,1,5,5,Bat,5,1,Wickets,9,197,213,217,14,6,15,9
+10947,2021,2021-04-25,Kolkata,Eden Gardens,4,3,4,Bat,3,4,Runs,52,170,185,162,11,4,11,4
+10948,2021,2021-04-26,Dharamsala,HPCA Stadium,4,8,8,Bat,4,8,Runs,58,223,204,187,10,6,8,7
+10949,2021,2021-04-27,Mohali,PCA Stadium,7,6,6,Field,7,6,Wickets,5,185,173,259,12,2,10,3
+10950,2021,2021-04-28,Mumbai,Wankhede Stadium,4,7,4,Field,7,4,Runs,30,155,175,273,13,0,12,1
+10951,2021,2021-04-29,Bengaluru,M. Chinnaswamy Stadium,5,4,5,Field,5,4,Wickets,5,219,209,206,13,1,11,1
+10952,2021,2021-04-30,Kolkata,Eden Gardens,1,5,1,Field,5,1,Wickets,3,119,155,220,16,1,9,1
+10953,2021,2021-05-01,Bengaluru,M. Chinnaswamy Stadium,5,7,5,Bat,7,5,Wickets,3,162,167,251,10,2,20,4
+10954,2021,2021-05-02,Hyderabad,Rajiv Gandhi Intl. Stadium,1,5,1,Field,1,5,Runs,7,154,138,108,18,5,17,4
+10955,2021,2021-05-03,Pune,MCA Stadium,8,2,2,Bat,8,2,Runs,21,125,122,288,7,0,12,7
+10956,2021,2021-05-04,Lucknow,Ekana Cricket Stadium,8,6,6,Field,6,8,Wickets,10,218,235,239,7,8,15,2
+10957,2021,2021-05-05,Jaipur,Sawai Mansingh Stadium,1,2,1,Field,2,1,Runs,78,212,222,137,5,5,15,3
+10958,2021,2021-05-06,Delhi,Arun Jaitley Stadium,1,2,2,Bat,2,1,Runs,84,216,221,126,8,7,12,7
+10959,2021,2021-05-07,Jaipur,Sawai Mansingh Stadium,7,4,4,Field,7,4,Wickets,3,172,167,271,6,4,13,0
+10960,2021,2021-05-08,Ahmedabad,Narendra Modi Stadium,6,4,4,Field,6,4,Wickets,6,237,115,241,6,5,13,3
+10961,2021,2021-05-09,Delhi,Arun Jaitley Stadium,5,8,5,Bat,5,8,Runs,72,130,111,217,8,8,13,0
+10962,2021,2021-05-10,Mohali,PCA Stadium,8,4,4,Field,4,8,Wickets,5,128,237,194,6,7,20,7
+10963,2021,2021-05-11,Pune,MCA Stadium,7,8,7,Bat,7,8,Wickets,6,227,173,255,7,3,9,9
+10964,2021,2021-05-12,Chennai,MA Chidambaram Stadium,7,3,3,Bat,7,3,Runs,39,168,154,269,8,6,20,2
+10965,2021,2021-05-13,Chennai,MA Chidambaram Stadium,7,5,5,Bat,7,5,Runs,21,254,228,253,8,7,10,10
+10966,2021,2021-05-14,Delhi,Arun Jaitley Stadium,8,1,8,Field,1,8,Wickets,8,199,216,105,15,8,18,4
+10967,2021,2021-05-15,Ahmedabad,Narendra Modi Stadium,4,2,4,Field,2,4,Wickets,6,191,232,149,11,0,17,4
+10968,2021,2021-05-16,Bengaluru,M. Chinnaswamy Stadium,5,1,5,Bat,5,1,Runs,60,260,243,212,11,6,14,9
+10969,2021,2021-05-17,Mohali,PCA Stadium,6,3,6,Bat,6,3,Wickets,2,229,216,239,7,6,15,0
+10970,2021,2021-05-18,Jaipur,Sawai Mansingh Stadium,6,3,6,Field,6,3,Wickets,8,222,208,233,9,3,17,2
+10971,2021,2021-05-19,Mumbai,Wankhede Stadium,6,2,2,Field,6,2,Runs,11,161,143,239,12,1,20,10
+10972,2021,2021-05-20,Delhi,Arun Jaitley Stadium,3,1,3,Field,3,1,Runs,18,208,196,172,14,1,8,2
+10973,2021,2021-05-21,Chennai,MA Chidambaram Stadium,5,3,5,Bat,5,3,Runs,79,164,148,213,18,7,9,4
+10974,2021,2021-05-22,Lucknow,Ekana Cricket Stadium,5,8,5,Field,5,8,Runs,60,181,145,221,17,8,9,7
+10975,2021,2021-05-23,Dharamsala,HPCA Stadium,4,6,6,Bat,6,4,Wickets,3,236,248,242,9,4,18,6
+10976,2021,2021-05-24,Hyderabad,Rajiv Gandhi Intl. Stadium,7,8,7,Field,8,7,Runs,31,153,155,278,5,1,10,1
+10977,2021,2021-05-25,Lucknow,Ekana Cricket Stadium,8,2,8,Bat,2,8,Wickets,6,176,228,139,11,1,18,10
+10978,2021,2021-05-26,Jaipur,Sawai Mansingh Stadium,5,6,5,Field,5,6,Wickets,3,196,193,202,5,4,14,2
+10979,2021,2021-05-27,Dharamsala,HPCA Stadium,8,4,4,Field,4,8,Runs,42,223,253,200,14,2,8,2
+10980,2021,2021-05-28,Bengaluru,M. Chinnaswamy Stadium,5,4,5,Field,4,5,Runs,6,176,236,195,12,4,11,2
+10981,2022,2022-03-20,Chennai,MA Chidambaram Stadium,7,1,7,Field,1,7,Wickets,6,141,228,125,18,8,11,3
+10982,2022,2022-03-21,Hyderabad,Rajiv Gandhi Intl. Stadium,3,6,6,Field,3,6,Wickets,1,260,242,165,5,4,13,0
+10983,2022,2022-03-22,Lucknow,Ekana Cricket Stadium,7,2,2,Field,2,7,Runs,41,172,220,134,9,0,11,10
+10984,2022,2022-03-23,Kolkata,Eden Gardens,10,5,5,Field,10,5,Runs,6,230,166,338,5,6,8,1
+10985,2022,2022-03-24,Lucknow,Ekana Cricket Stadium,5,9,9,Bat,9,5,Runs,64,169,241,322,13,4,20,1
+10986,2022,2022-03-25,Jaipur,Sawai Mansingh Stadium,4,7,7,Bat,4,7,Runs,88,210,189,183,12,0,9,2
+10987,2022,2022-03-26,Kolkata,Eden Gardens,5,3,3,Field,3,5,Runs,55,156,197,154,17,4,12,8
+10988,2022,2022-03-27,Mumbai,Wankhede Stadium,9,2,9,Bat,9,2,Runs,31,184,150,304,17,7,13,1
+10989,2022,2022-03-28,Mohali,PCA Stadium,9,10,10,Bat,10,9,Wickets,2,138,195,331,11,3,16,4
+10990,2022,2022-03-29,Ahmedabad,Narendra Modi Stadium,1,2,1,Bat,1,2,Wickets,3,257,227,125,15,5,8,5
+10991,2022,2022-03-30,Lucknow,Ekana Cricket Stadium,7,10,7,Field,7,10,Runs,25,238,122,274,8,7,16,7
+10992,2022,2022-03-31,Kolkata,Eden Gardens,7,6,6,Bat,7,6,Runs,58,196,195,272,10,5,14,0
+10993,2022,2022-04-01,Bengaluru,M. Chinnaswamy Stadium,6,8,6,Bat,6,8,Runs,76,236,231,243,13,5,9,9
+10994,2022,2022-04-02,Mumbai,Wankhede Stadium,1,6,1,Field,6,1,Wickets,1,129,181,247,7,4,14,2
+10995,2022,2022-04-03,Delhi,Arun Jaitley Stadium,5,6,6,Bat,6,5,Runs,64,191,209,226,5,4,13,2
+10996,2022,2022-04-04,Mohali,PCA Stadium,2,3,2,Field,2,3,Runs,34,196,136,131,14,3,17,1
+10997,2022,2022-04-05,Pune,MCA Stadium,4,1,1,Field,4,1,Wickets,9,191,130,188,17,0,12,6
+10998,2022,2022-04-06,Lucknow,Ekana Cricket Stadium,2,6,6,Bat,2,6,Runs,13,161,132,141,5,7,20,5
+10999,2022,2022-04-07,Mohali,PCA Stadium,7,9,7,Field,7,9,Runs,11,158,152,271,14,1,18,0
+11000,2022,2022-04-08,Pune,MCA Stadium,8,4,8,Bat,8,4,Wickets,1,184,153,291,13,3,8,6
+11001,2022,2022-04-09,Lucknow,Ekana Cricket Stadium,4,7,4,Field,7,4,Runs,52,220,229,258,14,1,19,6
+11002,2022,2022-04-10,Dharamsala,HPCA Stadium,5,8,5,Bat,8,5,Runs,33,147,152,296,14,1,18,3
+11003,2022,2022-04-11,Jaipur,Sawai Mansingh Stadium,3,1,3,Bat,3,1,Runs,88,169,160,154,14,0,18,3
+11004,2022,2022-04-12,Bengaluru,M. Chinnaswamy Stadium,2,1,1,Bat,1,2,Runs,58,152,180,112,10,6,14,10
+11005,2022,2022-04-13,Mohali,PCA Stadium,9,5,5,Bat,9,5,Runs,50,183,167,316,9,6,8,4
+11006,2022,2022-04-14,Ahmedabad,Narendra Modi Stadium,1,7,7,Bat,1,7,Runs,59,189,157,114,6,4,10,4
+11007,2022,2022-04-15,Hyderabad,Rajiv Gandhi Intl. Stadium,5,3,3,Bat,3,5,Runs,76,204,225,158,12,3,19,4
+11008,2022,2022-04-16,Bengaluru,M. Chinnaswamy Stadium,8,7,7,Bat,7,8,Runs,57,119,165,271,12,6,11,8
+11009,2022,2022-04-17,Delhi,Arun Jaitley Stadium,9,3,9,Field,3,9,Wickets,2,194,208,151,6,1,11,4
+11010,2022,2022-04-18,Mohali,PCA Stadium,5,4,5,Field,5,4,Runs,3,222,192,201,12,3,10,1
+11011,2022,2022-04-19,Lucknow,Ekana Cricket Stadium,5,7,7,Field,5,7,Wickets,10,206,129,213,12,3,11,5
+11012,2022,2022-04-20,Kolkata,Eden Gardens,1,6,6,Field,1,6,Wickets,8,225,109,123,6,1,17,2
+11013,2022,2022-04-21,Dharamsala,HPCA Stadium,4,7,4,Bat,7,4,Wickets,9,133,155,268,12,2,11,3
+11014,2022,2022-04-22,Jaipur,Sawai Mansingh Stadium,4,6,4,Bat,6,4,Runs,76,145,176,246,14,7,11,1
+11015,2022,2022-04-23,Hyderabad,Rajiv Gandhi Intl. Stadium,6,4,6,Bat,4,6,Runs,6,185,243,181,15,0,15,3
+11016,2022,2022-04-24,Jaipur,Sawai Mansingh Stadium,7,6,7,Bat,7,6,Wickets,1,204,196,275,12,8,19,2
+11017,2022,2022-04-25,Kolkata,Eden Gardens,1,2,1,Field,1,2,Runs,21,157,150,107,8,2,12,7
+11018,2022,2022-04-26,Mohali,PCA Stadium,1,8,1,Bat,1,8,Runs,27,220,215,123,6,2,15,6
+11019,2022,2022-04-27,Mumbai,Wankhede Stadium,1,3,3,Bat,1,3,Wickets,2,162,159,105,11,1,14,3
+11020,2022,2022-04-28,Jaipur,Sawai Mansingh Stadium,3,5,5,Field,3,5,Runs,58,227,218,161,9,3,19,0
+11021,2022,2022-04-29,Mumbai,Wankhede Stadium,4,7,7,Field,7,4,Runs,75,147,155,274,16,8,9,8
+11022,2022,2022-04-30,Kolkata,Eden Gardens,8,7,8,Bat,8,7,Runs,17,260,235,295,13,1,11,8
+11023,2022,2022-05-01,Ahmedabad,Narendra Modi Stadium,9,2,2,Bat,2,9,Wickets,6,149,150,127,11,7,11,2
+11024,2022,2022-05-02,Mumbai,Wankhede Stadium,4,2,4,Field,4,2,Wickets,9,228,222,197,9,5,8,0
+11025,2022,2022-05-03,Dharamsala,HPCA Stadium,1,10,1,Bat,1,10,Wickets,3,135,126,123,8,7,20,1
+11026,2022,2022-05-04,Mohali,PCA Stadium,8,9,9,Bat,8,9,Runs,46,212,134,292,15,4,20,4
+11027,2022,2022-05-05,Ahmedabad,Narendra Modi Stadium,5,3,5,Bat,3,5,Wickets,8,134,143,156,18,4,16,9
+11028,2022,2022-05-06,Chennai,MA Chidambaram Stadium,1,6,6,Field,1,6,Wickets,8,126,117,101,15,4,11,6
+11029,2022,2022-05-07,Jaipur,Sawai Mansingh Stadium,6,10,6,Field,10,6,Runs,52,146,165,339,7,4,16,3
+11030,2022,2022-05-08,Jaipur,Sawai Mansingh Stadium,6,10,6,Field,10,6,Runs,74,125,146,341,5,6,11,3
+11031,2022,2022-05-09,Mumbai,Wankhede Stadium,7,9,9,Field,7,9,Runs,17,199,173,252,6,6,12,8
+11032,2022,2022-05-10,Hyderabad,Rajiv Gandhi Intl. Stadium,2,9,2,Field,9,2,Runs,71,242,259,307,11,3,16,10
+11033,2022,2022-05-11,Dharamsala,HPCA Stadium,2,7,7,Bat,2,7,Runs,19,217,180,149,7,8,17,10
+11034,2022,2022-05-12,Dharamsala,HPCA Stadium,5,7,7,Bat,5,7,Runs,54,223,199,224,18,8,14,3
+11035,2022,2022-05-13,Delhi,Arun Jaitley Stadium,2,5,5,Bat,5,2,Runs,50,214,226,225,10,4,8,2
+11036,2022,2022-05-14,Dharamsala,HPCA Stadium,7,4,4,Field,7,4,Wickets,4,142,126,263,9,6,20,4
+11037,2022,2022-05-15,Ahmedabad,Narendra Modi Stadium,5,9,5,Bat,5,9,Wickets,4,243,237,206,18,4,13,2
+11038,2022,2022-05-16,Kolkata,Eden Gardens,8,1,1,Bat,1,8,Runs,38,167,174,125,18,5,11,8
+11039,2022,2022-05-17,Mumbai,Wankhede Stadium,5,6,5,Field,5,6,Runs,14,238,221,215,16,1,16,0
+11040,2022,2022-05-18,Bengaluru,M. Chinnaswamy Stadium,10,4,10,Bat,10,4,Wickets,4,218,187,333,5,6,8,1
+11041,2022,2022-05-19,Ahmedabad,Narendra Modi Stadium,2,9,9,Field,9,2,Runs,60,219,239,301,5,2,11,0
+11042,2022,2022-05-20,Ahmedabad,Narendra Modi Stadium,1,2,2,Field,1,2,Runs,77,190,167,113,10,7,18,7
+11043,2022,2022-05-21,Mohali,PCA Stadium,5,10,5,Field,5,10,Runs,51,203,139,202,6,4,17,1
+11044,2022,2022-05-22,Jaipur,Sawai Mansingh Stadium,2,9,9,Bat,9,2,Runs,30,237,260,301,14,2,20,6
+11045,2022,2022-05-23,Hyderabad,Rajiv Gandhi Intl. Stadium,4,3,4,Bat,4,3,Runs,31,201,190,189,6,1,12,0
+11046,2022,2022-05-24,Kolkata,Eden Gardens,5,3,3,Bat,3,5,Runs,44,241,255,164,17,0,16,1
+11047,2022,2022-05-25,Ahmedabad,Narendra Modi Stadium,2,3,3,Bat,2,3,Runs,8,210,197,138,14,1,20,0
+11048,2022,2022-05-26,Bengaluru,M. Chinnaswamy Stadium,7,3,3,Bat,3,7,Runs,13,170,199,161,10,0,14,8
+11049,2022,2022-05-27,Ahmedabad,Narendra Modi Stadium,9,3,3,Bat,3,9,Wickets,7,151,158,167,18,4,12,0
+11050,2022,2022-05-28,Delhi,Arun Jaitley Stadium,2,4,4,Bat,4,2,Runs,44,175,227,197,13,8,10,6
+11051,2023,2023-03-20,Pune,MCA Stadium,1,4,1,Field,1,4,Runs,14,243,220,123,5,0,16,5
+11052,2023,2023-03-21,Delhi,Arun Jaitley Stadium,10,2,2,Field,10,2,Runs,58,233,208,345,16,6,20,9
+11053,2023,2023-03-22,Ahmedabad,Narendra Modi Stadium,10,7,7,Field,10,7,Wickets,3,208,203,346,14,3,10,5
+11054,2023,2023-03-23,Kolkata,Eden Gardens,10,2,2,Bat,2,10,Runs,23,142,152,150,17,3,12,2
+11055,2023,2023-03-24,Jaipur,Sawai Mansingh Stadium,7,10,7,Field,7,10,Wickets,3,247,222,264,5,7,10,3
+11056,2023,2023-03-25,Ahmedabad,Narendra Modi Stadium,5,9,5,Bat,9,5,Wickets,4,150,177,310,18,0,13,6
+11057,2023,2023-03-26,Lucknow,Ekana Cricket Stadium,2,3,3,Field,2,3,Runs,52,260,244,130,11,4,9,8
+11058,2023,2023-03-27,Ahmedabad,Narendra Modi Stadium,7,10,10,Field,7,10,Runs,2,238,214,254,15,2,20,3
+11059,2023,2023-03-28,Jaipur,Sawai Mansingh Stadium,9,6,6,Bat,6,9,Runs,35,153,166,244,17,4,16,4
+11060,2023,2023-03-29,Pune,MCA Stadium,1,10,1,Field,1,10,Runs,1,226,205,113,6,0,9,6
+11061,2023,2023-03-30,Chennai,MA Chidambaram Stadium,9,4,9,Bat,9,4,Wickets,1,218,201,302,14,4,9,4
+11062,2023,2023-03-31,Pune,MCA Stadium,10,2,2,Bat,2,10,Wickets,3,165,218,146,11,2,8,5
+11063,2023,2023-04-01,Lucknow,Ekana Cricket Stadium,4,5,5,Bat,5,4,Wickets,8,187,205,206,5,7,10,6
+11064,2023,2023-04-02,Dharamsala,HPCA Stadium,7,3,7,Field,7,3,Runs,63,236,203,252,7,1,20,4
+11065,2023,2023-04-03,Hyderabad,Rajiv Gandhi Intl. Stadium,1,7,7,Bat,1,7,Runs,26,174,127,105,10,5,19,2
+11066,2023,2023-04-04,Chennai,MA Chidambaram Stadium,4,6,6,Bat,6,4,Runs,60,167,189,229,6,2,8,6
+11067,2023,2023-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,2,4,4,Bat,4,2,Runs,60,203,207,182,8,7,9,10
+11068,2023,2023-04-06,Mohali,PCA Stadium,9,5,5,Field,9,5,Runs,75,169,141,313,9,8,8,1
+11069,2023,2023-04-07,Pune,MCA Stadium,7,5,5,Bat,7,5,Wickets,4,179,131,263,12,8,9,2
+11070,2023,2023-04-08,Pune,MCA Stadium,8,10,8,Bat,8,10,Runs,21,259,230,294,13,2,9,10
+11071,2023,2023-04-09,Hyderabad,Rajiv Gandhi Intl. Stadium,4,5,5,Bat,5,4,Wickets,10,174,214,208,18,8,11,1
+11072,2023,2023-04-10,Lucknow,Ekana Cricket Stadium,9,3,3,Field,9,3,Wickets,4,230,110,316,17,8,19,10
+11073,2023,2023-04-11,Hyderabad,Rajiv Gandhi Intl. Stadium,7,10,7,Field,10,7,Runs,52,175,208,342,17,2,20,0
+11074,2023,2023-04-12,Kolkata,Eden Gardens,6,1,1,Bat,6,1,Runs,24,204,188,247,7,1,14,10
+11075,2023,2023-04-13,Lucknow,Ekana Cricket Stadium,6,1,1,Field,6,1,Wickets,7,153,123,242,15,2,9,9
+11076,2023,2023-04-14,Jaipur,Sawai Mansingh Stadium,3,6,6,Field,3,6,Wickets,4,260,244,151,7,2,8,5
+11077,2023,2023-04-15,Lucknow,Ekana Cricket Stadium,1,4,4,Field,4,1,Runs,39,201,236,193,15,1,18,1
+11078,2023,2023-04-16,Mohali,PCA Stadium,5,6,6,Field,5,6,Wickets,2,194,165,218,11,7,14,7
+11079,2023,2023-04-17,Mumbai,Wankhede Stadium,4,9,4,Bat,9,4,Wickets,7,131,223,316,14,8,15,6
+11080,2023,2023-04-18,Ahmedabad,Narendra Modi Stadium,9,3,3,Field,9,3,Runs,41,255,231,302,17,8,13,10
+11081,2023,2023-04-19,Dharamsala,HPCA Stadium,9,1,1,Bat,9,1,Wickets,1,183,112,322,18,5,20,6
+11082,2023,2023-04-20,Delhi,Arun Jaitley Stadium,7,6,6,Bat,7,6,Runs,22,220,192,262,9,4,10,8
+11083,2023,2023-04-21,Delhi,Arun Jaitley Stadium,7,8,8,Bat,7,8,Wickets,10,189,168,255,15,8,19,9
+11084,2023,2023-04-22,Bengaluru,M. Chinnaswamy Stadium,5,7,5,Bat,5,7,Wickets,7,181,125,222,15,5,10,8
+11085,2023,2023-04-23,Bengaluru,M. Chinnaswamy Stadium,6,8,6,Field,8,6,Runs,74,218,246,298,8,5,16,9
+11086,2023,2023-04-24,Chennai,MA Chidambaram Stadium,6,2,6,Bat,2,6,Wickets,6,240,249,138,18,8,13,0
+11087,2023,2023-04-25,Kolkata,Eden Gardens,10,6,6,Field,6,10,Runs,1,193,222,247,13,1,9,7
+11088,2023,2023-04-26,Kolkata,Eden Gardens,10,8,10,Bat,10,8,Wickets,10,183,114,328,18,5,11,6
+11089,2023,2023-04-27,Mohali,PCA Stadium,5,2,2,Field,2,5,Runs,42,166,173,149,7,5,17,3
+11090,2023,2023-04-28,Chennai,MA Chidambaram Stadium,7,8,7,Bat,8,7,Wickets,6,119,173,280,16,1,12,1
+11091,2023,2023-04-29,Lucknow,Ekana Cricket Stadium,1,6,1,Field,6,1,Runs,90,236,256,249,18,2,20,7
+11092,2023,2023-04-30,Bengaluru,M. Chinnaswamy Stadium,1,5,5,Bat,1,5,Wickets,7,207,189,125,11,6,8,5
+11093,2023,2023-05-01,Bengaluru,M. Chinnaswamy Stadium,10,9,9,Field,9,10,Wickets,5,150,231,323,10,8,13,10
+11094,2023,2023-05-02,Delhi,Arun Jaitley Stadium,5,9,9,Field,9,5,Wickets,10,160,233,305,9,1,9,6
+11095,2023,2023-05-03,Delhi,Arun Jaitley Stadium,6,1,6,Bat,6,1,Runs,20,210,163,244,15,3,9,3
+11096,2023,2023-05-04,Mohali,PCA Stadium,3,2,2,Field,3,2,Runs,1,230,228,167,8,6,16,2
+11097,2023,2023-05-05,Lucknow,Ekana Cricket Stadium,2,5,5,Field,5,2,Wickets,10,240,256,223,8,6,15,10
+11098,2023,2023-05-06,Ahmedabad,Narendra Modi Stadium,8,5,5,Bat,8,5,Runs,47,209,199,282,6,8,11,2
+11099,2023,2023-05-07,Lucknow,Ekana Cricket Stadium,9,2,9,Bat,9,2,Runs,26,151,106,321,9,1,8,6
+11100,2023,2023-05-08,Kolkata,Eden Gardens,1,2,1,Field,2,1,Wickets,3,233,234,143,7,7,14,8
+11101,2023,2023-05-09,Mohali,PCA Stadium,2,8,2,Bat,8,2,Wickets,8,181,197,293,15,4,15,2
+11102,2023,2023-05-10,Pune,MCA Stadium,7,3,7,Field,7,3,Runs,66,231,202,272,13,3,19,1
+11103,2023,2023-05-11,Mumbai,Wankhede Stadium,7,1,7,Field,7,1,Wickets,3,232,160,257,12,3,17,10
+11104,2023,2023-05-12,Lucknow,Ekana Cricket Stadium,10,3,10,Field,10,3,Runs,20,239,210,331,6,6,20,5
+11105,2023,2023-05-13,Mohali,PCA Stadium,10,2,2,Bat,10,2,Runs,22,208,167,344,18,8,11,5
+11106,2023,2023-05-14,Dharamsala,HPCA Stadium,9,5,5,Field,9,5,Wickets,8,241,161,306,17,6,12,3
+11107,2023,2023-05-15,Hyderabad,Rajiv Gandhi Intl. Stadium,1,6,6,Field,6,1,Runs,24,227,233,244,7,7,9,2
+11108,2023,2023-05-16,Hyderabad,Rajiv Gandhi Intl. Stadium,1,6,1,Field,6,1,Runs,28,198,217,243,13,3,10,2
+11109,2023,2023-05-17,Kolkata,Eden Gardens,1,2,1,Field,2,1,Runs,71,159,188,127,9,8,15,9
+11110,2023,2023-05-18,Mohali,PCA Stadium,8,9,9,Field,8,9,Wickets,9,186,165,293,11,0,20,0
+11111,2023,2023-05-19,Lucknow,Ekana Cricket Stadium,4,1,1,Field,4,1,Wickets,2,197,133,190,6,5,10,3
+11112,2023,2023-05-20,Mumbai,Wankhede Stadium,10,2,10,Bat,10,2,Wickets,1,192,155,341,9,8,11,0
+11113,2023,2023-05-21,Pune,MCA Stadium,10,4,10,Field,4,10,Runs,27,242,260,179,7,6,8,10
+11114,2023,2023-05-22,Dharamsala,HPCA Stadium,3,10,3,Bat,3,10,Runs,88,232,209,165,17,2,8,1
+11115,2023,2023-05-23,Bengaluru,M. Chinnaswamy Stadium,10,2,10,Bat,2,10,Wickets,2,161,165,145,16,0,15,2
+11116,2023,2023-05-24,Delhi,Arun Jaitley Stadium,6,9,9,Bat,6,9,Runs,5,228,215,236,8,8,8,10
+11117,2023,2023-05-25,Mumbai,Wankhede Stadium,3,8,8,Bat,3,8,Wickets,3,178,177,168,15,6,18,8
+11118,2023,2023-05-26,Delhi,Arun Jaitley Stadium,3,6,3,Field,3,6,Runs,77,211,137,151,18,3,19,5
+11119,2023,2023-05-27,Dharamsala,HPCA Stadium,6,7,6,Bat,6,7,Wickets,3,242,109,250,6,3,15,1
+11120,2023,2023-05-28,Mohali,PCA Stadium,3,5,3,Field,5,3,Wickets,9,214,239,205,8,0,12,1
+11121,2024,2024-03-20,Mohali,PCA Stadium,3,1,3,Field,3,1,Wickets,2,235,227,168,12,4,8,2
+11122,2024,2024-03-21,Chennai,MA Chidambaram Stadium,10,1,1,Bat,1,10,Wickets,10,220,225,105,18,4,16,10
+11123,2024,2024-03-22,Dharamsala,HPCA Stadium,2,6,6,Field,2,6,Runs,29,188,113,133,5,1,8,9
+11124,2024,2024-03-23,Lucknow,Ekana Cricket Stadium,6,7,7,Field,7,6,Wickets,5,131,199,265,14,5,13,4
+11125,2024,2024-03-24,Delhi,Arun Jaitley Stadium,7,3,7,Field,3,7,Runs,18,233,234,154,5,8,8,1
+11126,2024,2024-03-25,Kolkata,Eden Gardens,9,2,9,Bat,9,2,Wickets,9,233,220,309,17,1,15,2
+11127,2024,2024-03-26,Mumbai,Wankhede Stadium,7,9,7,Bat,7,9,Wickets,8,152,112,274,6,5,19,0
+11128,2024,2024-03-27,Kolkata,Eden Gardens,8,2,8,Bat,2,8,Wickets,2,128,223,148,8,5,9,0
+11129,2024,2024-03-28,Bengaluru,M. Chinnaswamy Stadium,5,6,6,Field,6,5,Runs,52,144,155,226,5,6,10,5
+11130,2024,2024-03-29,Delhi,Arun Jaitley Stadium,9,10,10,Field,10,9,Wickets,10,242,249,329,13,0,13,3
+11131,2024,2024-03-30,Jaipur,Sawai Mansingh Stadium,4,7,4,Field,7,4,Wickets,7,153,165,269,6,8,11,2
+11132,2024,2024-03-31,Jaipur,Sawai Mansingh Stadium,8,1,8,Bat,1,8,Wickets,7,140,184,111,15,0,20,1
+11133,2024,2024-04-01,Chennai,MA Chidambaram Stadium,2,1,1,Field,1,2,Runs,33,120,172,119,8,8,20,8
+11134,2024,2024-04-02,Bengaluru,M. Chinnaswamy Stadium,2,5,2,Field,2,5,Runs,41,190,170,145,13,0,20,9
+11135,2024,2024-04-03,Hyderabad,Rajiv Gandhi Intl. Stadium,5,8,8,Field,5,8,Runs,26,227,135,214,11,8,19,4
+11136,2024,2024-04-04,Delhi,Arun Jaitley Stadium,2,7,7,Bat,2,7,Runs,63,245,229,144,9,3,11,2
+11137,2024,2024-04-05,Hyderabad,Rajiv Gandhi Intl. Stadium,6,7,6,Bat,7,6,Runs,79,118,122,273,18,4,10,6
+11138,2024,2024-04-06,Bengaluru,M. Chinnaswamy Stadium,3,1,3,Field,3,1,Wickets,9,142,127,164,5,2,18,10
+11139,2024,2024-04-07,Lucknow,Ekana Cricket Stadium,1,5,1,Bat,1,5,Wickets,10,244,219,105,6,1,15,0
+11140,2024,2024-04-08,Delhi,Arun Jaitley Stadium,9,10,10,Bat,9,10,Wickets,5,150,146,325,6,7,13,8
+11141,2024,2024-04-09,Bengaluru,M. Chinnaswamy Stadium,9,4,4,Field,4,9,Runs,70,130,139,193,5,6,15,5
+11142,2024,2024-04-10,Lucknow,Ekana Cricket Stadium,8,2,8,Bat,2,8,Runs,39,218,243,146,15,1,10,8
+11143,2024,2024-04-11,Lucknow,Ekana Cricket Stadium,8,5,8,Field,8,5,Wickets,7,237,117,284,5,5,11,1
+11144,2024,2024-04-12,Hyderabad,Rajiv Gandhi Intl. Stadium,5,2,2,Bat,2,5,Wickets,1,178,194,135,15,8,16,3
+11145,2024,2024-04-13,Delhi,Arun Jaitley Stadium,6,7,7,Bat,7,6,Wickets,3,126,212,273,15,4,17,6
+11146,2024,2024-04-14,Hyderabad,Rajiv Gandhi Intl. Stadium,7,9,7,Field,9,7,Runs,35,245,250,303,12,0,10,8
+11147,2024,2024-04-15,Kolkata,Eden Gardens,6,2,2,Bat,6,2,Wickets,10,219,175,243,13,2,8,8
+11148,2024,2024-04-16,Bengaluru,M. Chinnaswamy Stadium,10,4,4,Field,10,4,Runs,56,222,206,330,17,8,15,9
+11149,2024,2024-04-17,Mumbai,Wankhede Stadium,10,2,2,Bat,10,2,Runs,39,169,133,344,17,3,13,10
+11150,2024,2024-04-18,Hyderabad,Rajiv Gandhi Intl. Stadium,10,3,10,Field,10,3,Runs,28,219,105,336,7,3,8,4
+11151,2024,2024-04-19,Mohali,PCA Stadium,6,9,6,Field,9,6,Runs,22,186,202,305,9,1,17,1
+11152,2024,2024-04-20,Lucknow,Ekana Cricket Stadium,7,6,7,Bat,6,7,Wickets,1,221,249,228,12,7,19,1
+11153,2024,2024-04-21,Ahmedabad,Narendra Modi Stadium,9,3,3,Bat,9,3,Wickets,8,152,129,309,6,7,12,6
+11154,2024,2024-04-22,Delhi,Arun Jaitley Stadium,9,2,9,Field,9,2,Wickets,7,260,242,308,16,6,19,9
+11155,2024,2024-04-23,Mohali,PCA Stadium,9,8,8,Field,8,9,Runs,42,181,185,297,5,1,9,9
+11156,2024,2024-04-24,Jaipur,Sawai Mansingh Stadium,3,10,3,Field,10,3,Runs,90,126,194,329,6,7,9,6
+11157,2024,2024-04-25,Jaipur,Sawai Mansingh Stadium,1,4,4,Bat,4,1,Wickets,4,147,164,194,9,5,13,9
+11158,2024,2024-04-26,Pune,MCA Stadium,1,7,7,Bat,1,7,Runs,77,192,139,110,13,4,10,0
+11159,2024,2024-04-27,Jaipur,Sawai Mansingh Stadium,5,7,7,Field,7,5,Wickets,8,127,188,264,9,2,8,4
+11160,2024,2024-04-28,Chennai,MA Chidambaram Stadium,6,7,7,Field,7,6,Wickets,9,230,255,261,8,3,20,8
+11161,2024,2024-04-29,Jaipur,Sawai Mansingh Stadium,10,1,1,Bat,10,1,Wickets,5,212,138,346,7,6,13,4
+11162,2024,2024-04-30,Chennai,MA Chidambaram Stadium,1,2,2,Field,2,1,Runs,7,223,251,131,6,2,10,4
+11163,2024,2024-05-01,Bengaluru,M. Chinnaswamy Stadium,3,8,8,Field,8,3,Wickets,7,195,208,276,6,1,10,4
+11164,2024,2024-05-02,Ahmedabad,Narendra Modi Stadium,2,10,10,Field,10,2,Runs,1,118,132,341,14,8,14,7
+11165,2024,2024-05-03,Lucknow,Ekana Cricket Stadium,8,9,8,Bat,8,9,Runs,74,248,218,276,17,4,15,2
+11166,2024,2024-05-04,Bengaluru,M. Chinnaswamy Stadium,7,5,7,Field,7,5,Runs,15,174,157,259,8,7,13,3
+11167,2024,2024-05-05,Mohali,PCA Stadium,7,6,6,Bat,6,7,Wickets,3,182,236,231,9,2,9,10
+11168,2024,2024-05-06,Chennai,MA Chidambaram Stadium,9,4,4,Field,4,9,Wickets,1,224,234,196,10,4,18,7
+11169,2024,2024-05-07,Bengaluru,M. Chinnaswamy Stadium,6,3,6,Bat,6,3,Runs,25,229,178,250,13,7,18,9
+11170,2024,2024-05-08,Delhi,Arun Jaitley Stadium,2,8,8,Field,2,8,Runs,86,236,230,126,8,8,16,6
+11171,2024,2024-05-09,Lucknow,Ekana Cricket Stadium,3,2,2,Field,3,2,Runs,9,214,168,152,9,5,19,10
+11172,2024,2024-05-10,Lucknow,Ekana Cricket Stadium,4,1,1,Bat,1,4,Runs,35,173,189,108,9,0,8,10
+11173,2024,2024-05-11,Delhi,Arun Jaitley Stadium,2,9,2,Field,9,2,Wickets,9,132,213,312,7,4,12,4
+11174,2024,2024-05-12,Mohali,PCA Stadium,6,5,5,Field,6,5,Runs,69,246,226,245,8,7,19,8
+11175,2024,2024-05-13,Hyderabad,Rajiv Gandhi Intl. Stadium,2,1,1,Bat,2,1,Runs,69,243,236,147,9,8,19,6
+11176,2024,2024-05-14,Lucknow,Ekana Cricket Stadium,10,7,10,Bat,7,10,Wickets,8,149,227,254,9,7,18,2
+11177,2024,2024-05-15,Bengaluru,M. Chinnaswamy Stadium,5,7,5,Bat,5,7,Wickets,5,183,138,207,18,8,18,3
+11178,2024,2024-05-16,Mumbai,Wankhede Stadium,10,8,10,Bat,10,8,Runs,20,242,112,338,18,2,17,3
+11179,2024,2024-05-17,Chennai,MA Chidambaram Stadium,3,9,3,Bat,3,9,Runs,16,144,108,156,8,2,8,0
+11180,2024,2024-05-18,Chennai,MA Chidambaram Stadium,2,9,9,Field,9,2,Wickets,2,122,235,321,14,8,20,10
+11181,2024,2024-05-19,Mohali,PCA Stadium,8,7,8,Bat,8,7,Wickets,4,213,128,285,5,3,16,4
+11182,2024,2024-05-20,Ahmedabad,Narendra Modi Stadium,6,4,6,Bat,4,6,Wickets,7,150,154,186,9,6,17,5
+11183,2024,2024-05-21,Bengaluru,M. Chinnaswamy Stadium,2,1,2,Bat,2,1,Wickets,7,226,199,134,10,6,15,1
+11184,2024,2024-05-22,Delhi,Arun Jaitley Stadium,6,1,6,Field,1,6,Wickets,7,138,139,121,11,5,12,1
+11185,2024,2024-05-23,Jaipur,Sawai Mansingh Stadium,2,4,4,Bat,4,2,Wickets,2,183,225,177,13,0,13,8
+11186,2024,2024-05-24,Ahmedabad,Narendra Modi Stadium,4,7,7,Bat,7,4,Runs,49,218,231,270,12,0,16,3
+11187,2024,2024-05-25,Chennai,MA Chidambaram Stadium,9,7,9,Field,7,9,Runs,47,209,214,256,10,7,9,9
+11188,2024,2024-05-26,Bengaluru,M. Chinnaswamy Stadium,8,7,8,Bat,8,7,Runs,12,225,196,290,18,8,17,8
+11189,2024,2024-05-27,Mohali,PCA Stadium,3,7,3,Field,3,7,Runs,74,150,123,165,10,5,16,5
+11190,2024,2024-05-28,Dharamsala,HPCA Stadium,2,8,8,Field,8,2,Runs,86,150,229,285,11,2,20,1
+11191,2025,2025-03-20,Jaipur,Sawai Mansingh Stadium,2,9,2,Field,2,9,Wickets,3,183,150,131,7,7,13,8
+11192,2025,2025-03-21,Bengaluru,M. Chinnaswamy Stadium,10,2,2,Bat,2,10,Wickets,5,141,193,147,9,5,15,0
+11193,2025,2025-03-22,Hyderabad,Rajiv Gandhi Intl. Stadium,6,7,6,Bat,6,7,Runs,47,115,109,249,5,1,18,6
+11194,2025,2025-03-23,Kolkata,Eden Gardens,4,6,6,Field,4,6,Wickets,3,204,176,191,7,8,10,8
+11195,2025,2025-03-24,Ahmedabad,Narendra Modi Stadium,10,6,6,Bat,10,6,Runs,63,161,146,348,9,7,11,1
+11196,2025,2025-03-25,Mumbai,Wankhede Stadium,3,7,3,Field,7,3,Runs,62,130,194,268,15,0,9,1
+11197,2025,2025-03-26,Mumbai,Wankhede Stadium,10,6,10,Bat,6,10,Runs,85,195,209,228,16,0,19,5
+11198,2025,2025-03-27,Hyderabad,Rajiv Gandhi Intl. Stadium,4,8,4,Bat,4,8,Runs,5,234,215,186,15,0,8,7
+11199,2025,2025-03-28,Bengaluru,M. Chinnaswamy Stadium,5,2,2,Field,2,5,Runs,83,234,253,143,14,3,14,5
+11200,2025,2025-03-29,Lucknow,Ekana Cricket Stadium,3,5,5,Field,3,5,Wickets,2,233,226,160,17,8,9,3
+11201,2025,2025-03-30,Ahmedabad,Narendra Modi Stadium,2,1,1,Field,2,1,Runs,46,218,161,147,7,1,15,4
+11202,2025,2025-03-31,Jaipur,Sawai Mansingh Stadium,4,6,6,Field,4,6,Wickets,3,236,208,184,13,6,8,6
+11203,2025,2025-04-01,Delhi,Arun Jaitley Stadium,8,4,8,Field,4,8,Runs,71,160,186,183,11,4,14,2
+11204,2025,2025-04-02,Delhi,Arun Jaitley Stadium,9,1,1,Field,9,1,Wickets,8,217,205,315,14,5,13,1
+11205,2025,2025-04-03,Chennai,MA Chidambaram Stadium,6,7,6,Bat,6,7,Runs,77,200,188,229,5,7,18,4
+11206,2025,2025-04-04,Ahmedabad,Narendra Modi Stadium,1,2,1,Bat,1,2,Runs,60,214,129,120,15,0,10,5
+11207,2025,2025-04-05,Chennai,MA Chidambaram Stadium,5,8,8,Bat,5,8,Runs,82,218,199,208,10,4,19,1
+11208,2025,2025-04-06,Lucknow,Ekana Cricket Stadium,3,1,3,Bat,3,1,Wickets,6,206,120,151,7,6,20,0
+11209,2025,2025-04-07,Pune,MCA Stadium,2,6,2,Field,2,6,Runs,45,238,217,145,10,0,15,4
+11210,2025,2025-04-08,Lucknow,Ekana Cricket Stadium,1,8,1,Field,1,8,Runs,60,218,195,124,14,5,18,0
+11211,2025,2025-04-09,Kolkata,Eden Gardens,4,2,4,Bat,2,4,Wickets,10,192,199,148,14,1,8,4
+11212,2025,2025-04-10,Lucknow,Ekana Cricket Stadium,6,3,6,Bat,3,6,Runs,65,187,190,168,9,1,11,10
+11213,2025,2025-04-11,Mohali,PCA Stadium,6,3,3,Field,6,3,Wickets,10,152,116,237,11,1,8,0
+11214,2025,2025-04-12,Chennai,MA Chidambaram Stadium,7,8,7,Bat,8,7,Wickets,9,133,244,288,16,7,15,4
+11215,2025,2025-04-13,Kolkata,Eden Gardens,1,4,4,Field,1,4,Runs,85,188,183,119,16,5,11,0
+11216,2025,2025-04-14,Mohali,PCA Stadium,1,7,7,Field,7,1,Runs,43,117,160,256,15,5,8,1
+11217,2025,2025-04-15,Bengaluru,M. Chinnaswamy Stadium,8,4,4,Field,4,8,Runs,51,188,203,193,9,2,17,0
+11218,2025,2025-04-16,Mumbai,Wankhede Stadium,3,10,3,Bat,10,3,Wickets,2,118,137,327,15,6,18,0
+11219,2025,2025-04-17,Bengaluru,M. Chinnaswamy Stadium,6,4,6,Field,4,6,Runs,2,144,157,188,12,3,20,2
+11220,2025,2025-04-18,Ahmedabad,Narendra Modi Stadium,10,1,1,Field,1,10,Wickets,10,230,258,119,18,2,9,2
+11221,2025,2025-04-19,Kolkata,Eden Gardens,10,7,7,Bat,7,10,Runs,30,222,248,251,16,2,15,5
+11222,2025,2025-04-20,Chennai,MA Chidambaram Stadium,6,9,6,Bat,9,6,Wickets,8,147,177,315,6,1,20,5
+11223,2025,2025-04-21,Mumbai,Wankhede Stadium,3,4,3,Bat,3,4,Wickets,3,158,122,162,13,1,16,9
+11224,2025,2025-04-22,Ahmedabad,Narendra Modi Stadium,8,1,1,Bat,1,8,Runs,15,226,244,112,10,8,16,1
+11225,2025,2025-04-23,Ahmedabad,Narendra Modi Stadium,10,6,6,Field,10,6,Runs,49,126,117,350,17,5,11,7
+11226,2025,2025-04-24,Ahmedabad,Narendra Modi Stadium,9,4,9,Field,9,4,Wickets,3,218,189,310,18,0,18,1
+11227,2025,2025-04-25,Bengaluru,M. Chinnaswamy Stadium,9,3,9,Field,9,3,Runs,7,198,180,305,15,3,10,10
+11228,2025,2025-04-26,Delhi,Arun Jaitley Stadium,3,1,1,Bat,1,3,Wickets,8,169,199,124,18,8,19,1
+11229,2025,2025-04-27,Dharamsala,HPCA Stadium,2,7,7,Bat,2,7,Runs,81,139,137,146,8,0,12,2
+11230,2025,2025-04-28,Dharamsala,HPCA Stadium,4,3,4,Field,3,4,Wickets,3,141,167,162,16,3,8,2
+11231,2025,2025-04-29,Jaipur,Sawai Mansingh Stadium,9,2,2,Field,9,2,Wickets,5,165,105,322,18,0,13,9
+11232,2025,2025-04-30,Mumbai,Wankhede Stadium,4,8,8,Field,8,4,Wickets,10,172,197,278,15,0,18,2
+11233,2025,2025-05-01,Lucknow,Ekana Cricket Stadium,10,2,2,Bat,2,10,Wickets,7,125,145,144,16,8,11,1
+11234,2025,2025-05-02,Bengaluru,M. Chinnaswamy Stadium,1,5,1,Field,1,5,Wickets,7,153,125,107,6,6,15,0
+11235,2025,2025-05-03,Hyderabad,Rajiv Gandhi Intl. Stadium,9,1,1,Field,1,9,Wickets,7,125,203,108,16,6,10,1
+11236,2025,2025-05-04,Lucknow,Ekana Cricket Stadium,10,9,9,Field,9,10,Runs,39,188,198,321,5,7,14,6
+11237,2025,2025-05-05,Delhi,Arun Jaitley Stadium,4,5,4,Bat,5,4,Wickets,1,211,226,207,7,2,14,2
+11238,2025,2025-05-06,Jaipur,Sawai Mansingh Stadium,7,2,7,Field,7,2,Wickets,4,213,192,268,16,5,12,10
+11239,2025,2025-05-07,Pune,MCA Stadium,3,2,3,Field,3,2,Wickets,3,214,184,173,6,6,12,3
+11240,2025,2025-05-08,Bengaluru,M. Chinnaswamy Stadium,4,9,9,Bat,4,9,Wickets,8,208,119,187,13,3,11,3
+11241,2025,2025-05-09,Pune,MCA Stadium,5,4,5,Bat,5,4,Runs,47,242,208,201,10,4,13,7
+11242,2025,2025-05-10,Dharamsala,HPCA Stadium,7,5,5,Field,5,7,Wickets,10,183,190,207,10,3,14,5
+11243,2025,2025-05-11,Jaipur,Sawai Mansingh Stadium,10,8,8,Field,8,10,Wickets,2,168,176,280,6,2,13,4
+11244,2025,2025-05-12,Bengaluru,M. Chinnaswamy Stadium,6,1,6,Field,1,6,Runs,44,217,228,112,14,6,14,4
+11245,2025,2025-05-13,Bengaluru,M. Chinnaswamy Stadium,8,3,8,Bat,8,3,Wickets,5,224,199,298,14,1,12,2
+11246,2025,2025-05-14,Bengaluru,M. Chinnaswamy Stadium,7,2,2,Bat,2,7,Runs,32,221,231,150,10,4,11,0
+11247,2025,2025-05-15,Chennai,MA Chidambaram Stadium,8,7,8,Field,8,7,Runs,88,260,241,297,16,1,15,8
+11248,2025,2025-05-16,Hyderabad,Rajiv Gandhi Intl. Stadium,6,3,6,Bat,6,3,Wickets,9,187,176,231,8,5,18,4
+11249,2025,2025-05-17,Mumbai,Wankhede Stadium,3,7,7,Field,7,3,Wickets,1,242,260,256,18,0,19,8
+11250,2025,2025-05-18,Bengaluru,M. Chinnaswamy Stadium,7,6,7,Bat,6,7,Wickets,8,225,247,236,11,3,11,7
+11251,2025,2025-05-19,Hyderabad,Rajiv Gandhi Intl. Stadium,1,2,2,Bat,1,2,Wickets,3,131,111,112,10,8,18,0
+11252,2025,2025-05-20,Delhi,Arun Jaitley Stadium,1,10,1,Field,1,10,Runs,9,201,186,122,18,3,9,6
+11253,2025,2025-05-21,Pune,MCA Stadium,1,5,1,Bat,1,5,Wickets,9,237,231,102,8,1,11,6
+11254,2025,2025-05-22,Lucknow,Ekana Cricket Stadium,10,6,6,Bat,6,10,Runs,4,162,229,233,10,2,19,5
+11255,2025,2025-05-23,Pune,MCA Stadium,10,6,10,Bat,10,6,Runs,20,228,163,348,14,3,16,9
+11256,2025,2025-05-24,Mohali,PCA Stadium,10,3,10,Field,3,10,Wickets,4,172,180,164,11,1,16,5
+11257,2025,2025-05-25,Ahmedabad,Narendra Modi Stadium,1,8,8,Bat,1,8,Wickets,1,224,204,116,17,1,20,8
+11258,2025,2025-05-26,Mumbai,Wankhede Stadium,3,4,4,Bat,3,4,Runs,63,210,206,162,15,8,11,8
+11259,2025,2025-05-27,Delhi,Arun Jaitley Stadium,9,3,9,Field,3,9,Wickets,9,218,227,157,10,7,20,4
+11260,2025,2025-05-28,Dharamsala,HPCA Stadium,3,10,3,Bat,3,10,Runs,21,245,109,171,6,4,12,2
+11261,2026,2026-03-20,Chennai,MA Chidambaram Stadium,6,9,6,Bat,6,9,Wickets,7,211,151,245,10,3,13,10
+11262,2026,2026-03-21,Mumbai,Wankhede Stadium,1,7,1,Field,1,7,Runs,83,187,174,122,17,7,12,1
+11263,2026,2026-03-22,Pune,MCA Stadium,4,1,1,Field,4,1,Wickets,2,197,143,176,15,1,11,6
+11264,2026,2026-03-23,Dharamsala,HPCA Stadium,3,7,3,Field,7,3,Runs,74,236,249,253,10,4,20,7
+11265,2026,2026-03-24,Pune,MCA Stadium,1,6,6,Field,1,6,Runs,81,202,199,114,16,4,9,1
+11266,2026,2026-03-25,Pune,MCA Stadium,10,6,6,Field,6,10,Runs,73,138,201,244,8,5,15,8
+11267,2026,2026-03-26,Chennai,MA Chidambaram Stadium,8,6,8,Bat,6,8,Runs,18,179,193,231,15,0,9,9
+11268,2026,2026-03-27,Kolkata,Eden Gardens,8,2,8,Bat,8,2,Wickets,2,244,215,295,11,7,16,9
+11269,2026,2026-03-28,Jaipur,Sawai Mansingh Stadium,8,7,8,Field,8,7,Runs,22,240,228,283,6,2,10,7
+11270,2026,2026-03-29,Kolkata,Eden Gardens,7,1,1,Field,1,7,Wickets,6,168,184,107,6,1,18,6
+11271,2026,2026-03-30,Mumbai,Wankhede Stadium,6,5,6,Bat,5,6,Runs,30,152,158,204,14,1,13,0
+11272,2026,2026-03-31,Hyderabad,Rajiv Gandhi Intl. Stadium,6,8,8,Field,8,6,Wickets,5,116,117,276,7,6,16,7
+11273,2026,2026-04-01,Lucknow,Ekana Cricket Stadium,7,5,5,Field,5,7,Wickets,5,229,259,210,6,6,11,6
+11274,2026,2026-04-02,Jaipur,Sawai Mansingh Stadium,6,7,6,Field,7,6,Runs,3,177,195,261,16,3,15,3
+11275,2026,2026-04-03,Mumbai,Wankhede Stadium,1,7,7,Field,1,7,Wickets,8,201,196,119,16,6,11,5
+11276,2026,2026-04-04,Mohali,PCA Stadium,4,1,1,Field,4,1,Runs,48,163,146,181,12,6,18,3
+11277,2026,2026-04-05,Lucknow,Ekana Cricket Stadium,7,5,7,Bat,5,7,Wickets,9,200,205,212,9,6,18,6
+11278,2026,2026-04-06,Dharamsala,HPCA Stadium,4,5,5,Field,5,4,Runs,40,180,206,210,14,1,14,9
+11279,2026,2026-04-07,Kolkata,Eden Gardens,10,4,10,Field,4,10,Wickets,5,184,209,184,5,8,20,10
+11280,2026,2026-04-08,Jaipur,Sawai Mansingh Stadium,9,3,9,Bat,9,3,Wickets,9,251,227,307,14,8,18,8
+11281,2026,2026-04-09,Lucknow,Ekana Cricket Stadium,10,5,10,Bat,10,5,Runs,2,229,138,327,16,2,9,7
+11282,2026,2026-04-10,Pune,MCA Stadium,1,8,8,Field,8,1,Runs,37,220,231,291,17,2,20,2
+11283,2026,2026-04-11,Jaipur,Sawai Mansingh Stadium,1,4,1,Bat,4,1,Wickets,10,192,202,178,7,3,17,0
+11284,2026,2026-04-12,Dharamsala,HPCA Stadium,1,3,3,Bat,1,3,Runs,27,233,190,113,18,5,16,9
+11285,2026,2026-04-13,Jaipur,Sawai Mansingh Stadium,7,4,4,Field,4,7,Runs,72,135,160,178,9,5,16,4
+11286,2026,2026-04-14,Mumbai,Wankhede Stadium,4,5,5,Field,5,4,Runs,11,172,243,218,10,0,11,4
+11287,2026,2026-04-15,Kolkata,Eden Gardens,3,4,4,Bat,3,4,Runs,32,232,222,156,9,6,11,10
+11288,2026,2026-04-16,Dharamsala,HPCA Stadium,2,1,1,Bat,1,2,Wickets,9,216,243,101,5,8,20,10
+11289,2026,2026-04-17,Mumbai,Wankhede Stadium,6,3,3,Field,6,3,Runs,84,239,217,235,6,7,12,3
+11290,2026,2026-04-18,Ahmedabad,Narendra Modi Stadium,1,5,1,Field,1,5,Runs,30,208,117,106,7,8,17,4
+11291,2026,2026-04-19,Kolkata,Eden Gardens,7,10,10,Bat,10,7,Wickets,3,166,183,330,14,3,8,2
+11292,2026,2026-04-20,Chennai,MA Chidambaram Stadium,1,3,3,Field,1,3,Runs,27,173,110,108,8,4,14,7
+11293,2026,2026-04-21,Hyderabad,Rajiv Gandhi Intl. Stadium,8,2,8,Field,2,8,Wickets,1,224,249,141,14,5,20,5
+11294,2026,2026-04-22,Mumbai,Wankhede Stadium,4,1,4,Field,1,4,Runs,8,159,164,124,14,8,20,4
+11295,2026,2026-04-23,Chennai,MA Chidambaram Stadium,8,3,8,Bat,8,3,Wickets,3,253,243,290,6,0,9,7
+11296,2026,2026-04-24,Hyderabad,Rajiv Gandhi Intl. Stadium,3,10,3,Field,3,10,Wickets,1,220,171,172,13,7,19,1
+11297,2026,2026-04-25,Lucknow,Ekana Cricket Stadium,8,10,10,Field,10,8,Runs,80,161,172,327,11,5,18,8
+11298,2026,2026-04-26,Ahmedabad,Narendra Modi Stadium,4,9,9,Bat,9,4,Runs,44,131,151,305,10,0,20,9
+11299,2026,2026-04-27,Hyderabad,Rajiv Gandhi Intl. Stadium,6,7,7,Field,7,6,Runs,32,178,193,269,17,1,20,2
+11300,2026,2026-04-28,Hyderabad,Rajiv Gandhi Intl. Stadium,2,3,2,Bat,2,3,Runs,68,188,165,137,16,8,14,9
+11301,2026,2026-04-29,Pune,MCA Stadium,1,2,2,Bat,2,1,Wickets,1,172,184,129,14,4,19,5
+11302,2026,2026-04-30,Bengaluru,M. Chinnaswamy Stadium,3,6,3,Field,3,6,Runs,23,241,204,174,9,3,11,8
+11303,2026,2026-05-01,Bengaluru,M. Chinnaswamy Stadium,8,3,8,Bat,3,8,Wickets,3,143,201,156,11,5,18,4
+11304,2026,2026-05-02,Delhi,Arun Jaitley Stadium,10,7,10,Bat,10,7,Runs,26,190,182,340,18,0,12,8
+11305,2026,2026-05-03,Bengaluru,M. Chinnaswamy Stadium,9,8,8,Bat,8,9,Wickets,1,117,200,295,15,6,20,8
+11306,2026,2026-05-04,Lucknow,Ekana Cricket Stadium,6,2,2,Bat,2,6,Wickets,5,161,206,139,15,3,10,9
+11307,2026,2026-05-05,Hyderabad,Rajiv Gandhi Intl. Stadium,6,7,6,Field,6,7,Wickets,8,196,148,231,10,2,8,6
+11308,2026,2026-05-06,Pune,MCA Stadium,2,7,7,Bat,2,7,Runs,4,209,145,130,14,4,9,1
+11309,2026,2026-05-07,Pune,MCA Stadium,6,7,6,Bat,6,7,Wickets,6,217,164,239,8,7,18,2
+11310,2026,2026-05-08,Mumbai,Wankhede Stadium,7,3,3,Bat,7,3,Wickets,7,200,171,270,13,0,18,10
+11311,2026,2026-05-09,Pune,MCA Stadium,9,6,9,Bat,9,6,Runs,29,125,116,309,14,8,11,2
+11312,2026,2026-05-10,Mohali,PCA Stadium,2,10,2,Bat,2,10,Runs,10,257,235,129,16,5,16,2
+11313,2026,2026-05-11,Mumbai,Wankhede Stadium,7,9,9,Field,9,7,Wickets,1,143,240,311,9,8,16,0
+11314,2026,2026-05-12,Bengaluru,M. Chinnaswamy Stadium,7,5,5,Bat,7,5,Runs,50,243,232,265,15,8,15,3
+11315,2026,2026-05-13,Dharamsala,HPCA Stadium,6,9,9,Field,9,6,Wickets,7,194,214,314,16,2,11,4
+11316,2026,2026-05-14,Kolkata,Eden Gardens,3,2,3,Field,3,2,Runs,10,161,109,160,16,1,8,4
+11317,2026,2026-05-15,Lucknow,Ekana Cricket Stadium,3,5,3,Bat,5,3,Wickets,9,143,159,220,12,2,20,6
+11318,2026,2026-05-16,Chennai,MA Chidambaram Stadium,10,5,10,Bat,10,5,Runs,71,190,161,339,11,6,8,2
+11319,2026,2026-05-17,Mohali,PCA Stadium,1,10,1,Field,1,10,Runs,70,257,244,107,18,1,8,5
+11320,2026,2026-05-18,Dharamsala,HPCA Stadium,1,6,1,Field,1,6,Runs,71,213,195,123,7,6,20,9
+11321,2026,2026-05-19,Hyderabad,Rajiv Gandhi Intl. Stadium,3,1,3,Field,1,3,Wickets,3,226,254,108,7,8,11,8
+11322,2026,2026-05-20,Ahmedabad,Narendra Modi Stadium,10,7,10,Bat,7,10,Wickets,2,201,230,271,13,6,10,6
+11323,2026,2026-05-21,Mumbai,Wankhede Stadium,8,2,8,Field,2,8,Runs,1,163,185,142,17,2,11,3
+11324,2026,2026-05-22,Dharamsala,HPCA Stadium,10,3,10,Bat,3,10,Runs,60,131,240,166,10,0,14,7
+11325,2026,2026-05-23,Bengaluru,M. Chinnaswamy Stadium,8,7,8,Bat,7,8,Wickets,10,116,242,267,6,4,11,1
+11326,2026,2026-05-24,Ahmedabad,Narendra Modi Stadium,10,3,3,Field,3,10,Runs,59,143,195,169,11,8,18,3
+11327,2026,2026-05-25,Dharamsala,HPCA Stadium,9,5,5,Field,9,5,Runs,20,215,201,312,16,6,16,6
+11328,2026,2026-05-26,Delhi,Arun Jaitley Stadium,3,6,3,Bat,6,3,Wickets,4,244,255,236,8,4,18,6
+11329,2026,2026-05-27,Pune,MCA Stadium,1,8,8,Bat,1,8,Wickets,5,236,141,125,14,6,14,9
+11330,2026,2026-05-28,Chennai,MA Chidambaram Stadium,5,2,2,Field,2,5,Runs,72,232,254,147,12,4,16,5
